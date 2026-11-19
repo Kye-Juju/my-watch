@@ -1,0 +1,601 @@
+{
+  "articles": [
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-03",
+      "occurredDate": "2026-11-02",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "critical",
+      "source": "The Edge Malaysia",
+      "summary": "Prime Minister Anwar Ibrahim told the Dewan Rakyat on 3 November that Malaysia is among possible cyberattack targets, following a special National Security Council meeting. No attackers or victims were named. Measures include tighter agency coordination and stronger protection for energy, transport, finance and food supply, plus a closed-door briefing for MPs.",
+      "title": "Malaysia a potential cyberattack target, Anwar warns",
+      "url": "https://theedgemalaysia.com/node/824308"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-06",
+      "region": "Malaysia",
+      "sector": "Telecommunications · regulator",
+      "severity": "high",
+      "source": "The Star",
+      "summary": "The communications regulator MCMC stepped up monitoring and coordination on 6 November, working with the National Security Council and NACSA after the national cyber threat level was lifted to medium. The report also notes Malaysia Airlines customer data processed through Amadeus between August 2023 and September 2026 may be affected.",
+      "title": "MCMC on higher alert",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/06/mcmc-on-higher-alert"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-10",
+      "region": "Malaysia",
+      "sector": "National security · critical infrastructure",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "NACSA's chief executive warned on 10 November that criminals increasingly target operational technology to disrupt daily life, naming healthcare, energy, water and supply chains. He described the 4 November rise to a moderate threat level as precautionary, and urged operators to isolate essential systems from external networks under the Cyber Security Act 2024.",
+      "title": "Cyber threats to Malaysia now extend beyond data theft to daily disruption, Nacsa says",
+      "url": "https://malaymail.com/news/malaysia/2026/11/10/cyber-threats-to-malaysia-now-extend-beyond-data-theft-to-daily-disruption-nacsa-says/242639"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-18",
+      "region": "Malaysia",
+      "sector": "Government · national cyber posture",
+      "severity": "medium",
+      "source": "Bernama",
+      "summary": "Communications Minister Fahmi Fadzil said on 18 November that no major threats have caused people's data to be affected or stolen, and that dark-web claims of leaked Malaysian data remain unverified by NACSA. He said some leaked data may be old, and Malaysia is accelerating its move to quantum-safe telecoms.",
+      "title": "No significant cyber threats to public data, national infrastructure detected - Fahmi",
+      "url": "https://www.bernama.com/en/general/news.php?id=2636239"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-16",
+      "occurredDate": "2026-11-12",
+      "region": "Malaysia",
+      "sector": "Healthcare · government",
+      "severity": "high",
+      "source": "Lowyat.NET",
+      "summary": "The Health Ministry said it detected unauthorised access to a support file storage and sharing platform at one facility on 12 November. Patient services continue normally and main databases were not encrypted. It blocked public access, reset passwords, mandated multi-factor authentication and is working with NACSA while monitoring its systems.",
+      "title": "MOH Confirms Cybersecurity Incident; Assures Healthcare Services Remain Unaffected",
+      "url": "https://www.lowyat.net/2026/409823/moh-cybersecurity-incident/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-07",
+      "occurredDate": "2026-11-07",
+      "region": "Malaysia",
+      "sector": "Banking",
+      "severity": "high",
+      "source": "FocusM",
+      "summary": "Bank Rakyat's corporate portal was defaced on 7 November, with a hacker alleging access to internal systems and stolen sample data. The bank only acknowledged a temporary access disruption and pointed customers to other channels. The minister later described the incident as a website defacement on a third-party-managed site. The data-theft claims remain unverified.",
+      "title": "A sign of escalating cyberattack in Malaysia after Bank Rakyat becomes latest victim of hacking?",
+      "url": "https://focusmalaysia.my/a-sign-of-escalating-cyberattack-in-malaysia-after-bank-rakyat-becomes-latest-victim-of-hacking/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-18",
+      "occurredDate": "2026-11-17",
+      "region": "Norway",
+      "sector": "Energy · critical infrastructure",
+      "severity": "critical",
+      "source": "Security Affairs",
+      "summary": "Equinor, Europe's largest gas supplier, said on 17 November that some IT systems were under attack, disrupting internal applications and reportedly email, while production was unaffected. The firm saw no sign of stolen data and no group has claimed it. Norway's security authority is offering support, with the national threat level already raised to four of five.",
+      "title": "Norwegian Gas Giant Equinor Says It's Under Cyberattack. Production Keeps Running",
+      "url": "https://securityaffairs.com/203394/hacking/norwegian-gas-giant-equinor-says-its-under-cyberattack-production-keeps-running.html"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-17",
+      "occurredDate": "2026-11-16",
+      "region": "United States",
+      "sector": "Vendor · network security (third-party access)",
+      "severity": "high",
+      "source": "Security Affairs",
+      "summary": "Infoblox confirmed on 16 November that attackers used a third-party SharePoint migration vendor's access to pull company files. Some data reportedly includes customer NIOS configuration snapshots and employee personal details. The company says its products, cloud services and software updates were not involved, and has not disclosed how many customers or staff are affected.",
+      "title": "Infoblox Confirms Supply Chain Breach After Attackers Access Sensitive Data",
+      "url": "https://securityaffairs.com/203309/data-breach/infoblox-confirms-supply-chain-breach-after-attackers-access-sensitive-data.html"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-10",
+      "occurredDate": "2026-11-06",
+      "region": "Japan",
+      "sector": "Retail · customer data",
+      "severity": "high",
+      "source": "BleepingComputer",
+      "summary": "Nitori detected an intrusion on 6 November and says the attacker may have taken up to 37.62 million records, possibly with access since mid-October. Exposed fields include names, contact details, birth dates and order information; passwords and card data were reportedly not taken. The cause, including any ransomware role, is under investigation.",
+      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+      "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-05",
+      "occurredDate": "2026-11-04",
+      "region": "United States",
+      "sector": "Local government · public services",
+      "severity": "medium",
+      "source": "The Record",
+      "summary": "The New York library system, with 66 branches serving about 2.3 million residents, said on 4-5 November that a ransomware gang encrypted its systems. Wi-Fi, public computers, checkout machines, digital media and the mobile app were disrupted while branches stayed open. No group had claimed responsibility and data theft was not confirmed.",
+      "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
+      "url": "https://therecord.media/queens-library-ransomware-causes-disruptions"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-16",
+      "occurredDate": "2026-11-01",
+      "region": "United States",
+      "sector": "Security vendor · cloud",
+      "severity": "critical",
+      "source": "SecurityWeek",
+      "summary": "Barracuda disclosed that an attacker using the AI penetration-testing framework Artex touched about ten cloud accounts in roughly 44 hours on 1-2 November, starting from an exposed access key and leaving a Kubernetes backdoor. The FBI warned that Artex lets low-skill actors run multi-target intrusions; Chinese groups have used it against over 200 organisations.",
+      "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
+      "url": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-16",
+      "region": "Australia",
+      "sector": "Retail · supply chain",
+      "severity": "high",
+      "source": "BleepingComputer",
+      "summary": "Coles Group, Australia's second-largest supermarket chain, said on 16 November it is investigating a cyber incident with outside experts and the Australian Cyber Security Centre. Stores, online shopping and Flybuys are unaffected and no data theft has been found yet, though some Liquorland click-and-collect problems were noted. No group has claimed responsibility.",
+      "title": "Australian retail giant Coles investigates cybersecurity incident",
+      "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-17",
+      "occurredDate": "2026-11-10",
+      "sector": "Cabinet · coalition politics",
+      "severity": "critical",
+      "source": "Malay Mail",
+      "summary": "Anwar said on 16 November, at the ASEAN summit in Manila, that he has not accepted DAP secretary-general Anthony Loke's 10 November resignation as transport minister and sees no urgent need to reshuffle. Loke quit after the High Court allowed Najib Razak to serve the rest of his sentence under house arrest.",
+      "title": "No reshuffle: Government stable, Cabinet working well, says Anwar",
+      "url": "https://malaymail.com/news/malaysia/2026/11/17/no-reshuffle-government-stable-cabinet-working-well-says-anwar/243532"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-18",
+      "milestones": [
+        {
+          "date": "2027-01-11",
+          "label": "Hearing of third contempt proceedings against six Negeri Sembilan nobles"
+        }
+      ],
+      "occurredDate": "2026-11-18",
+      "sector": "Constitutional · royal matters",
+      "severity": "critical",
+      "source": "Free Malaysia Today",
+      "summary": "On 18 November the Seremban High Court gave the Dewan Keadilan dan Undang and its secretary leave to start a third round of contempt proceedings against six nobles, including four disputed undangs, after finding a prima facie case. A hearing is set for 11 January. A separate committal application against the menteri besar and ten former excos was withdrawn.",
+      "title": "6 nobles face 3rd contempt proceedings over Negeri Sembilan crisis",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/18/6-nobles-face-3rd-contempt-proceedings-over-negeri-sembilan-crisis"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-04",
+      "occurredDate": "2026-11-04",
+      "sector": "Courts · royal dispute",
+      "severity": "high",
+      "source": "Free Malaysia Today",
+      "summary": "On 4 November the Court of Appeal dismissed applications by six people to stay contempt proceedings over an alleged breach of a High Court injunction in the Negeri Sembilan royal dispute. The court said committal proceedings should be heard quickly to protect the authority of the courts.",
+      "title": "Court of Appeal refuses to halt contempt proceedings in Negeri Sembilan royal dispute",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/04/court-rejects-bid-to-halt-contempt-proceedings-in-negeri-sembilan-royal-dispute"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-16",
+      "milestones": [
+        {
+          "date": "2026-12-16",
+          "label": "Federal Court hears Negeri Sembilan excos constitutional challenge"
+        }
+      ],
+      "occurredDate": "2026-11-16",
+      "sector": "Courts · constitutional challenge",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "On 16 November the High Court was told that parties to the suit by ten former Negeri Sembilan executive councillors are discussing an amicable settlement, and adjourned the matter. Their separate constitutional challenge to their removal by the Yang di-Pertuan Besar is due before the Federal Court on 16 December.",
+      "title": "Court adjourns Negeri Sembilan Exco suit as parties explore settlement",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/16/court-adjourns-negeri-sembilan-exco-suit-as-parties-explore-settlement/243472"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-16",
+      "occurredDate": "2026-11-16",
+      "sector": "Parliament · tax legislation",
+      "severity": "high",
+      "source": "Business Today",
+      "summary": "On 16 November the Dewan Rakyat received the Finance Bill 2026 and the Tax Collection, Administration and Enforcement Measures Bill 2026 for first reading. They amend several tax laws, including the Income Tax Act and Stamp Act, and the deputy finance minister said second readings would be held during this sitting.",
+      "title": "Two finance bills tabled for first reading",
+      "url": "https://www.businesstoday.com.my/2026/11/16/two-finance-bills-tabled-for-first-reading/"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-12",
+      "occurredDate": "2026-11-12",
+      "sector": "MACC · anti-corruption",
+      "severity": "medium",
+      "source": "Bernama",
+      "summary": "MACC Selangor obtained a five-day remand, to 16 November, for a former government-linked company employee suspected of receiving about RM3 million from a construction firm director in return for help securing road maintenance projects at electrical substations. The report, dated 12 November, does not say whether charges followed.",
+      "title": "Former GLC employee remanded over alleged RM3 mln bribes",
+      "url": "https://bernama.com/en/crime_courts/news.php?id=2633315"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-10-30",
+      "milestones": [
+        {
+          "date": "2026-11-26",
+          "label": "Budget 2027 committee-stage debate ends"
+        },
+        {
+          "date": "2026-12-08",
+          "label": "Dewan Rakyat sitting scheduled to end"
+        }
+      ],
+      "occurredDate": "2026-10-29",
+      "sector": "Parliament · budget",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "Budget 2027 (RM510 billion) passed the policy stage on 29 October by voice vote, after a confidence-and-supply deal with 13 opposition and independent MPs. Committee-stage debate runs 2 to 26 November, then third reading and the Dewan Negara; the sitting ends 8 December.",
+      "title": "Budget 2027 passes policy stage, committee debate from Nov 2 as govt mulls tighter GLC rules, 1MDB recovery",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/30/budget-2027-passes-policy-stage-committee-debate-from-nov-2-as-govt-mulls-tighter-glc-rules-1mdb-recovery/241207"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-14",
+      "occurredDate": "2026-11-14",
+      "sector": "Elections",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "In the 14 November Melaka state election, BN won 21 of 28 seats and PN three, giving the two coalitions 24 seats and a two-thirds majority, while Pakatan Harapan kept four. Ab Rauf Yusoh was sworn in for a second term as Chief Minister. It was the third state poll in four months where Pakatan lost ground.",
+      "title": "BN-PN sweep Melaka in 24-seat landslide, Pakatan reduced to just four urban seats",
+      "url": "https://www.malaymail.com/amp/news/malaysia/2026/11/14/bn-pn-sweep-melaka-in-24-seat-landslide-pakatan-reduced-to-just-four-urban-seats/243296"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-115731"
+      ],
+      "cvss": 9.4,
+      "date": "2026-11-17",
+      "exploited": true,
+      "fixedIn": "Upgrade to Puppet Enterprise 2026.0.1, 2025.12.1 or 2023.8.13, or Puppet Core 9.1.3 or 8.22.2.",
+      "kevAdded": "2026-11-17",
+      "kevDue": "2026-12-01",
+      "milestones": [
+        {
+          "date": "2026-12-01",
+          "label": "CISA deadline to fix Puppet Enterprise CVE-2026-115731"
+        }
+      ],
+      "occurredDate": "2026-11-03",
+      "response": [
+        {
+          "text": "Run a playbook that lists Puppet Server and Puppet Core hosts from the CMDB or asset inventory and compares their versions with the fixed builds. It posts a ticket for each vulnerable server and sends the owner a summary. Isolation of any server stays behind analyst approval.",
+          "title": "Puppet exposure triage",
+          "type": "Playbook"
+        },
+        {
+          "text": "Create an automation that lists recently signed agent certificates and unusual report submissions from the Puppet CA and server logs. Analysts get a short list of unexpected certificate names and sources to review. It is read-only and changes nothing on the server.",
+          "title": "Hunt Puppet agent certificates",
+          "type": "Automation"
+        },
+        {
+          "prompt": "Summarise CVE-2026-115731 in Puppet Enterprise and Puppet Core for a SOC lead. Using the attached server inventory, list vulnerable servers, who can reach their agent port, the fixed versions, and a prioritised patch order. Note that exploitation needs a valid agent certificate.",
+          "text": "Use the Cortex AI assistant to explain the flaw and prioritise servers for the team. The answer should tell analysts which servers to patch first and why.",
+          "title": "Summarise Puppet risk",
+          "type": "AI prompt"
+        },
+        {
+          "text": "Check the Vulnerability and Exposure Management emerging vulnerabilities view for this CVE before building anything new. It already shows which agent-covered endpoints run affected versions. Pair it with a firewall rule limiting Puppet CA signing and agent ports to managed networks.",
+          "title": "Use Emerging Vulnerabilities view",
+          "type": "Better alternative"
+        }
+      ],
+      "sector": "Configuration management · Perforce Puppet",
+      "severity": "high",
+      "source": "SecurityWeek",
+      "summary": "A deserialization flaw in report processing lets any client holding an agent certificate signed by the Puppet CA run code on the Puppet Server as the service user. Perforce patched it on 3 November; exploitation was flagged the next day and CISA listed it on 17 November, with a 1 December federal deadline.",
+      "timeline": [
+        {
+          "date": "2026-11-03",
+          "kind": "patched",
+          "label": "Perforce fixes released",
+          "source": "SecurityWeek",
+          "summary": "Perforce ships fixed Puppet Enterprise and Puppet Core builds.",
+          "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+          "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+        },
+        {
+          "date": "2026-11-04",
+          "kind": "exploited",
+          "label": "Exploitation flagged",
+          "source": "SecurityWeek",
+          "summary": "The flaw is reported as exploited in a public forum post.",
+          "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+          "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+        },
+        {
+          "date": "2026-11-17",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "CISA",
+          "summary": "CISA lists CVE-2026-115731 as exploited in the wild.",
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+          "date": "2026-12-01",
+          "kind": "due",
+          "label": "CISA remediation deadline",
+          "source": "CISA",
+          "summary": "Federal agencies must patch by this date.",
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog"
+        }
+      ],
+      "title": "Puppet Enterprise report-processing deserialization RCE (CVE-2026-115731)",
+      "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-124194"
+      ],
+      "cvss": 6.5,
+      "date": "2026-11-10",
+      "exploited": true,
+      "fixedIn": "Install the November 2026 Microsoft Outlook security update; blocking outbound SMB/NTLM to untrusted networks reduces exposure.",
+      "kevAdded": "2026-11-10",
+      "kevDue": "2026-11-24",
+      "milestones": [
+        {
+          "date": "2026-11-24",
+          "label": "CISA deadline to fix Microsoft Outlook CVE-2026-124194"
+        }
+      ],
+      "occurredDate": "2026-11-10",
+      "response": [
+        {
+          "text": "Schedule a job that runs an XQL query for Outlook processes making outbound SMB or WebDAV connections to external addresses. The results land in one incident with the user and host listed. Analysts review them before any account password reset.",
+          "title": "Scheduled NTLM egress hunt",
+          "type": "Job"
+        },
+        {
+          "text": "Build a playbook that checks Outlook patch status on agent-covered endpoints and opens tickets for unpatched hosts. For any host seen contacting an external share, it asks an analyst to approve a password reset and session revocation through the identity provider integration.",
+          "title": "Patch and credential response",
+          "type": "Playbook"
+        },
+        {
+          "text": "Blocking outbound SMB and NTLM at the firewall, and enabling the Windows policy that restricts NTLM, defeats this whole attack class without custom automation. Apply it to all user subnets first. Keep the playbook only as a detection backstop.",
+          "title": "Block outbound SMB",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Write a 120-word notice for non-technical staff explaining that a malicious Outlook message file (CVE-2026-124194) can leak sign-in credentials, that IT is rolling out the November update, and that suspicious emails with attached .msg files should be reported through the phish button.",
+          "text": "Ask the Cortex AI assistant to draft a short notice to staff and the helpdesk. It saves time and keeps the wording consistent across teams.",
+          "title": "Draft staff notice",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "Email client · Microsoft Outlook",
+      "severity": "high",
+      "source": "BleepingComputer",
+      "summary": "A crafted message file can make Outlook connect to an attacker-controlled location without the usual warning, exposing the user's NTLM credentials. Microsoft fixed it in the November Patch Tuesday of 10 November and says it was exploited. CISA added it to KEV the same day with a 24 November deadline.",
+      "timeline": [
+        {
+          "date": "2026-11-10",
+          "kind": "disclosed",
+          "label": "Microsoft advisory published",
+          "source": "BleepingComputer",
+          "summary": "Microsoft discloses the Outlook spoofing flaw as exploited.",
+          "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+        },
+        {
+          "date": "2026-11-10",
+          "kind": "patched",
+          "label": "Fix in Patch Tuesday",
+          "source": "BleepingComputer",
+          "summary": "The fix ships in the November 2026 security updates.",
+          "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+        },
+        {
+          "date": "2026-11-10",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "BleepingComputer",
+          "summary": "CISA lists the flaw among known exploited vulnerabilities.",
+          "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+        },
+        {
+          "date": "2026-11-24",
+          "kind": "due",
+          "label": "CISA remediation deadline",
+          "source": "BleepingComputer",
+          "summary": "Federal agencies must patch by this date.",
+          "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+        }
+      ],
+      "title": "Outlook message-file NTLM credential leak zero-day (CVE-2026-124194)",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-107441",
+        "CVE-2026-7273"
+      ],
+      "date": "2026-11-04",
+      "exploited": true,
+      "fixedIn": "Install the October 2026 firmware for the ten affected GS1900 models listed in Zyxel's 3 November advisory; the June firmware is not enough.",
+      "occurredDate": "2026-10-22",
+      "response": [
+        {
+          "text": "Run a playbook that pulls GS1900 switch inventory and firmware versions from the asset source or network management system. It ticket-tracks each switch still on June firmware and notifies the network team. Reboots or firmware pushes need change approval.",
+          "title": "Switch firmware compliance",
+          "type": "Playbook"
+        },
+        {
+          "text": "Add an automation that tests whether switch web management is reachable from the internet or user VLANs, using the attack surface or scanner integration. Analysts get a list of exposed switches ranked by site. Nothing is changed on the device.",
+          "title": "Check management exposure",
+          "type": "Automation"
+        },
+        {
+          "text": "Moving switch management to a dedicated out-of-band VLAN with ACLs blocks this pre-authentication attack path regardless of firmware state. Apply the ACL change first as a quick control, then patch on the normal maintenance window.",
+          "title": "Restrict management plane",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Given these GS1900 switch logs and config exports, check for signs of CVE-2026-107441 exploitation: unexpected admin accounts, config changes, new outbound connections or crashes of the web service. Rank switches by likelihood of compromise and list the evidence for each.",
+          "text": "Ask the Cortex AI assistant to turn raw switch logs into a triage view. It helps analysts decide quickly which switches may already be compromised.",
+          "title": "Switch triage summary",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "Network switch · Zyxel GS1900",
+      "severity": "critical",
+      "source": "BleepingComputer",
+      "summary": "An unauthenticated out-of-bounds write in the GS1900 web interface was used against about 996 switches in 48 countries, first blamed on a flaw patched in June. Researchers showed the exploit still worked on June firmware. Zyxel issued new firmware for ten models on 22 October and published its advisory on 3 November.",
+      "timeline": [
+        {
+          "date": "2026-08-17",
+          "kind": "exploited",
+          "label": "Exploitation first observed",
+          "source": "BleepingComputer",
+          "summary": "GreyNoise sees first exploitation by a suspected Chinese-speaking actor.",
+          "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+          "url": "https://bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches"
+        },
+        {
+          "date": "2026-09-21",
+          "kind": "kev",
+          "label": "Earlier CVE added to KEV",
+          "source": "BleepingComputer",
+          "summary": "CISA lists CVE-2026-7273; GreyNoise reports 996 compromised devices.",
+          "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+          "url": "https://bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches"
+        },
+        {
+          "date": "2026-09-28",
+          "kind": "event",
+          "label": "Binarly shows patch bypass",
+          "source": "BleepingComputer",
+          "summary": "Binarly confirms the exploit works on all June-patched firmware.",
+          "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+          "url": "https://bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches"
+        },
+        {
+          "date": "2026-10-22",
+          "kind": "patched",
+          "label": "New firmware released",
+          "source": "BleepingComputer",
+          "summary": "Zyxel ships fixes for CVE-2026-107441 on ten models.",
+          "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+          "url": "https://bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches"
+        },
+        {
+          "date": "2026-11-03",
+          "kind": "disclosed",
+          "label": "Zyxel advisory published",
+          "source": "BleepingComputer",
+          "summary": "Zyxel publishes its security advisory for the new flaw.",
+          "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+          "url": "https://bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches"
+        }
+      ],
+      "title": "Zyxel GS1900 switch pre-auth out-of-bounds write zero-day (CVE-2026-107441)",
+      "url": "https://bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-129271",
+        "CVE-2026-129272",
+        "CVE-2026-129273",
+        "CVE-2026-129274",
+        "CVE-2026-129275",
+        "CVE-2026-129276",
+        "CVE-2026-129277",
+        "CVE-2026-129278",
+        "CVE-2026-129279",
+        "CVE-2026-129280",
+        "CVE-2026-129281",
+        "CVE-2026-129282",
+        "CVE-2026-129283",
+        "CVE-2026-129284",
+        "CVE-2026-129285",
+        "CVE-2026-129286",
+        "CVE-2026-129287",
+        "CVE-2026-90436"
+      ],
+      "date": "2026-11-17",
+      "exploited": true,
+      "fixedIn": "Upgrade on-premises N-central to 2026.4 HF3 and upgrade all Agents and Probes; hosted environments are already patched.",
+      "occurredDate": "2026-11-16",
+      "response": [
+        {
+          "text": "A playbook confirms N-central server and agent versions, opens a change ticket and waits for approval before upgrading. It then verifies agents and probes report the fixed build. Analysts see any laggards in one table.",
+          "title": "N-central emergency patch",
+          "type": "Playbook"
+        },
+        {
+          "text": "An automation searches endpoint telemetry for cryptominer processes and unexpected scripts launched by the N-central agent since 12 November. Results go to the war room with hostnames. Isolation stays a manual analyst decision.",
+          "title": "Hunt for miners on managed hosts",
+          "type": "Automation"
+        },
+        {
+          "text": "Putting the N-central web and API ports behind a VPN or IP allowlist cuts off remote exploitation faster than patching alone. Keep the restriction until the HF3 upgrade is verified.",
+          "title": "Restrict N-central exposure",
+          "type": "Better alternative"
+        }
+      ],
+      "sector": "RMM platform · N-able N-central",
+      "severity": "critical",
+      "source": "SecurityWeek",
+      "summary": "N-able released N-central 2026.4 Hotfix 3 on 16 November, closing 17 flaws and blocking legacy APIs, after a proof-of-concept chain called 4EverAble2Shell appeared on 12 November and was used within hours to deploy cryptominers. A critical Apache Axis flaw is also being exploited. Agents and probes must be upgraded as well.",
+      "timeline": [
+        {
+          "date": "2026-11-12",
+          "kind": "exploited",
+          "label": "PoC published, miners deployed",
+          "source": "SecurityWeek",
+          "summary": "4EverAble2Shell proof of concept appeared on GitHub and was exploited within hours.",
+          "title": "N-able N-central: 17 flaws patched after 4EverAble2Shell exploit chain (CVE-2026-129271 to CVE-2026-129287, CVE-2026-90436)",
+          "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/"
+        },
+        {
+          "date": "2026-11-16",
+          "kind": "patched",
+          "label": "N-central 2026.4 HF3 released",
+          "source": "SecurityWeek",
+          "summary": "N-able fixed 17 flaws and permanently blocked legacy APIs.",
+          "title": "N-able N-central: 17 flaws patched after 4EverAble2Shell exploit chain (CVE-2026-129271 to CVE-2026-129287, CVE-2026-90436)",
+          "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/"
+        },
+        {
+          "date": "2026-11-17",
+          "kind": "reported",
+          "label": "Coverage of exploited chain",
+          "source": "SecurityWeek",
+          "summary": "SecurityWeek reported some flaws were already exploited.",
+          "title": "N-able N-central: 17 flaws patched after 4EverAble2Shell exploit chain (CVE-2026-129271 to CVE-2026-129287, CVE-2026-90436)",
+          "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/"
+        }
+      ],
+      "title": "N-able N-central: 17 flaws patched after 4EverAble2Shell exploit chain (CVE-2026-129271 to CVE-2026-129287, CVE-2026-90436)",
+      "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/"
+    }
+  ],
+  "generatedAt": "2026-11-18T21:08:02+08:00",
+  "scanDate": "2026-11-18",
+  "threatLevel": {
+    "level": "Medium",
+    "previous": "Low",
+    "since": "2026-11-04",
+    "source": "NACSA",
+    "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+  }
+}

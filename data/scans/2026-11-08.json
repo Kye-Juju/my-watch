@@ -1,0 +1,421 @@
+{
+  "articles": [
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-03",
+      "occurredDate": "2026-11-02",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "critical",
+      "source": "The Vibes",
+      "summary": "PM Anwar Ibrahim told the Dewan Rakyat that intelligence places Malaysia among likely cyberattack targets, citing its growth as a digital hub and its stance on Gaza, after the National Security Council met in special session on Nov 2. No attackers or targets were named. Energy, transport, finance and food supply were flagged as priority sectors, and Bank Negara will convene financial institutions.",
+      "title": "Malaysia on cyberattack radar, government steps up security measures",
+      "url": "https://www.thevibes.com/articles/news/129123/malaysia-on-cyberattack-radar-government-steps-up-security-measures"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-04",
+      "occurredDate": "2026-11-04",
+      "region": "Malaysia",
+      "sector": "Critical infrastructure",
+      "severity": "high",
+      "source": "The Star",
+      "summary": "The National Cyber Security Agency raised the National Cyber Security Threat Level from Low to Medium, effective Nov 4, a day after the Prime Minister's warning in Parliament. Operators of national critical information infrastructure were told to step up preparedness, and NACSA met sector leads to coordinate. Its NC4 centre had already issued eight alerts on vulnerabilities affecting infrastructure operators and agencies in October.",
+      "title": "Nacsa raises level of cyber security threat to medium",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-07",
+      "region": "Malaysia",
+      "sector": "Banking",
+      "severity": "high",
+      "source": "The Edge Malaysia",
+      "summary": "Bank Rakyat's third-party-managed website was hacked and defaced; the bank cut off the affected server and redirected customers to its own i-Rakyat portal. Communications Minister Fahmi Fadzil said attempts by non-state actors had caused no data theft or disruption to online banking. At the Nov 6 Cabinet meeting, the PM ordered a wider cybersecurity review of government assets, banks and GLCs.",
+      "title": "Online banking secure in Malaysia despite Bank Rakyat hacking incident — Fahmi",
+      "url": "https://theedgemalaysia.com/node/824967"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-02",
+      "region": "Malaysia",
+      "sector": "Aviation · third-party supplier",
+      "severity": "high",
+      "source": "Lowyat.NET",
+      "summary": "Malaysia Airlines warned on Nov 2 that some customer details may have been exposed in a security incident at Amadeus, the reservation technology provider it uses, covering data processed between August 2023 and September 2026. The airline said its own IT systems were not breached and found no sign that payment information was accessed. Other carriers, including Asiana Airlines, were also reported affected.",
+      "title": "Malaysia Airlines Customers May Be Affected By Amadeus Data Breach",
+      "url": "https://www.lowyat.net/2026/408920/malaysia-airlines-amadeus-data-breach/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-10-08",
+      "occurredDate": "2026-10-07",
+      "region": "Malaysia",
+      "sector": "Financial · statutory fund",
+      "severity": "critical",
+      "source": "The Star",
+      "summary": "Pilgrims fund Tabung Haji detected suspicious activity on Oct 7 and suspended its services as a precaution, lodging a police report and notifying NACSA and the Personal Data Protection Department. Core systems were restored by Oct 12 with depositors' savings confirmed safe, though some THiJARI functions stayed limited. Security experts cited the attack this week as evidence of uneven readiness across critical systems.",
+      "title": "Tabung Haji suspends services after detecting suspicious cyber activity",
+      "url": "https://thestar.com.my/tech/tech-news/2026/10/08/tabung-haji-suspends-services-after-detecting-suspicious-cyber-activity"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-07",
+      "occurredDate": "2026-11-06",
+      "sector": "Pardons & courts",
+      "severity": "critical",
+      "source": "Malay Mail",
+      "summary": "Umno paid Najib Razak’s RM50 million fine on Nov 6 under his September conditional pardon, but the AGC sought to defer his house arrest and he remains in Kajang Prison. On Nov 7 Istana Negara said the decree is clear and must be respected. The AGC denies defying it but wants a court to rule whether the payment ended the SRC sentence; the AG has sought a royal audience.",
+      "title": "AG seeks audience with King to clarify Najib's house arrest issue, says Anwar",
+      "url": "https://malaymail.com/news/malaysia/2026/11/07/ag-seeks-audience-with-king-to-clarify-najibs-house-arrest-issue-says-anwar/242375"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-04",
+      "milestones": [
+        {
+          "date": "2026-12-07",
+          "label": "High Court hears PN judicial review"
+        },
+        {
+          "date": "2027-02-22",
+          "label": "Court of Appeal hears ROS appeal"
+        }
+      ],
+      "occurredDate": "2026-11-04",
+      "sector": "Courts · political parties",
+      "severity": "high",
+      "source": "The Edge Malaysia",
+      "summary": "The Court of Appeal fixed Feb 22, 2027 to hear the Registrar of Societies' appeal against the High Court's Oct 22 stay, which keeps Perikatan Nasional legally alive while it challenges its deregistration. The stay is what allows PN to contest the Melaka election under its own logo. The High Court hears PN's judicial review of the deregistration itself on Dec 7.",
+      "title": "Appellate court sets February for ROS appeal against PN deregistration stay",
+      "url": "https://theedgemalaysia.com/node/824504"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-10-31",
+      "milestones": [
+        {
+          "date": "2026-11-10",
+          "label": "Melaka early voting"
+        },
+        {
+          "date": "2026-11-14",
+          "label": "Melaka polling day"
+        }
+      ],
+      "occurredDate": "2026-10-31",
+      "sector": "Elections",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "Nominations closed on Oct 31 with 79 candidates contesting Melaka's 28 state seats, and 687,697 voters are eligible. Campaigning runs until 11.59pm on Nov 13, with early voting on Nov 10 and polling on Nov 14. The contest takes place while Perikatan Nasional fights its deregistration in court; Barisan Nasional won 21 of the 28 seats in 2021.",
+      "title": "Nomination day is here: Melaka's 14-day campaign starts today",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/31/nomination-day-is-here-melakas-14-day-campaign-starts-today/241334"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-10-29",
+      "milestones": [
+        {
+          "date": "2026-11-26",
+          "label": "Budget 2027 committee stage ends"
+        }
+      ],
+      "occurredDate": "2026-10-29",
+      "sector": "Parliament · budget",
+      "severity": "high",
+      "source": "The Star",
+      "summary": "The RM510 billion Budget 2027 cleared the policy stage on a voice vote on Oct 29 after 75 MPs debated it over four days. Ministry-by-ministry scrutiny at committee stage is scheduled from Nov 2 to Nov 26, followed by a third reading and passage to the Dewan Negara. The government targets a fiscal deficit of 3.3% of GDP in 2027, down from 3.6% in 2026.",
+      "title": "Dewan Rakyat passes Supply Bill 2027 at policy stage",
+      "url": "https://www.thestar.com.my/news/nation/2026/10/29/dewan-rakyat-passes-supply-bill-2027-at-policy-stage"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-10-21",
+      "occurredDate": "2026-10-20",
+      "sector": "Government directive",
+      "severity": "medium",
+      "source": "The Star",
+      "summary": "Following an Oct 20 decision by the National Cyber Security Committee chaired by the PM, a government circular barred civil servants from using Waze on official duty with immediate effect, citing data security because its developer operates under Israeli law. Local app TuJu is being promoted instead. MPs have asked for the rationale, and the PM has not ruled out a wider ban.",
+      "title": "Malaysia bans civil servants from using Waze, according to a circular from the Prime Minister's Department",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/10/21/malaysia-bans-civil-servants-from-using-waze-according-to-a-circular-from-the-prime-minister039s-department"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-119977"
+      ],
+      "cvss": 8.1,
+      "date": "2026-11-03",
+      "exploited": true,
+      "fixedIn": "WordPress 7.1.4 (Oct 28), backported to maintained branches down to 4.7. Sites on 2.7 to 4.6 must upgrade.",
+      "kevAdded": "2026-11-03",
+      "kevDue": "2026-11-06",
+      "occurredDate": "2026-10-28",
+      "response": [
+        {
+          "text": "Schedule a daily job that pulls WordPress hosts and versions from your asset inventory or attack-surface data, and opens one issue per site below 7.1.4 assigned to its owner. Analysts start from a ready remediation list instead of searching for sites.",
+          "title": "Inventory exposed WordPress sites",
+          "type": "Job"
+        },
+        {
+          "text": "For each site, add a task that queries web and WAF logs for requests to wp-content/upgrade/ and checks file-integrity or EDR telemetry for wp-config.php changes since Oct 28. A hit raises the issue to critical and starts your forensic-triage sub-playbook, which CISA requires for this CVE.",
+          "title": "Hunt the upgrade window",
+          "type": "Playbook"
+        },
+        {
+          "text": "Push a WAF or NGFW rule that blocks web access to wp-content/upgrade/ on every affected site, with an analyst approval step before it runs. Then open a change task for a manual update outside the web root, because an auto-update from a vulnerable version still runs the flawed updater.",
+          "title": "Virtual patch until updated",
+          "type": "Automation"
+        }
+      ],
+      "sector": "Web CMS · WordPress",
+      "severity": "critical",
+      "source": "CISA",
+      "summary": "A race condition in the WordPress core updater lets an unauthenticated attacker overwrite wp-config.php during the short upgrade window and run code on the server. It affects versions 2.7.0 to 7.1.3 and is being exploited. CISA added it to its exploited list on Nov 3 and requires forensic triage, not only patching. The first update from a vulnerable site still runs the flawed updater.",
+      "title": "WordPress core updater race condition exploited in the wild (CVE-2026-119977)",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-19868"
+      ],
+      "date": "2026-11-06",
+      "exploited": true,
+      "fixedIn": "Firmware listed in SonicWall's PSIRT advisory. Gen 6 appliances are end-of-life and receive no fix.",
+      "kevAdded": "2026-11-06",
+      "kevDue": "2026-11-20",
+      "milestones": [
+        {
+          "date": "2026-11-20",
+          "label": "CISA deadline to fix SonicWall CVE-2026-19868"
+        }
+      ],
+      "response": [
+        {
+          "text": "Trigger on successful SonicWall SSLVPN logins and enrich the source IP with geolocation, ASN and threat-intel reputation. If no MFA event follows, or the login comes from a hosting provider or a new country, raise a high-severity issue with the user's last 7 days of VPN activity attached.",
+          "title": "Triage every SSLVPN login",
+          "type": "Playbook"
+        },
+        {
+          "text": "Run a daily job that lists SonicWall appliances with SSLVPN enabled and their firmware, keeping one issue per unpatched device with Nov 20 as its due date. Flag Gen 6 units separately as replace-only, since they no longer receive fixes.",
+          "title": "Track unpatched appliances to Nov 20",
+          "type": "Job"
+        },
+        {
+          "text": "When an analyst confirms a suspicious session, run an automation that disables the account in your identity provider, ends active SSLVPN sessions and forces a credential reset. Keep an approval step before it runs, because it locks the user out.",
+          "title": "One-click VPN containment",
+          "type": "Automation"
+        }
+      ],
+      "sector": "VPN appliance · SonicWall",
+      "severity": "critical",
+      "source": "CISA KEV via NVD",
+      "summary": "CISA added a SonicOS SSLVPN weakness, classed as reliance on single-factor authentication, to its exploited list on Nov 6. SonicWall SSLVPN access has repeatedly been the entry point for ransomware groups such as Akira, so exposed appliances deserve priority. US federal agencies must fix it by Nov 20; check SonicWall's advisory for the fixed firmware.",
+      "title": "SonicWall SonicOS SSLVPN single-factor authentication flaw exploited (CVE-2026-19868)",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-109618",
+        "CVE-2026-109619"
+      ],
+      "date": "2026-11-06",
+      "exploited": true,
+      "fixedIn": "PHP security releases published with the Oct 21 advisory.",
+      "occurredDate": "2026-10-21",
+      "response": [
+        {
+          "text": "Before building anything, search both CVEs under Vulnerability & Exposure Management, Emerging Vulnerabilities, which already lists affected assets with EPSS and KEV status. Add the same lookup as an XQL widget on the va_cves and va_endpoints datasets so the shift lead sees the count on the SOC dashboard.",
+          "title": "Start from XSIAM's Emerging Vulnerabilities view",
+          "type": "Better alternative"
+        },
+        {
+          "text": "For each affected server, run endpoint queries for new .php files in web roots since Oct 14 and for web-server processes such as php-fpm or httpd spawning shells. A hit isolates the host after analyst approval and opens an incident with the file and process tree attached.",
+          "title": "Web-shell sweep on affected hosts",
+          "type": "Playbook"
+        },
+        {
+          "prompt": "You are a SOC analyst assistant. Using the PHP2Shell details (CVE-2026-109618, CVE-2026-109619) and the host list and query results below, report: 1) internet-facing hosts still on a vulnerable PHP version, 2) any sign of exploitation in the last 14 days, with the evidence, 3) the order to patch or isolate them, and why. Use at most 8 bullets, cite issue or host IDs, and say clearly where evidence is missing.",
+          "text": "Give analysts a ready prompt for your Cortex AI assistant or approved LLM that turns the issue's findings into a decision-ready summary. Paste it in with the host list and query results.",
+          "title": "Shift-handover brief",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "Web servers · PHP",
+      "severity": "critical",
+      "source": "Help Net Security",
+      "summary": "Two flaws known as PHP2Shell let an unauthenticated attacker run code on servers with vulnerable PHP versions. PHP released fixes on Oct 21, but exploitation began several days before the patches and is still expanding, according to Help Net Security's Nov 6 roundup. Any internet-facing PHP application should be patched and checked for compromise.",
+      "title": "PHP2Shell: unauthenticated PHP remote code execution still spreading (CVE-2026-109618, CVE-2026-109619)",
+      "url": "https://www.helpnetsecurity.com/2026/11/06/november-2026-patch-tuesday-forecast/"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2024-27834"
+      ],
+      "date": "2026-11-04",
+      "exploited": true,
+      "fixedIn": "Apple's May 2024 updates (iOS and iPadOS 17.5, macOS Sonoma 14.5, Safari 17.5) and later.",
+      "kevAdded": "2026-11-04",
+      "kevDue": "2026-11-18",
+      "milestones": [
+        {
+          "date": "2026-11-18",
+          "label": "CISA deadline to fix Apple CVE-2024-27834"
+        }
+      ],
+      "response": [
+        {
+          "text": "Schedule a job that queries your MDM integration for iPhones, iPads and Macs below the May 2024 fixed versions and posts the count and owners to the SOC channel. Open one tracking issue with the Nov 18 deadline rather than an alert per device.",
+          "title": "Find outdated Apple devices",
+          "type": "Job"
+        },
+        {
+          "text": "Have an automation mark devices below the fixed versions as non-compliant in your MDM or identity provider, so conditional access blocks them from email and VPN until they update. This closes the gap faster than chasing each owner.",
+          "title": "Gate access for non-compliant devices",
+          "type": "Automation"
+        },
+        {
+          "text": "For Macs running the Cortex agent, open the CVE in XSIAM's Vulnerability Intelligence and use the issue's Work Plan, which already lists affected versions and generated remediation steps. Build a custom playbook only for devices the agent does not cover.",
+          "title": "Use the built-in work plan for managed Macs",
+          "type": "Better alternative"
+        }
+      ],
+      "sector": "Endpoints · Apple devices",
+      "severity": "high",
+      "source": "CISA KEV via NVD",
+      "summary": "A 2024 WebKit flaw that lets an attacker who can already read and write memory bypass Apple's pointer authentication is now confirmed as exploited; CISA added it on Nov 4 with a Nov 18 deadline. Devices updated since May 2024 are protected, so the exposure sits with outdated iPhones, iPads and Macs, often personal devices used for work.",
+      "title": "Apple pointer-authentication bypass added to CISA exploited list (CVE-2024-27834)",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-10-30",
+      "occurredDate": "2026-10-29",
+      "region": "Malaysia",
+      "sector": "Local government",
+      "severity": "medium",
+      "source": "Malay Mail",
+      "summary": "Eight public LED screens run by the Kluang Municipal Council in Johor were hijacked on the evening of Oct 29 to show obscene content, including at Dataran Tasik Kluang. The council switched the system off and is working with its vendor to find the entry point. Police are investigating under the Computer Crimes Act; a hacker group has claimed similar billboard hijacks abroad, though no technical link is confirmed.",
+      "title": "Kluang council shuts down LED screens after obscene video appears in suspected hack",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/30/kluang-council-shuts-down-led-screens-after-obscene-video-appears-in-suspected-hack/241279"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-10-28",
+      "milestones": [
+        {
+          "date": "2026-11-16",
+          "label": "Belgian tax filing deadline, postponed after the attack"
+        }
+      ],
+      "occurredDate": "2026-10-27",
+      "region": "Belgium",
+      "sector": "Government · tax services",
+      "severity": "critical",
+      "source": "Euronews",
+      "summary": "Belgium's Federal Public Service Finance took its MyMinfin, Tax-on-web and Biztax portals offline after detecting a cyberattack on Oct 27, days before the Oct 31 filing deadline. Officials say the attack was stopped within hours and no taxpayer data was accessed, but the services stayed down and the deadline was pushed back to Nov 16.",
+      "title": "Belgium's finance and tax agency hit by cyberattack",
+      "url": "https://www.euronews.com/2026/10/28/belgiums-finance-and-tax-agency-hit-by-cyberattack"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-10-28",
+      "occurredDate": "2026-10-26",
+      "region": "United States",
+      "sector": "Government · elections",
+      "severity": "high",
+      "source": "Al Jazeera",
+      "summary": "The US Federal Election Commission took its electronic filing system offline from late Oct 26 after an attempted breach, according to an internal email reported by Reuters. Previously filed reports stayed public, but new campaign-finance filings were delayed in the final week before the Nov 3 midterms. The FEC said a fix was being implemented and that voting was not affected.",
+      "title": "Hackers target US campaign finance system days before midterm elections",
+      "url": "https://www.aljazeera.com/amp/news/2026/10/28/hackers-target-us-campaign-finance-system-days-before-midterm-elections"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-02",
+      "region": "Belgium & Sweden",
+      "sector": "Retail · refrigeration controls (OT)",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "Overnight on Nov 1–2, attackers reached remote refrigeration controllers at Belgian supermarkets, warming fridges and freezers in 15 Carrefour stores and dozens of Delhaize stores; stores in Sweden were also hit. Carrefour called the impact very limited. The wave follows a similar October attack on hundreds of French supermarkets, and no group has been named.",
+      "title": "Cyberattack disrupts refrigerators in 15 Carrefour stores across Belgium",
+      "url": "https://www.malaymail.com/amp/news/world/2026/11/02/cyberattack-disrupts-refrigerators-in-15-carrefour-stores-across-belgium/241735"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-04",
+      "region": "France",
+      "sector": "Healthcare · blood supply (OT)",
+      "severity": "high",
+      "source": "Cyprus Mail",
+      "summary": "Attackers reached the systems controlling cold rooms at three sites of France's blood service, the EFS, through its refrigeration supplier during the night of Nov 1–2, pushing freezer temperatures up. France's health ministry said alarms caught the changes quickly and no blood products were lost. It is the latest in a wave of attacks on refrigeration controls across Europe.",
+      "title": "New cyberattack targets French blood banks, health ministry says",
+      "url": "https://cyprus-mail.com/2026/11/04/new-cyberattack-targets-french-blood-banks-health-ministry-says"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-05",
+      "occurredDate": "2026-10-30",
+      "region": "Norway",
+      "sector": "Government · aid agency",
+      "severity": "high",
+      "source": "Help Net Security",
+      "summary": "Norad, Norway's development aid agency, found on Oct 30 that attackers had logged into its Grants Portal with 27 compromised accounts. Names and email addresses of all 20,614 registered users may be exposed, and applications from three foreign organisations were stolen. Norad closed the portal and reported the breach to police, the data protection authority and the national security authority.",
+      "title": "Cyberattack on Norway's aid agency may have swept up all user data",
+      "url": "https://www.helpnetsecurity.com/?p=390470"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-10-21",
+      "region": "Japan",
+      "sector": "Law enforcement · cloud vendor",
+      "severity": "high",
+      "source": "Nippon.com",
+      "summary": "Japan's National Police Agency said personal data on about 125,000 police officers and staff may have been exposed after unauthorised access to Arcadia Inc., a cloud service provider used by police. It follows the September disclosure that a VPN flaw exposed 246,000 records on a government shared network, adding to concern over third-party access to public-sector data.",
+      "title": "Data on 125,000 Police Officers in Japan Potentially Exposed",
+      "url": "https://www.nippon.com/en/news/yjj2026102100348/"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-03",
+      "sector": "Parliament · national security",
+      "severity": "high",
+      "source": "The Star",
+      "summary": "Anwar Ibrahim proposed in the Dewan Rakyat on Nov 3 that the National Security Council director-general brief all MPs behind closed doors within a day or two, if both sides agree, on intelligence that cannot be shared in an open sitting. The offer followed his warning that Malaysia is a likely cyberattack target after the council's special meeting on Nov 2.",
+      "title": "PM proposes closed-door national security briefing for all MPs",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/03/pm-proposes-closed-door-national-security-briefing-for-all-mps"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-05",
+      "sector": "Elections",
+      "severity": "medium",
+      "source": "Malay Mail",
+      "summary": "Barisan Nasional chairman Ahmad Zahid Hamidi urged party workers on Nov 5 to avoid clashes with Perikatan Nasional, acknowledging several confrontations between supporters during the Melaka campaign. He had said on Nov 1 that BN is ready to invite PN into the state government if it wins. Pakatan Harapan is fielding 24 candidates for the 28 seats.",
+      "title": "Zahid urges respect between BN, Perikatan as Melaka campaigning intensifies",
+      "url": "https://www.malaymail.com/amp/news/malaysia/2026/11/05/zahid-urges-respect-between-bn-perikatan-as-melaka-campaigning-intensifies/242117"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-10-22",
+      "sector": "Data protection law",
+      "severity": "medium",
+      "source": "The Vibes",
+      "summary": "Civil society group Bersama urged the government on Oct 22 to extend the Personal Data Protection Act 2010 to federal and state agencies instead of banning individual apps, after civil servants were barred from Waze. It asked for the ban's risk assessment to be published, security guidelines for apps on government devices, and a review of past public-sector data breaches.",
+      "title": "Malaysia urged to close data protection gaps after Waze ban",
+      "url": "https://www.thevibes.com/articles/news/128705/malaysia-urged-to-close-data-protection-gaps-after-waze-ban"
+    }
+  ],
+  "backfilled": true,
+  "generatedAt": "2026-11-09T17:16:00+08:00",
+  "scanDate": "2026-11-08",
+  "threatLevel": {
+    "level": "Medium",
+    "previous": "Low",
+    "since": "2026-11-04",
+    "source": "NACSA",
+    "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+  }
+}

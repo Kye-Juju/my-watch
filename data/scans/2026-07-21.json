@@ -1,0 +1,70 @@
+{
+  "articles": [
+    {
+      "category": "Politics",
+      "date": "2026-07-20",
+      "source": "Malay Mail",
+      "summary": "With campaigning underway for the Aug 1 Negeri Sembilan polls, analysts are watching six pivotal seats for early signals. Caretaker Menteri Besar Aminuddin Harun has moved from Sikamat to contest Linggi against Umno, while Nilai's five-cornered race will test how vote-splitting among PH, BN, Bersatu and Berjasa candidates could swing the outcome.",
+      "title": "Six Negeri Sembilan seats that could tell the story of the election",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/20/six-negeri-sembilan-seats-that-could-tell-the-story-of-the-election/227932"
+    },
+    {
+      "category": "Politics",
+      "date": "2026-07-20",
+      "source": "Malay Mail",
+      "summary": "DAP secretary-general Anthony Loke called for candidates in the Negeri Sembilan state election to campaign on policy substance rather than personal attacks, echoing Prime Minister Anwar Ibrahim's advice to sitting ministers. The remarks come as Pakatan Harapan tries to rebuild momentum after its heavy defeat in the recent Johor state election.",
+      "title": "N9 polls: Anthony Loke urges campaign on what parties offer, not who they attack",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/20/n-sembilan-polls-anthony-loke-urges-campaign-on-what-parties-offer-not-who-they-attack/228264"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-21",
+      "source": "The Edge Malaysia",
+      "summary": "Natural Resources Minister Arthur Joseph Kurup said the National Climate Change Bill and National Climate Change Authority Bill are nearing completion and remain on track for tabling in Parliament this month. The twin bills would set up a monitoring, reporting and verification system for emissions and establish an independent body to oversee carbon pricing and compliance.",
+      "title": "Climate bills near final stages, July Parliament tabling expected — Arthur",
+      "url": "https://theedgemalaysia.com/node/802217"
+    },
+    {
+      "category": "Working Policy",
+      "date": "2026-07-21",
+      "source": "The Edge Malaysia",
+      "summary": "Following a Cabinet decision to make Socso's Lindung 24 Jam accident scheme voluntary for local employees, Malaysians can now formally exit by signing an online liability waiver. Socso reported nearly RM2 million paid out in the scheme's first month and is urging workers to stay enrolled ahead of a year-end review of the programme's sustainability.",
+      "title": "Malaysians can withdraw from Lindung 24 Jam next Monday onwards",
+      "url": "https://theedgemalaysia.com/node/810174"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-18",
+      "source": "The Star",
+      "summary": "Heavy rain triggered flash floods across Petaling Jaya, Shah Alam and other parts of the Klang Valley, with water reaching nearly two metres deep at one food court. Fire and rescue teams responded to a stranded vehicle and several fallen trees, though no casualties or evacuations were reported as floodwaters receded quickly.",
+      "title": "Klang Valley hit by flash floods after late afternoon downpour",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/18/klang-valley-hit-by-flash-floods-after-late-afternoon-downpour"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-20",
+      "source": "The Edge Malaysia",
+      "summary": "MetMalaysia warned that temperatures could reach 39-40°C in northern and central Peninsular Malaysia by early 2027 as a Super El Nino intensifies, potentially breaking the country's 1998 record of 40.1°C. The agency said rainfall could drop by 40-60% in some states, raising risks of drought, water shortages and worsened haze.",
+      "title": "'Super' El Nino to bring record temperatures in Malaysia next year, weather agency says",
+      "url": "https://theedgemalaysia.com/node/811300"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-10",
+      "source": "Digital Watch Observatory",
+      "summary": "Malaysia's National AI Office released a Public Consultation Paper on the proposed AI Governance Bill, the country's first horizontal legal framework for AI covering developers and deployers across the technology's full lifecycle. The bill is built around five principles including human dignity and accountability, with public feedback open until July 31.",
+      "title": "Malaysia launches consultations on AI Governance Bill",
+      "url": "https://dig.watch/updates/malaysia-ai-governance-bill-consultation"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-16",
+      "source": "VentureBeat",
+      "summary": "Chinese startup Moonshot AI released Kimi K3, a 2.8-trillion-parameter open-weight model that jumped to the top of a leading coding benchmark, ahead of Anthropic's and OpenAI's latest systems. The launch, priced well below rival APIs, triggered a broad selloff in AI and chip stocks as investors questioned the returns on massive US AI infrastructure spending.",
+      "title": "China's Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
+      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-us-systems"
+    }
+  ],
+  "generatedAt": "2026-07-21T22:50:34+08:00",
+  "scanDate": "2026-07-21"
+}

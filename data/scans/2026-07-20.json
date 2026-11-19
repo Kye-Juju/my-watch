@@ -1,0 +1,70 @@
+{
+  "articles": [
+    {
+      "category": "Politics",
+      "date": "2026-07-20",
+      "source": "Malay Mail",
+      "summary": "During an engagement session with Central Zone civil servants in Kajang, Prime Minister Anwar Ibrahim ordered the Chief Secretary to the Government to review promotion processes after reports that some officers wait up to eight years for advancement. Anwar also noted he had personally raised the recent civil service salary adjustment above the Public Service Department's original proposal, calling it insufficient.",
+      "title": "Anwar orders review of civil service promotions after officers wait up to eight years",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/20/anwar-orders-review-of-civil-service-promotions-after-officers-wait-up-to-eight-years/228310"
+    },
+    {
+      "category": "Politics",
+      "date": "2026-07-19",
+      "source": "Bernama",
+      "summary": "Incumbent Klawang assemblyman Datuk Bakri Sawir of Pakatan Harapan encountered his cousin, Perikatan Nasional challenger Danni Rais (son of veteran politician Rais Yatim), while both campaigned at the Kuala Klawang weekly market. The pair traded friendly banter despite competing directly, in a three-cornered Klawang race that also includes Bersatu's Muhammad Adib Musa ahead of the August 1 state election.",
+      "title": "PRN Negeri Sembilan: Cousins cross paths courting voters at Kuala Klawang market",
+      "url": "https://prn.bernama.com/n9/news.php?id=2582867"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-15",
+      "source": "Malay Mail",
+      "summary": "Johor's ongoing review of its Structure Plan 2040, due for completion by April 2027, is adopting a \"mission-oriented\" approach that sets development goals before formulating strategies. Officials cited past floods in Segamat and Batu Pahat to justify prioritising climate adaptation and disaster resilience, alongside ageing-population planning and integration of smart-city and AI technologies into the state's development framework.",
+      "title": "Johor adopts new mission-based approach for 2040 plan to drive sustainable state development",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/johor-adopts-new-mission-based-approach-for-2040-plan-to-drive-sustainable-state-development/227635"
+    },
+    {
+      "category": "Working Policy",
+      "date": "2026-07-20",
+      "source": "SAYS",
+      "summary": "Malaysia's Social Security Organisation logged 52,607 unemployment benefit applications by mid-July 2026, already about 70% of all of 2025's total, putting the country on pace for its worst retrenchment year since 2020. White-collar professionals, technicians and managers made up over half of cases, with services and manufacturing hardest-hit and Kuala Lumpur and Selangor accounting for nearly 60% of claims.",
+      "title": "Malaysia on track for worst retrenchment year since the pandemic as job losses hit 52,607 by mid-July",
+      "url": "https://says.com/my/news/2026-is-on-track-to-be-malaysias-worst-year-for-retrenchments-since-the-pandemic"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-19",
+      "source": "The Star",
+      "summary": "Alliance for a Safe Community chairman Lee Lam Thye urged Malaysia to begin early preparations for a forecast Super El Nino expected to peak between November 2026 and January 2027, warning of higher temperatures, prolonged dry spells and greater haze risk. He called for stronger water conservation, open-burning enforcement, public cooling centres and coordinated support for farmers and vulnerable groups.",
+      "title": "Malaysia urged to prepare early for expected Super El Nino",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/19/malaysia-urged-to-prepare-early-for-expected-super-el-nio"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-20",
+      "source": "Malay Mail",
+      "summary": "Following flash floods that swamped parts of Petaling Jaya on July 18, Digital Minister and Petaling Jaya MP Gobind Singh Deo ordered an urgent meeting and action plan after a local food court flooded for the third time this year. Local authorities blamed intense rainfall exceeding 60mm combined with an overwhelmed Sungai Penchala and backflow from Sungai Klang.",
+      "title": "PJ flash floods: Gobind orders urgent meeting, action plan after repeated incidents",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/20/pj-flash-floods-gobind-orders-urgent-meeting-action-plan-after-repeated-incidents/228301"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-19",
+      "source": "The Edge Malaysia",
+      "summary": "Digital Minister Gobind Singh Deo said Malaysia's National AI Office will be formally institutionalised on July 28, expanding its authority beyond MyDIGITAL Corporation to officially oversee AI policy, governance and ecosystem development nationwide. A dedicated Cyberjaya office is already drafting the country's AI Governance Framework as part of Malaysia's broader push to become an \"AI nation\" by 2030.",
+      "title": "National AI Office set to be institutionalised at end-July, says Gobind",
+      "url": "https://theedgemalaysia.com/node/806195"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-17",
+      "source": "Al Jazeera",
+      "summary": "At the World AI Conference in Shanghai, Chinese President Xi Jinping launched the World Artificial Intelligence Cooperation Organisation, a 29-member bloc including Malaysia, Indonesia, Brazil and South Africa meant to coordinate AI governance among Global South nations. China pledged 5,000 AI training opportunities for developing countries over five years, positioning Shanghai as an alternative hub to Western-led AI governance efforts.",
+      "title": "China's Xi Jinping launches new AI alliance with Malaysia among 29 founding members",
+      "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it"
+    }
+  ],
+  "generatedAt": "2026-07-30T00:00:00+08:00",
+  "scanDate": "2026-07-20"
+}

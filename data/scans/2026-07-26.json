@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+      "category": "Politics",
+      "date": "2026-07-25",
+      "source": "Free Malaysia Today",
+      "summary": "Prime Minister Anwar Ibrahim criticised Perikatan Nasional election director Muhammad Sanusi Md Nor for a Negeri Sembilan campaign speech suggesting non-Malay communities could fall back on ancestral homelands abroad. Anwar said he disagreed with any statement that insults or dismisses the contributions of any race, as the remarks drew wider condemnation ahead of the August 1 state election.",
+      "title": "Anwar slams Sanusi over remarks on loyalty of non-Malays",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/25/anwar-slams-sanusi-over-remarks-on-loyalty-of-non-malays"
+    },
+    {
+      "category": "Politics",
+      "date": "2026-07-25",
+      "source": "Free Malaysia Today",
+      "summary": "Pakatan Harapan minister Tengku Zafrul Aziz said his coalition is focusing on its own development-driven campaign message in Negeri Sembilan rather than being drawn into the racial rhetoric exchanged between Barisan Nasional and Perikatan Nasional. His comments came amid escalating coalition sniping over Sanusi's controversial rally remarks ahead of polling day.",
+      "title": "PH sticks to own agenda while BN-PN tussle on race, says Tengku Zafrul",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/25/ph-sticks-to-own-agenda-while-bn-pn-tussle-on-race-says-tengku-zafrul"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-16",
+      "source": "The Vibes",
+      "summary": "The Energy Transition and Water Transformation Ministry launched the sixth Large Scale Solar programme, targeting 2,500MW of solar capacity paired with 1,250MW of battery storage, with bidding opening in late July. Deputy Prime Minister Fadillah Yusof said all LSS6 projects must include batteries, part of a push expected to draw over RM13 billion in investment toward Malaysia's renewable energy targets.",
+      "title": "PETRA unveils LSS6 solar programme with mandatory battery storage",
+      "url": "https://www.thevibes.com/articles/news/125095/petra-unveils-lss6-solar-initiative-with-2500mw-capacity-to-boost-renewable-energy-transition"
+    },
+    {
+      "category": "Working Policy",
+      "date": "2026-07-26",
+      "source": "The Edge Malaysia",
+      "summary": "Maybank Investment Bank research found high-skilled workers, including managers and professionals, have accounted for over half of Malaysia's retrenchments since 2021 and remain the hardest-hit group in 2026. Despite nearly 39,000 layoffs between January and May, a 36% year-on-year rise, job placements still outpaced retrenchments at a 1.5-to-1 ratio, with the informal economy absorbing many displaced workers.",
+      "title": "High-skilled workers bear brunt of Malaysia's retrenchment wave, Maybank finds",
+      "url": "https://theedgemalaysia.com/node/810934"
+    },
+    {
+      "category": "Working Policy",
+      "date": "2026-07-06",
+      "source": "Malay Mail",
+      "summary": "The Human Resources Ministry (Kesuma) took over full management of foreign worker quota applications, requiring all submissions through the centralised eQuota digital platform instead of manual, case-by-case processing. Minister R. Ramanan said the reform, welcomed by manufacturers' groups, aims to cut congestion and delays at approval centres while the ministry clears a backlog of previously submitted applications.",
+      "title": "Ministry abolishes case-by-case approvals for foreign worker quotas",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/06/no-more-queues-no-more-congestion-ministry-abolishes-casebycase-approvals-for-foreign-worker-quotas/226552"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-24",
+      "source": "The Star",
+      "summary": "Prime Minister Anwar Ibrahim announced RM44.5 million in federal funding, coordinated with the Selangor government, for 30 flood mitigation projects in Petaling Jaya and Damansara, now under implementation. The allocation follows recent flash floods that hit the area and reflects mounting pressure on both federal and state governments to address recurring monsoon-season flooding in the Klang Valley.",
+      "title": "Govt allocates RM44.5mil for flood mitigation works in PJ, Damansara",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/24/govt-allocates-rm445mil-for-flood-mitigation-works-in-pj-damansara"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-25",
+      "source": "BusinessToday",
+      "summary": "MetMalaysia issued a weather warning for torrential rain, thunderstorms and strong winds across northern, central and eastern regions, including Selangor, Kuala Lumpur, Pahang and parts of Johor. The department urged residents in flood-prone and low-lying areas to stay alert, as the advisory adds to a string of recent storm warnings during Malaysia's ongoing monsoon season.",
+      "title": "Torrential downpour forecast at three major zones",
+      "url": "https://www.businesstoday.com.my/2026/07/25/torrential-downpour-forecast-at-three-major-zones/"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-15",
+      "source": "TechWire Asia",
+      "summary": "EdgeConneX detailed plans for two hyperscale AI-ready campuses in Cyberjaya and Johor totalling over 500MW, with closed-loop cooling designed to save roughly 16.6 million litres of water daily versus conventional systems. Both sites, targeting first operations in Q1 2027, are built for high-density GPU workloads as Malaysia positions itself as a regional AI infrastructure hub.",
+      "title": "EdgeConneX advances 500MW sustainable AI data centre plan for Cyberjaya, Johor",
+      "url": "https://techwireasia.com/2026/07/sustainable-ai-data-center-malaysia/"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-24",
+      "source": "TechCrunch",
+      "summary": "Anthropic released Claude Opus 5, its fourth Claude 5-series model in under two months, offering performance approaching its flagship Fable 5 on many tasks at roughly half the cost. The model introduces an adjustable effort setting letting users trade off compute and cost, and Anthropic describes it as its most aligned Opus model yet, becoming the default for Claude Max subscribers.",
+      "title": "Anthropic launches Claude Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
+    }
+  ],
+  "generatedAt": "2026-07-26T01:10:00+08:00",
+  "scanDate": "2026-07-26"
+}

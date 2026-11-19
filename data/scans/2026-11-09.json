@@ -1,0 +1,376 @@
+{
+  "articles": [
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-07",
+      "occurredDate": "2026-11-06",
+      "region": "Malaysia",
+      "sector": "Banking",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "Bank Rakyat took its websites offline after a defacement claimed by an actor calling itself Marlanwg. The Communications Minister said the third-party-managed site was hacked but the incident was limited to defacement, with no data theft or impact on online banking. A claim that data was sold on the dark web remains alleged and unverified.",
+      "title": "Fahmi says online banking remains safe despite cyberattacks and Bank Rakyat hack",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/07/fahmi-says-online-banking-remains-safe-despite-cyberattacks-and-bank-rakyat-hack/242378"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-01",
+      "region": "Malaysia",
+      "sector": "Transport · aviation (third-party)",
+      "severity": "high",
+      "source": "New Straits Times",
+      "summary": "Malaysia Airlines warned that customer data processed by reservation provider Amadeus between August 2023 and September 2026 may have been exposed, while saying its own systems were not breached. Affected numbers were not disclosed. Cathay Pacific, Japan Airlines, ANA and Singapore Airlines reported related exposure through the same supplier.",
+      "title": "Malaysia Airlines' systems untouched by data breach",
+      "url": "https://www.nst.com.my/amp/business/corporate/2026/11/1568677/malaysia-airlines-systems-untouched-data-breach"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-04",
+      "occurredDate": "2026-11-04",
+      "region": "Malaysia",
+      "sector": "Critical infrastructure",
+      "severity": "high",
+      "source": "The Star",
+      "summary": "The National Cyber Security Agency raised the National Cyber Security Threat Level from Low to Medium, effective Nov 4, a day after the Prime Minister's warning in Parliament. Operators of national critical information infrastructure were told to step up preparedness, and NACSA met sector leads to coordinate. Its NC4 centre had already issued eight alerts on vulnerabilities affecting infrastructure operators and agencies in October.",
+      "title": "Nacsa raises level of cyber security threat to medium",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-03",
+      "occurredDate": "2026-11-03",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "critical",
+      "source": "The Edge Malaysia",
+      "summary": "Prime Minister Anwar Ibrahim told Parliament on Nov 3 that Malaysia is vulnerable to sophisticated attacks, citing its data-centre industry and its stance on Gaza, without naming an attacker or incident. The Home Ministry called a special meeting the same day, and NACSA raised the national threat level the next day.",
+      "title": "Malaysia a potential cyberattack target, Anwar warns",
+      "url": "https://theedgemalaysia.com/node/824308"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-10-12",
+      "occurredDate": "2026-10-08",
+      "region": "Malaysia",
+      "sector": "Financial institution · pilgrimage fund",
+      "severity": "high",
+      "source": "The Star",
+      "summary": "Tabung Haji suspended services on Oct 8 after detecting suspicious cyber activity, lodged a police report and informed NACSA and the data protection regulator. By Oct 12 it had restored core systems and branches and said depositors' savings were safe, though some THiJARI functions stayed limited.",
+      "title": "TH: Depositors' savings safe, core systems, services restored after cyberattack",
+      "url": "https://www.thestar.com.my/news/nation/2026/10/12/th-depositors039-savings-safe-core-systems-services-restored-after-cyberattack"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-09",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "medium",
+      "source": "Malay Mail",
+      "summary": "NACSA said it logged 5,110 incidents in the first nine months of the year versus 5,837 for all of last year, and that the national threat level remains Medium after the Nov 4 change. Its chief said there was no sudden surge in attacks, and Malaysia was placed in Tier 1 of the Global Cybersecurity Index.",
+      "title": "Nacsa records 5,110 cyber incidents in Malaysia from January to September",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/09/nacsa-records-5110-cyber-incidents-in-malaysia-from-january-to-september/242607"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-08",
+      "region": "Japan",
+      "sector": "Retail · cloud",
+      "severity": "high",
+      "source": "BleepingComputer",
+      "summary": "Japanese home-goods maker Iris Ohyama disclosed on 8 November that a breach of its cloud data environment may affect up to 7.7 million people, including 5.8 million registered members and 1.9 million non-members. The company says member passwords were encrypted and card details were not stored in the compromised environment. The figure is a ceiling rather than a confirmed count.",
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-06",
+      "occurredDate": "2026-11-06",
+      "region": "Japan",
+      "sector": "National security",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "After dozens of firms and agencies reported unauthorised access and client data leaks, Prime Minister Sanae Takaichi announced on 6 November a package starting at 10 billion yen. It creates a public-private rescue team for first response, a METI expert team using AI by end of November, and wider active cyber defence powers. Some victims reportedly involved a Chinese AI tool.",
+      "title": "Japan announces emergency cybersecurity package following a wave of attacks",
+      "url": "https://www.malaymail.com/news/world/2026/11/06/japan-to-launch-cyber-rescue-team-as-wave-of-hacking-incidents-hits-businesses/242221"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-05",
+      "region": "United States",
+      "sector": "Critical infrastructure · food supply (OT)",
+      "severity": "high",
+      "source": "BleepingComputer",
+      "summary": "CISA, the FBI, HHS, USDA and DOT warned on Nov 5 that unidentified actors are exploiting unpatched, internet-exposed temperature controllers at grocery and cold-storage sites, which could spoil stock or create fire hazards. The Pentagon is separately investigating commissary freezer failures as a suspected cyberattack but has not confirmed a cause.",
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-09",
+      "region": "Philippines",
+      "sector": "Government · tax services",
+      "severity": "high",
+      "source": "NewsBytes.ph",
+      "summary": "The Philippines' Bureau of Internal Revenue said it is working with the cybercrime centre and the national CERT after a threat actor allegedly accessed more than 10 million individual taxpayer records. The claim has not been independently verified, and the agency has not confirmed the scale of any exposure.",
+      "title": "BIR probes alleged data breach involving over 10 million taxpayer records",
+      "url": "https://newsbytes.ph/2026/11/09/bir-probes-alleged-data-breach-involving-over-10-million-taxpayer-records/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-10-22",
+      "region": "Japan",
+      "sector": "Gaming · customer accounts",
+      "severity": "medium",
+      "source": "BleepingComputer",
+      "summary": "Capcom confirmed that hackers breached its CAPCOM ID membership service and obtained more than 11.7 million email addresses. The company said passwords for other members and credit card data were not exposed. The incident is one of several large breaches hitting Japanese firms in recent weeks.",
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-10-27",
+      "occurredDate": "2026-10-26",
+      "region": "United States",
+      "sector": "Healthcare",
+      "severity": "high",
+      "source": "The Record",
+      "summary": "A ransomware attack on UNM Health forced ambulances to divert from the state's only Level 1 trauma centre, burn unit and children's hospital for hours and cancelled dozens of procedures. The university says end-user devices were affected but core servers were not, and urged the public not to contact the attackers.",
+      "title": "University of New Mexico restores hospital systems, urges no contact with hackers",
+      "url": "https://therecord.media/new-mexico-cyberattack-hospital"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-07",
+      "occurredDate": "2026-11-06",
+      "sector": "Pardons & courts",
+      "severity": "critical",
+      "source": "The Star",
+      "summary": "The Agong said the conditional pardon allowing Najib to serve the rest of his sentence at home until Aug 23, 2028 is clear and unambiguous, and warned that challenging it defies a royal command. This followed the Attorney General's office delaying the transfer on Nov 6 to seek clarification.",
+      "title": "King affirms royal prerogative on Najib's house arrest, warns against questioning order",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/07/king-affirms-royal-prerogative-on-najib039s-house-arrest-warns-against-questioning-order"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-07",
+      "sector": "Pardons & courts",
+      "severity": "critical",
+      "source": "Malay Mail",
+      "summary": "The Attorney-General's Chambers rejected claims it defied the pardon, saying the postponement was meant to resolve legal uncertainties. The Prime Minister said the AG would seek an audience with the King to express intent to comply, while maintaining that some questions can only be settled by a court.",
+      "title": "AGC denies defying King's pardon over Najib's house arrest, seeks clarity on jail terms",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/07/agc-denies-defying-kings-pardon-over-najibs-house-arrest/242335"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-10-30",
+      "milestones": [
+        {
+          "date": "2026-11-26",
+          "label": "Last scheduled day of Budget 2027 committee-stage debate"
+        }
+      ],
+      "occurredDate": "2026-10-29",
+      "sector": "Parliament · budget",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "The Supply Bill 2027 passed the policy stage by voice vote on Oct 29 after a confidence-and-supply agreement with 13 opposition and independent MPs. Committee-stage debate runs from Nov 2 to Nov 26, then the bill goes to the Dewan Negara and royal assent.",
+      "title": "Budget 2027 passes policy stage, committee debate from Nov 2 as govt mulls tighter GLC rules, 1MDB recovery",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/30/budget-2027-passes-policy-stage-committee-debate-from-nov-2-as-govt-mulls-tighter-glc-rules-1mdb-recovery/241207"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-03",
+      "sector": "Government directive",
+      "severity": "medium",
+      "source": "Malay Mail",
+      "summary": "The Prime Minister said Malaysia is vulnerable to sophisticated attacks and the Home Ministry convened a special meeting on Nov 3. By Nov 7 he had called for a deeper cybersecurity review across government assets, banking institutions and government-linked companies, involving NACSA and the National Security Council.",
+      "title": "PM Anwar: Malaysia vulnerable to sophisticated cyber attacks, Home Ministry to hold special meeting",
+      "url": "https://www.malaymail.com/amp/news/malaysia/2026/11/03/pm-anwar-malaysia-vulnerable-to-sophisticated-cyber-attacks-home-ministry-to-hold-special-meeting-today/241783"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-10-31",
+      "milestones": [
+        {
+          "date": "2026-11-10",
+          "label": "Melaka early voting"
+        },
+        {
+          "date": "2026-11-14",
+          "label": "Melaka polling day"
+        }
+      ],
+      "occurredDate": "2026-10-31",
+      "sector": "Elections",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "Nominations closed on Oct 31 with 79 candidates contesting Melaka's 28 state seats, and 687,697 voters are eligible. Campaigning runs until 11.59pm on Nov 13, with early voting on Nov 10 and polling on Nov 14. The contest takes place while Perikatan Nasional fights its deregistration in court; Barisan Nasional won 21 of the 28 seats in 2021.",
+      "title": "Nomination day is here: Melaka's 14-day campaign starts today",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/31/nomination-day-is-here-melakas-14-day-campaign-starts-today/241334"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-04",
+      "milestones": [
+        {
+          "date": "2026-12-07",
+          "label": "High Court hears PN judicial review"
+        },
+        {
+          "date": "2027-02-22",
+          "label": "Court of Appeal hears ROS appeal"
+        }
+      ],
+      "occurredDate": "2026-11-04",
+      "sector": "Courts · political parties",
+      "severity": "high",
+      "source": "The Edge Malaysia",
+      "summary": "The Court of Appeal fixed Feb 22, 2027 to hear the Registrar of Societies' appeal against the High Court's Oct 22 stay, which keeps Perikatan Nasional legally alive while it challenges its deregistration. The stay is what allows PN to contest the Melaka election under its own logo. The High Court hears PN's judicial review of the deregistration itself on Dec 7.",
+      "title": "Appellate court sets February for ROS appeal against PN deregistration stay",
+      "url": "https://theedgemalaysia.com/node/824504"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-03",
+      "sector": "Parliament · national security",
+      "severity": "high",
+      "source": "The Star",
+      "summary": "Anwar Ibrahim proposed in the Dewan Rakyat on Nov 3 that the National Security Council director-general brief all MPs behind closed doors within a day or two, if both sides agree, on intelligence that cannot be shared in an open sitting. The offer followed his warning that Malaysia is a likely cyberattack target after the council's special meeting on Nov 2.",
+      "title": "PM proposes closed-door national security briefing for all MPs",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/03/pm-proposes-closed-door-national-security-briefing-for-all-mps"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-111357",
+        "CVE-2026-118527"
+      ],
+      "date": "2026-10-30",
+      "exploited": true,
+      "fixedIn": "Ivanti fixed releases 25.1.1.3 and 22.8R2.6 (patch of Oct 29); sources list a Nov 2 deadline for CVE-2026-111357 and Nov 13 for CVE-2026-118527.",
+      "kevAdded": "2026-10-30",
+      "kevDue": "2026-11-13",
+      "milestones": [
+        {
+          "date": "2026-11-13",
+          "label": "CISA deadline to fix Ivanti Connect Secure CVE-2026-118527"
+        }
+      ],
+      "occurredDate": "2026-10-29",
+      "response": [
+        {
+          "text": "Triggered by the KEV entries, it lists Connect Secure appliances from your asset inventory and compares firmware to 25.1.1.3 or 22.8R2.6. It opens one issue per unpatched device with owner and exposure data, and queries VPN logs for unusual admin or file-write activity. Isolation of a suspected device needs analyst approval.",
+          "title": "Ivanti exposure and hunt",
+          "type": "Playbook"
+        },
+        {
+          "text": "XSIAM Vulnerability and Exposure Management can list these CVEs and show affected endpoints without custom work. Use it to track patch progress against the Nov 13 date. Reserve playbooks for devices confirmed exposed.",
+          "title": "Use Emerging Vulnerabilities view",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Summarise our exposure to the Ivanti Connect Secure exploit chain (CVE-2026-104935, CVE-2026-111357, CVE-2026-118527). List appliances by firmware vs fixed 25.1.1.3/22.8R2.6, any with suspicious admin or file-write logs, recommended actions (patch, reset sessions and credentials, integrity check), and owner for each. Flag gaps in data.",
+          "text": "Generates a leadership-ready status note from your asset and issue data. The analyst reviews the facts before it is sent.",
+          "title": "Draft Ivanti exposure summary",
+          "type": "AI prompt"
+        },
+        {
+          "text": "Run a scheduled job until Nov 13 that re-checks Connect Secure firmware and closes issues for fixed appliances. It posts the remaining count to the SOC channel, so unpatched devices stay visible.",
+          "title": "Daily patch status check",
+          "type": "Job"
+        }
+      ],
+      "sector": "VPN appliance · Ivanti",
+      "severity": "critical",
+      "source": "The Hacker News",
+      "summary": "Attackers chained three Ivanti Connect Secure flaws, starting from authentication bypass CVE-2026-104935, to reach root even on patched appliances. CISA listed the last two on Oct 30, with Ivanti patches released Oct 29. Federal deadlines are Nov 2 and Nov 13; internet-facing gateways should be patched, sessions reset and integrity checked.",
+      "title": "Ivanti Connect Secure exploit chain, final two flaws added to KEV (CVE-2026-111357, CVE-2026-118527)",
+      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2024-27834"
+      ],
+      "cvss": 5.5,
+      "date": "2026-11-04",
+      "exploited": true,
+      "fixedIn": "Fixed by Apple in May 2024 security updates for iOS, iPadOS, macOS, Safari, tvOS and watchOS; devices on current versions are protected.",
+      "kevAdded": "2026-11-04",
+      "kevDue": "2026-11-18",
+      "milestones": [
+        {
+          "date": "2026-11-18",
+          "label": "CISA deadline to fix Apple WebKit CVE-2024-27834"
+        }
+      ],
+      "occurredDate": "2024-05-13",
+      "response": [
+        {
+          "text": "An MDM compliance rule requiring current iOS and macOS is simpler than building a detection playbook for an old, patched flaw. Non-compliant devices get conditional-access limits until updated, and the report shows leadership the residual risk.",
+          "title": "Enforce OS version via MDM",
+          "type": "Better alternative"
+        },
+        {
+          "text": "Query the MDM integration for iOS, iPadOS and macOS builds older than the May 2024 fixes. It returns owner and last check-in so analysts can prioritise executives and travellers, and creates tickets for follow-up.",
+          "title": "List outdated Apple devices",
+          "type": "Automation"
+        },
+        {
+          "prompt": "Write a 100-word notice to staff in Malaysia asking them to update iPhones, iPads and Macs to the latest iOS and macOS because an old Safari WebKit flaw (CVE-2024-27834) is being exploited by a state-linked group. Include steps to check the version, a deadline of Nov 18 and the IT help contact placeholder.",
+          "text": "Produces a short plain-language message asking staff to update Apple devices. The analyst reviews it before sending.",
+          "title": "Draft user notice",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "Browser engine · Apple",
+      "severity": "high",
+      "source": "Security Affairs",
+      "summary": "CISA added a two-year-old WebKit pointer authentication bypass to its exploited list on Nov 4 after Sekoia reported Russia-linked actors using patched Safari and Chrome flaws against mobile users. NVD scores it 5.5. Risk is concentrated in unpatched iPhones and Macs, so MDM version compliance matters more than emergency action.",
+      "title": "Apple WebKit pointer authentication bypass exploited by APT29-linked actors (CVE-2024-27834)",
+      "url": "https://securityaffairs.com/?p=202464"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-98432"
+      ],
+      "cvss": 9.8,
+      "date": "2026-11-06",
+      "exploited": false,
+      "fixedIn": "Distribution kernel updates are available (Red Hat, Ubuntu, and Veeam for its appliances); check your vendor advisory for the exact kernel build.",
+      "response": [
+        {
+          "text": "Query endpoint or vulnerability data for Linux hosts running kernels below the fixed build and with a multipath TCP listener enabled. It returns hostnames, owners and internet exposure so patching can start with exposed servers.",
+          "title": "Find affected Linux servers",
+          "type": "Automation"
+        },
+        {
+          "text": "If multipath TCP is not required, turning it off via kernel configuration removes the attack surface immediately, which is faster than waiting for a change window. Verify with the vendor advisory and test on one host first.",
+          "title": "Disable MPTCP where unused",
+          "type": "Better alternative"
+        },
+        {
+          "text": "Schedule a weekly job that rechecks kernel versions on flagged servers and closes the issue when fixed. Overdue servers escalate to the owning team automatically.",
+          "title": "Weekly kernel patch check",
+          "type": "Job"
+        }
+      ],
+      "sector": "Operating system · Linux kernel",
+      "severity": "high",
+      "source": "Hackaday",
+      "summary": "A use-after-free in the Linux IPv4 TCP handshake code, scored 9.8 by Red Hat and the kernel CVE team, has a public working exploit that gains root on servers with a multipath TCP listener. No mass exploitation was reported as of Nov 6, but servers exposing such listeners should be updated soon.",
+      "title": "Linux kernel multipath TCP use-after-free with public root exploit (CVE-2026-98432)",
+      "url": "https://hackaday.com/2026/11/06/this-week-in-security-more-linux-bugs-biggest-crypto-theft-ever-prusa-printers-residential-proxies/"
+    }
+  ],
+  "generatedAt": "2026-11-09T23:52:00+08:00",
+  "scanDate": "2026-11-09",
+  "searchOnly": true,
+  "threatLevel": {
+    "level": "Medium",
+    "previous": "Low",
+    "since": "2026-11-04",
+    "source": "NACSA",
+    "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+  }
+}

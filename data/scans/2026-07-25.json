@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+      "category": "Politics",
+      "date": "2026-07-25",
+      "source": "Malay Mail",
+      "summary": "Prime Minister Anwar Ibrahim publicly rejected remarks by Kedah Menteri Besar Muhammad Sanusi Md Nor suggesting non-Malay Malaysians could rely on ancestral homelands abroad if they faced difficulties at home. Anwar called the country's ethnic diversity a national strength and said no leader should make statements that insult any race, as the comments drew backlash during campaigning ahead of the Negeri Sembilan state election.",
+      "title": "PM Anwar condemns Kedah MB Sanusi's divisive comments, calls for unity",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/25/pm-anwar-condemns-kedah-mb-sanusis-divisive-comments-calls-for-unity/228922"
+    },
+    {
+      "category": "Politics",
+      "date": "2026-07-24",
+      "source": "Free Malaysia Today",
+      "summary": "DAP secretary-general Loke Siew Fook dismissed as malicious speculation that he could become Negeri Sembilan menteri besar, noting the state constitution requires the post go to a Malay-Muslim assemblyman, which he is not. He reaffirmed that incumbent Aminuddin Harun remains Pakatan Harapan's sole candidate for the role, responding to claims raised by Umno secretary-general Asyraf Wajdi Dusuki ahead of the state election.",
+      "title": "Loke pans 'malicious' suggestions of him as MB",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/24/loke-pans-malicious-suggestions-of-him-as-mb"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-22",
+      "source": "The Star",
+      "summary": "Malaysian officials urged companies to move beyond greenwashing and adopt credible ESG standards such as TCFD-aligned disclosure and science-based decarbonisation targets covering full supply chains. The Natural Resources Ministry said it is drafting a National Climate Change Policy 2.0 alongside the forthcoming Climate Change Bill, while a phased carbon tax targeting high-emission sectors like iron, steel and energy is already underway.",
+      "title": "Pushing for real ESG compliance",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/22/pushing-for-real-esg-compliance"
+    },
+    {
+      "category": "Working Policy",
+      "date": "2026-07-20",
+      "source": "SAYS",
+      "summary": "PERKESO data showed 52,607 workers had filed unemployment insurance claims by mid-July 2026, already about 70% of the total recorded for all of 2025, putting the year on pace to be Malaysia's worst for retrenchments since 2020. White-collar workers accounted for 51% of job losses, with Kuala Lumpur and Selangor together making up roughly six in ten claims nationwide.",
+      "title": "2026 is on track to be Malaysia's worst year for retrenchments since the pandemic",
+      "url": "https://says.com/my/news/2026-is-on-track-to-be-malaysias-worst-year-for-retrenchments-since-the-pandemic"
+    },
+    {
+      "category": "Working Policy",
+      "date": "2026-07-21",
+      "source": "International Labour Organization",
+      "summary": "Over 80 employers from the Klang Valley attended hands-on training in Port Klang to use the new MEF-ILO Occupational Safety and Health Digital Assessment Tool, developed under an EU-funded project. The platform lets employers conduct workplace safety assessments more systematically, part of a broader push to align Malaysia's OSH practices with international labour standards, particularly for firms with large migrant workforces.",
+      "title": "New digital tool helps Malaysian employers strengthen occupational safety and health",
+      "url": "https://www.ilo.org/resource/news/new-digital-tool-helps-malaysian-employers-strengthen-occupational-safety"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-24",
+      "source": "The Star",
+      "summary": "Prime Minister Anwar Ibrahim announced RM44.5 million in federal funding, coordinated with the Selangor state government, for 30 flood mitigation projects across Petaling Jaya and Damansara. The allocation responds to recent flash floods in the area and reflects growing pressure on both federal and state authorities to address recurring monsoon-season flooding in the Klang Valley.",
+      "title": "Govt allocates RM44.5mil for flood mitigation works in PJ, Damansara",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/24/govt-allocates-rm445mil-for-flood-mitigation-works-in-pj-damansara"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-25",
+      "source": "BusinessToday",
+      "summary": "MetMalaysia warned of torrential rain, thunderstorms and strong winds across northern, central and eastern Malaysia, including Selangor, Kuala Lumpur, Pahang and parts of Johor. The department advised residents in flood-prone and low-lying areas to remain alert, part of a series of storm warnings issued during the country's ongoing monsoon season.",
+      "title": "Torrential downpour forecast at three major zones",
+      "url": "https://www.businesstoday.com.my/2026/07/25/torrential-downpour-forecast-at-three-major-zones/"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-23",
+      "source": "The Edge Malaysia",
+      "summary": "Treasury secretary-general Tan Sri Johan Mahmood Merican said Malaysia had \"overdone\" incentives for data centre investors as AI-driven demand surged, prompting a shift toward a broader evaluation scorecard. Rather than rewarding capital expenditure alone, future incentives will weigh job creation, business spillovers and local industry linkages, reflecting concern that standard data centres deliver limited economic benefit relative to their scale.",
+      "title": "Malaysia rethinking investment incentives as data centre boom exposes policy gaps, says Treasury secretary general",
+      "url": "https://theedgemalaysia.com/node/811775"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-24",
+      "source": "TechCrunch",
+      "summary": "Anthropic released Claude Opus 5, its fourth Claude 5-series model in under two months, offering performance close to its flagship Fable 5 on many tasks at roughly half the cost. The model adds an adjustable effort setting for trading off compute and cost, and became the new default for Claude Max subscribers, which Anthropic describes as its most aligned Opus release yet.",
+      "title": "Anthropic launches Claude Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/"
+    }
+  ],
+  "generatedAt": "2026-07-30T00:00:00+08:00",
+  "scanDate": "2026-07-25"
+}

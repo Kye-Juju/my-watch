@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+      "category": "Politics",
+      "date": "2026-07-18",
+      "source": "Free Malaysia Today",
+      "summary": "Nomination day for the 16th Negeri Sembilan state election saw 103 candidates file for 36 seats across eight centres, opening a multi-cornered contest between Barisan Nasional, Pakatan Harapan and a divided Perikatan Nasional. The 14-day campaign runs until July 31 ahead of the Aug 1 polls, seen as a fresh test of Anwar's coalition after Johor's landslide loss.",
+      "title": "Negeri Sembilan nomination day kicks off battle for people's mandate",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/18/negeri-sembilan-nomination-day-kicks-off-battle-for-peoples-mandate"
+    },
+    {
+      "category": "Politics",
+      "date": "2026-07-13",
+      "source": "Malay Mail",
+      "summary": "Malaysia's top court dismissed the prosecution's appeal against former youth and sports minister Syed Saddiq's acquittal on charges of misappropriating over RM1 million in Bersatu Youth and Armada funds, ending a six-year legal saga. Two judges upheld last year's Court of Appeal acquittal while one dissented, arguing he should have been convicted on three of four charges.",
+      "title": "Federal Court upholds Syed Saddiq's acquittal in RM1m Armada case with split 2-1 ruling",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/13/federal-court-upholds-syed-saddiq-acquittal-in-rm1m-armada-case-with-split-21-ruling/227375"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-14",
+      "source": "The Star",
+      "summary": "Natural Resources Minister Arthur Joseph Kurup said the National Climate Change Bill will be tabled in Parliament this year, making Malaysia roughly the 60th country worldwide and the second in ASEAN with dedicated climate legislation. A carbon tax will follow the Bill's passage, framed as an incentive rather than a penalty to push industries toward greener operations.",
+      "title": "Malaysia set to join nations with climate law",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/14/malaysia-set-to-join-nations-with-climate-law"
+    },
+    {
+      "category": "Working Policy",
+      "date": "2026-07-01",
+      "source": "Malay Mail",
+      "summary": "The Human Resources Ministry disbursed RM64 million in cash incentives to 4,025 employers under the Progressive Wage Policy, benefiting over 51,000 local workers. Wholesale/retail and manufacturing led participation, with median basic pay for professionals and technicians rising 10-12% under the Madani Economy wage-lift initiative.",
+      "title": "Human Resources Ministry: RM64m paid out under Progressive Wage Policy to over 4,000 employers",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/01/human-resources-ministry-rm64m-paid-out-under-progressive-wage-policy-to-over-4000-employers/225957"
+    },
+    {
+      "category": "Working Policy",
+      "date": "2026-07-04",
+      "source": "Free Malaysia Today",
+      "summary": "Malaysia's Gig Workers Act, in force since March 2026, moved 1.6 million platform workers from voluntary to automatic Perkeso coverage once they accept their first job, with platforms remitting contributions via API. Gaps remain, as the law covers work injury but not non-work invalidity or EPF retirement savings, leaving gig workers short of parity with salaried staff.",
+      "title": "Gig Workers Act reshapes social security for gig workers",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/04/gig-workers-act-reshapes-social-security-for-gig-workers"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-07",
+      "source": "Malay Mail",
+      "summary": "MetMalaysia forecasts a Super El Nino developing from November 2026 through January 2027, warning of significantly higher temperatures, lower rainfall and greater transboundary haze risk. Past strong El Nino events produced Malaysia's record highs of 40.1C and 39.3C, though officials said it is too early to predict the severity of any haze episode.",
+      "title": "Incoming Super El Nino could bring heat and haze from November, says MetMalaysia",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/07/incoming-super-el-nino-could-bring-heat-and-haze-from-november-says-metmalaysia/226731"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-16",
+      "source": "Xinhua",
+      "summary": "Malaysia unveiled its sixth large-scale solar program (LSS6), offering 2,500MW of solar capacity paired with 1,250MW of battery storage, plus a Bumiputera-reserved allocation. The initiative is expected to draw RM13-15 billion in private investment, create up to 20,000 jobs, and cut annual CO2 emissions by about 2.6 million tonnes, with projects operational by end-2029.",
+      "title": "Malaysia launches 6th large-scale solar program with 2.5GW capacity",
+      "url": "https://english.news.cn/asiapacific/20260716/f5d5690c93584875b57112bb152ebd3b/c.html"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-19",
+      "source": "The Edge Malaysia",
+      "summary": "Digital Minister Gobind Singh Deo said the National AI Office (NAIO) will be formally institutionalised on July 28, moving it beyond MyDIGITAL Corporation to officially oversee AI policy, governance and ecosystem development. A dedicated Cyberjaya office is already working on the AI Governance Framework as part of Malaysia's push to become an AI nation by 2030.",
+      "title": "National AI Office set to be institutionalised at end-July, says Gobind",
+      "url": "https://theedgemalaysia.com/node/806195"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-17",
+      "source": "Al Jazeera",
+      "summary": "At the World AI Conference in Shanghai, Xi Jinping unveiled the World Artificial Intelligence Cooperation Organisation (WAICO), a 29-nation bloc including Malaysia, Indonesia, Brazil and South Africa aimed at coordinating AI governance and development among Global South countries. China pledged 5,000 AI training opportunities for developing nations over five years, positioning Shanghai as a rival hub to Western-led AI governance efforts.",
+      "title": "China's Xi Jinping launches new AI alliance with Malaysia among 29 founding members",
+      "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it"
+    }
+  ],
+  "generatedAt": "2026-07-19T14:57:43+08:00",
+  "scanDate": "2026-07-19"
+}

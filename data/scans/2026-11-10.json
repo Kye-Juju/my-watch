@@ -1,0 +1,661 @@
+{
+  "articles": [
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-10",
+      "milestones": [
+        {
+          "date": "2026-11-14",
+          "label": "Melaka state election polling day"
+        }
+      ],
+      "occurredDate": "2026-11-10",
+      "region": "Malaysia",
+      "sector": "Government · elections",
+      "severity": "high",
+      "source": "Malay Mail (Bernama)",
+      "summary": "The Election Commission said on 10 November that its website was believed to be under cyberattack threat just days before Melaka polling. Chairman Ramlan Harun said a report was filed with the authorities and the EC is working with MCMC to harden the site; a full report and official statement are pending.",
+      "title": "EC, MCMC take measures to protect website following reported cyber attack",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/10/ec-mcmc-take-measures-to-protect-website-following-reported-cyber-attack/242677"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-07",
+      "occurredDate": "2026-11-06",
+      "region": "Malaysia",
+      "sector": "Banking",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "Bank Rakyat said its corporate website outage from late 6 November stemmed from a third-party provider fault and that deposits, data and banking services were unaffected. Lowyat.NET reported pages including the iRakyat login were defaced; the bank has not confirmed an attack and says channels such as iRakyat remain available.",
+      "title": "Bank Rakyat blames third-party glitch for website outage, says customer funds and data safe",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/07/bank-rakyat-blames-third-party-glitch-for-website-outage-says-customer-funds-and-data-safe/242358"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-03",
+      "occurredDate": "2026-11-03",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "critical",
+      "source": "The Edge Malaysia",
+      "summary": "Prime Minister Anwar Ibrahim told Parliament on 3 November that Malaysia is among countries considered cyberattack targets, citing its digital capabilities and stance on Gaza, while urging calm. The warning preceded the National Security Council raising the national cyber threat level on 4 November.",
+      "title": "Malaysia a potential cyberattack target, Anwar warns",
+      "url": "https://theedgemalaysia.com/node/824308"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-07",
+      "occurredDate": "2026-11-07",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "high",
+      "source": "Free Malaysia Today",
+      "summary": "The National Security Council cautioned the public against social media posts listing Malaysia among the top 20 cyberattack targets, saying the national threat level stays at moderate. The statement followed the Bank Rakyat incident and the 4 November threat-level increase.",
+      "title": "Don't be fooled by claims of cyberattack, says security council",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/don-t-be-fooled-by-claims-of-cyberattack-says-security-council"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-04",
+      "occurredDate": "2026-11-04",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "high",
+      "source": "The Star",
+      "summary": "NACSA lifted Malaysia's National Cyber Security Threat Level from Low to Medium from 4 November, as announced via the National Security Council. Heads of critical information infrastructure sectors must now send weekly threat status reports to the agency, signalling tighter national coordination.",
+      "title": "Nacsa raises level of cyber security threat to medium",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-07",
+      "occurredDate": "2026-11-07",
+      "region": "Malaysia",
+      "sector": "Banking",
+      "severity": "high",
+      "source": "The Edge Malaysia",
+      "summary": "Government spokesman Fahmi Fadzil said hacking attempts detected so far had not caused data theft or disrupted online banking, describing the Bank Rakyat case as defacement of a third-party-managed website. The Prime Minister has also called for a review of cybersecurity across government assets, banks and government-linked companies.",
+      "title": "Online banking secure despite Bank Rakyat hacking incident — Fahmi",
+      "url": "https://theedgemalaysia.com/node/824967"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-10",
+      "occurredDate": "2026-10-12",
+      "region": "France",
+      "sector": "Critical infrastructure · food supply (OT)",
+      "severity": "critical",
+      "source": "SecurityWeek (AP)",
+      "summary": "Paris prosecutors and ANSSI attributed the 12 October attack, which remotely overheated refrigeration at about 700 French supermarkets, to an Iranian Revolutionary Guard-linked group. France summoned Iran's ambassador, will seek EU sanctions and opened a judicial investigation; similar fridge failures hit stores in several European countries.",
+      "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
+      "url": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-04",
+      "region": "France",
+      "sector": "Banking",
+      "severity": "critical",
+      "source": "BleepingComputer",
+      "summary": "Crédit Mutuel Arkéa confirmed on 4 November that attackers reached an internal account through a service provider platform and moved funds to other institutions. Press reports put the loss near EUR 118 million, a figure the bank would not verify; it says customers were unaffected and some funds were blocked.",
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "url": "https://bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-09",
+      "occurredDate": "2026-11-07",
+      "region": "Italy",
+      "sector": "Government · officials",
+      "severity": "high",
+      "source": "SecurityWeek (AP)",
+      "summary": "Foreign Minister Antonio Tajani said on 7 November that his personal data was posted on the dark web and that he faced threats; Prime Minister Giorgia Meloni blamed pro-Russian hackers. The content of the leak was not specified, and officials described the threat as ongoing.",
+      "title": "Italy's Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister's Data on the Dark Web",
+      "url": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-06",
+      "occurredDate": "2026-10-30",
+      "region": "Singapore",
+      "sector": "Telecoms",
+      "severity": "high",
+      "source": "AsiaOne",
+      "summary": "Singapore telco M1 said a 30 October breach exposed customers' names, NRIC/FIN numbers, birth dates, mobile numbers, emails and addresses, and notified affected users on 6 November. Payment and banking details were not accessed, and the PDPC is investigating; the number affected was not disclosed.",
+      "title": "Data of M1 customers compromised, including NRIC, phone numbers and addresses",
+      "url": "https://www.asiaone.com/singapore/m1-data-breach"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-10",
+      "occurredDate": "2026-11-06",
+      "region": "Philippines",
+      "sector": "Government · regulator",
+      "severity": "high",
+      "source": "The Manila Times",
+      "summary": "The Philippine Securities and Exchange Commission is investigating a security incident detected on 6 November and auditing its systems. Initial findings indicate no passwords leaked, though individual profile information may have been exposed. The regulator has not said how many people are affected or who is responsible.",
+      "title": "SEC probes data breach",
+      "url": "https://www.manilatimes.net/2026/11/10/news/sec-probes-data-breach/2465889"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-09",
+      "occurredDate": "2026-11-09",
+      "region": "United States",
+      "sector": "Education",
+      "severity": "medium",
+      "source": "The Record",
+      "summary": "Vanderbilt University told students and staff on 9 November to shut down devices and leave campus Wi-Fi after a cyberattack, shortly after the BYOD ransomware gang listed it on its leak site. The gang also claimed a recent Michigan State intrusion; the claimed data theft is unconfirmed.",
+      "title": "Vanderbilt cybersecurity incident impacting campus devices and systems",
+      "url": "https://therecord.media/vanderbilt-cyberattack-ransomware-alert"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-10",
+      "occurredDate": "2026-11-10",
+      "sector": "Pardons & courts",
+      "severity": "critical",
+      "source": "Malay Mail",
+      "summary": "The Kuala Lumpur High Court on 10 November replaced the 6 November discharge order after the Attorney General's Chambers raised doubts, ordering Najib to serve the rest of his SRC sentence at home until 23 August 2028. The Home Ministry said it is ready to carry out the order; his 1MDB appeal is still pending.",
+      "title": "Home Ministry says ready to carry out Najib's house arrest; court order today cleared the air",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/10/home-ministry-says-ready-to-carry-out-najibs-house-arrest-court-order-today-cleared-the-air/242748"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-10",
+      "milestones": [
+        {
+          "date": "2026-12-11",
+          "label": "End of Finance Minister II Amir Hamzah Azizan's senatorship"
+        }
+      ],
+      "occurredDate": "2026-11-10",
+      "sector": "Cabinet",
+      "severity": "critical",
+      "source": "Malay Mail",
+      "summary": "Prime Minister Anwar Ibrahim said a reshuffle is premature after Transport Minister Anthony Loke's resignation, which took effect on 10 November once Najib's house arrest was cleared. Finance Minister II Amir Hamzah Azizan's senatorship expires on 11 December, which may force changes.",
+      "title": "Too early for a Cabinet reshuffle, says Anwar",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/10/too-early-for-a-cabinet-reshuffle-says-anwar/242681"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-10",
+      "occurredDate": "2026-11-10",
+      "sector": "Cabinet · elections",
+      "severity": "critical",
+      "source": "The Star",
+      "summary": "Deputy Prime Minister Ahmad Zahid Hamidi said on 10 November that dissolving Parliament would be better than a Cabinet reshuffle, and hinted a minister might step down once Najib begins house arrest. The remarks, made in Melaka, add to pressure on Anwar over election timing.",
+      "title": "No need for Cabinet reshuffle, better to hold GE, says Zahid",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/10/no-need-for-cabinet-reshuffle-better-to-hold-ge-says-zahid"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-10-29",
+      "milestones": [
+        {
+          "date": "2026-11-12",
+          "label": "Court of Appeal fixes ruling date in Sabah 40pc revenue appeal"
+        }
+      ],
+      "occurredDate": "2026-10-29",
+      "sector": "Courts · federal-state rights",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "The Court of Appeal heard the federal government's partial appeal against the High Court ruling on Sabah's 40 per cent net revenue entitlement for 1974-2021. On 12 November it will set the date it will deliver its ruling. A stay on revenue calculations and payments remains in place.",
+      "title": "Sabah's 40pc revenue rights appeal: Court of Appeal to decide on Nov 12",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/29/sabahs-40pc-revenue-rights-appeal-court-of-appeal-to-decide-on-nov-12/241129"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-10-30",
+      "milestones": [
+        {
+          "date": "2026-11-26",
+          "label": "Scheduled end of Budget 2027 committee-stage debate"
+        }
+      ],
+      "occurredDate": "2026-10-29",
+      "sector": "Parliament · budget",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "The Dewan Rakyat passed the Supply Bill 2027 at policy stage and began detailed committee-stage debate on 2 November, scheduled to run to 26 November. Headline measures include a minimum wage rise to RM2,000 from June 2027 and a narrower fiscal deficit target.",
+      "title": "Budget 2027 passes policy stage, committee debate from Nov 2 as govt mulls tighter GLC rules",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/30/budget-2027-passes-policy-stage-committee-debate-from-nov-2-as-govt-mulls-tighter-glc-rules-1mdb-recovery/241207"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-10-31",
+      "milestones": [
+        {
+          "date": "2026-11-14",
+          "label": "Melaka state election polling day"
+        }
+      ],
+      "occurredDate": "2026-10-31",
+      "sector": "Elections",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "The Melaka state election campaign began on nomination day, 31 October, for 28 seats. Early voting took place on 10 November and polling day is 14 November, with BN defending its 2021 win against Pakatan Harapan and Perikatan Nasional; the EC also reported a suspected website cyberattack on 10 November.",
+      "title": "Melaka polls: 14-day campaign under way as nomination day opens",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/31/nomination-day-is-here-melakas-14-day-campaign-starts-today/241334"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-10-28",
+      "occurredDate": "2026-10-28",
+      "sector": "MACC · anti-corruption",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "The Home Ministry told the Dewan Rakyat on 28 October that police had frozen over RM400 million in assets in the \"corporate mafia\" probe and questioned 70 people, finding no evidence linking MACC officers to the syndicates. MPs continue to press for MACC reforms and release of the Azam Baki committee report.",
+      "title": "'Corporate Mafia' probe freezes over RM400m in assets, no MACC officers implicated, Home Ministry tells Parliament",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/corporate-mafia-probe-freezes-over-rm400m-in-assets-no-macc-officers-implicated-home-ministry-tells-parliament/240863"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-05",
+      "sector": "Cyber law & regulation",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "In a written parliamentary reply, Deputy Prime Minister Zahid Hamidi explained that the Cyber Crime Bill, passed in July, lets courts issue property restriction orders on scam proceeds before charges are filed. It also provides cessation, restitution and compliance orders aimed at AI-enabled scams such as deepfakes.",
+      "title": "Zahid: 2026 Cyber Crime Bill allows courts to freeze scam proceeds before suspects are charged",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/05/zahid-2026-cyber-crime-bill-allows-courts-to-freeze-scam-proceeds-before-suspects-are-charged/242021"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-123158"
+      ],
+      "cvss": 8.1,
+      "date": "2026-11-09",
+      "exploited": true,
+      "fixedIn": "Upgrade to OpenSSH 10.6p2 or the distribution package that includes the fix, then restart sshd; until then disable password authentication.",
+      "kevAdded": "2026-11-09",
+      "kevDue": "2026-11-12",
+      "milestones": [
+        {
+          "date": "2026-11-12",
+          "label": "CISA deadline to fix OpenSSH CVE-2026-123158"
+        }
+      ],
+      "occurredDate": "2026-11-05",
+      "response": [
+        {
+          "text": "Trigger a playbook that queries the asset inventory and XQL endpoint data for Alpine or musl-based hosts and containers running sshd with password authentication enabled. It returns a ranked list with internet reachability and opens one ticket per owner. Require analyst approval before any sshd configuration change.",
+          "title": "Alpine SSH exposure sweep",
+          "type": "Playbook"
+        },
+        {
+          "prompt": "Act as a SOC analyst. From the attached sshd and auth logs for host <hostname>, find successful password logins since 5 Nov 2026 for accounts with no password set, or from unusual source IPs, with unusually long password attempts before them. Rate confidence for CVE-2026-123158 exploitation and list containment steps in under 150 words.",
+          "text": "Gives analysts a quick triage summary of sshd logins for any flagged host. The output is advisory, and analysts confirm findings before isolating a host.",
+          "title": "SSH log hunt summary",
+          "type": "AI prompt"
+        },
+        {
+          "text": "Turning off PasswordAuthentication and allowing key-only logins removes the attack path faster than building detection. Add a firewall rule limiting port 22 to the management network or a VPN, and verify with a recurring scan.",
+          "title": "Disable SSH passwords",
+          "type": "Better alternative"
+        }
+      ],
+      "sector": "Remote access · OpenSSH",
+      "severity": "critical",
+      "source": "The Hacker News",
+      "summary": "An overlong password lets an unauthenticated attacker log in to accounts with no usable password on OpenSSH servers built on musl libc with PAM disabled, the default on Alpine Linux. Exploitation began within hours of disclosure and CISA added it to KEV on 9 November with a 12 November deadline.",
+      "timeline": [
+        {
+          "date": "2026-11-05",
+          "kind": "disclosed",
+          "label": "OpenSSH advisory published",
+          "source": "SecurityWeek",
+          "summary": "OpenSSH disclosed the password bypass found by researcher Ozgun Kultekin.",
+          "title": "OpenSSH rushes patches for SSHole authentication bypass",
+          "url": "https://securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass"
+        },
+        {
+          "date": "2026-11-05",
+          "kind": "patched",
+          "label": "OpenSSH 10.6p2 released",
+          "source": "SecurityWeek",
+          "summary": "Fixed release 10.6p2 shipped the same day as disclosure.",
+          "title": "OpenSSH rushes patches for SSHole authentication bypass",
+          "url": "https://securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass"
+        },
+        {
+          "date": "2026-11-06",
+          "kind": "exploited",
+          "label": "Honeypot root access observed",
+          "source": "The Hacker News",
+          "summary": "Previdian saw exploitation under nine hours after the CVE was published.",
+          "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+          "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
+        },
+        {
+          "date": "2026-11-08",
+          "kind": "event",
+          "label": "Attempts reach 13 source IPs",
+          "source": "The Hacker News",
+          "summary": "Honeypot attempts reached 20 from 13 IPs across nine countries.",
+          "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+          "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
+        },
+        {
+          "date": "2026-11-09",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "eSecurity Planet",
+          "summary": "CISA added the OpenSSH flaw to its exploited catalog.",
+          "title": "CISA Adds 4 Exploited Flaws to KEV: Nov. 12 Deadline",
+          "url": "https://www.esecurityplanet.com/vulnerabilities/news-cisa-kev-gpustack-freeswitch-openssh-ibm-november-2026/"
+        },
+        {
+          "date": "2026-11-12",
+          "kind": "due",
+          "label": "CISA remediation deadline",
+          "source": "eSecurity Planet",
+          "summary": "Federal agencies must remediate by 12 November.",
+          "title": "CISA Adds 4 Exploited Flaws to KEV: Nov. 12 Deadline",
+          "url": "https://www.esecurityplanet.com/vulnerabilities/news-cisa-kev-gpustack-freeswitch-openssh-ibm-november-2026/"
+        }
+      ],
+      "title": "OpenSSH \"SSHole\" password authentication bypass on musl/Alpine (CVE-2026-123158)",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-116779"
+      ],
+      "cvss": 9.8,
+      "date": "2026-11-09",
+      "exploited": true,
+      "fixedIn": "Upgrade to FreeSWITCH 1.11.3; restrict SIP exposure to trusted networks until patched.",
+      "kevAdded": "2026-11-09",
+      "kevDue": "2026-11-12",
+      "milestones": [
+        {
+          "date": "2026-11-12",
+          "label": "CISA deadline to fix FreeSWITCH CVE-2026-116779"
+        }
+      ],
+      "occurredDate": "2026-10-28",
+      "response": [
+        {
+          "text": "Schedule a job that checks asset and vulnerability data for FreeSWITCH versions below 1.11.3 and any SIP service reachable from the internet. Analysts get a prioritised list per owner, with tickets created automatically.",
+          "title": "FreeSWITCH version inventory",
+          "type": "Job"
+        },
+        {
+          "text": "Run an automation that searches SBC, firewall and FreeSWITCH logs for SIP MESSAGE requests whose To user contains a plus sign followed by unusual strings. Matches are attached to the incident for analyst review before any block is applied.",
+          "title": "SIP MESSAGE abuse query",
+          "type": "Automation"
+        },
+        {
+          "text": "An NGFW or SBC rule that only admits SIP traffic from known carriers removes the exposed attack path faster than custom detection. Disabling inbound chat on the internal and external profiles is a further interim mitigation.",
+          "title": "Restrict SIP exposure",
+          "type": "Better alternative"
+        }
+      ],
+      "sector": "VoIP server · SignalWire FreeSWITCH",
+      "severity": "high",
+      "source": "SecurityWeek",
+      "summary": "A code injection flaw in how FreeSWITCH handles inbound SIP MESSAGE requests lets an account on a profile control server API commands, enabling data disclosure, call control and command execution. SignalWire reports exploitation in the wild, and CISA added it to KEV on 9 November.",
+      "timeline": [
+        {
+          "date": "2026-10-28",
+          "kind": "disclosed",
+          "label": "SignalWire advisory published",
+          "source": "SecurityWeek",
+          "summary": "SignalWire published its advisory and fixed release 1.11.3.",
+          "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+          "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/"
+        },
+        {
+          "date": "2026-11-09",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "eSecurity Planet",
+          "summary": "CISA confirmed exploitation and added the flaw to KEV.",
+          "title": "CISA Adds 4 Exploited Flaws to KEV: Nov. 12 Deadline",
+          "url": "https://www.esecurityplanet.com/vulnerabilities/news-cisa-kev-gpustack-freeswitch-openssh-ibm-november-2026/"
+        },
+        {
+          "date": "2026-11-12",
+          "kind": "due",
+          "label": "CISA remediation deadline",
+          "source": "eSecurity Planet",
+          "summary": "Federal agencies must remediate by 12 November.",
+          "title": "CISA Adds 4 Exploited Flaws to KEV: Nov. 12 Deadline",
+          "url": "https://www.esecurityplanet.com/vulnerabilities/news-cisa-kev-gpustack-freeswitch-openssh-ibm-november-2026/"
+        }
+      ],
+      "title": "SignalWire FreeSWITCH SIP MESSAGE code injection (CVE-2026-116779)",
+      "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-123218"
+      ],
+      "cvss": 9.8,
+      "date": "2026-11-09",
+      "exploited": true,
+      "fixedIn": "Apply IBM Aspera Faspex 5.0.19 Patch Level 1; IBM lists no workaround.",
+      "kevAdded": "2026-11-09",
+      "kevDue": "2026-11-12",
+      "milestones": [
+        {
+          "date": "2026-11-12",
+          "label": "CISA deadline to fix IBM Aspera Faspex CVE-2026-123218"
+        }
+      ],
+      "response": [
+        {
+          "text": "Build a playbook that lists Faspex 5 versions, pulls the administrator and recently promoted accounts, and compares them with the approved admin list. Unexpected admins are flagged to an analyst, who approves any account disable.",
+          "title": "Faspex admin review",
+          "type": "Playbook"
+        },
+        {
+          "text": "Use an automation against asset and vulnerability data to find hosts running Faspex 5.0.0 through 5.0.19 without Patch Level 1. It posts a ranked list to the ticketing integration with each owner and exposure status.",
+          "title": "Faspex patch-level check",
+          "type": "Automation"
+        },
+        {
+          "prompt": "Act as a SOC analyst. From the attached IBM Aspera Faspex 5 audit logs since 1 Nov 2026, identify privilege or role changes, new admin accounts, unusual message submissions and new package transfers, and match them to CVE-2026-123218 exploitation patterns. List suspicious accounts and next steps in under 150 words.",
+          "text": "Gives analysts a concise reading of Faspex audit logs for privilege changes. The output is advisory, and analysts verify before acting on accounts.",
+          "title": "Faspex audit-log review",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "File transfer · IBM Aspera Faspex",
+      "severity": "high",
+      "source": "SecurityWeek",
+      "summary": "Crafted messages let an authenticated Faspex 5 user bypass authorization and obtain full administrative rights on versions 5.0.0 through 5.0.19. CISA added it to KEV on 9 November, confirming exploitation, although IBM has published no details of the attacks and its own advisory does not mention exploitation.",
+      "timeline": [
+        {
+          "date": "2026-11-09",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "eSecurity Planet",
+          "summary": "CISA confirmed exploitation of the Faspex authorization bypass.",
+          "title": "CISA Adds 4 Exploited Flaws to KEV: Nov. 12 Deadline",
+          "url": "https://www.esecurityplanet.com/vulnerabilities/news-cisa-kev-gpustack-freeswitch-openssh-ibm-november-2026/"
+        },
+        {
+          "date": "2026-11-10",
+          "kind": "reported",
+          "label": "Exploitation coverage published",
+          "source": "SecurityWeek",
+          "summary": "Coverage notes IBM patched in 5.0.19 PL1 and offers no workaround.",
+          "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+          "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/"
+        },
+        {
+          "date": "2026-11-12",
+          "kind": "due",
+          "label": "CISA remediation deadline",
+          "source": "eSecurity Planet",
+          "summary": "Federal agencies must remediate by 12 November.",
+          "title": "CISA Adds 4 Exploited Flaws to KEV: Nov. 12 Deadline",
+          "url": "https://www.esecurityplanet.com/vulnerabilities/news-cisa-kev-gpustack-freeswitch-openssh-ibm-november-2026/"
+        }
+      ],
+      "title": "IBM Aspera Faspex 5 authorization bypass to admin (CVE-2026-123218)",
+      "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-19868"
+      ],
+      "date": "2026-11-07",
+      "exploited": true,
+      "fixedIn": "Update to SonicOS 7.3.4-7013 or later (Gen 7) or 8.2.3-8015 (Gen 8); Gen 6 receives no fix, so plan replacement.",
+      "kevAdded": "2026-11-06",
+      "kevDue": "2026-11-20",
+      "milestones": [
+        {
+          "date": "2026-11-20",
+          "label": "CISA deadline to fix SonicWall CVE-2026-19868"
+        }
+      ],
+      "response": [
+        {
+          "text": "Create a playbook that pulls SonicWall SSLVPN logs for each firewall, lists logins using an unexpected authentication method or new source IPs, and enriches them with IdP sign-in data. Analysts review matches, and credential reset or session kill runs only after approval.",
+          "title": "VPN login compromise check",
+          "type": "Playbook"
+        },
+        {
+          "text": "Schedule a job that compares SonicOS versions against the fixed builds and posts any lagging firewall to a ticket queue. The SOC gets a daily list until the 20 November deadline, with SAML-enabled units first.",
+          "title": "Daily firmware drift report",
+          "type": "Job"
+        },
+        {
+          "prompt": "Review the attached SonicWall SSLVPN logs and IdP sign-in logs. Identify users who authenticated without the expected SAML or MFA step, new geographies, and config changes after login. Rank by risk, cite log lines, and suggest credential rotation and session termination steps. Maximum 150 words.",
+          "text": "Gives analysts a concise reading of exported VPN and IdP logs. Output is advisory only; containment needs analyst approval.",
+          "title": "VPN log hunt summary",
+          "type": "AI prompt"
+        },
+        {
+          "text": "Enforce MFA and device-compliance checks at the identity provider for VPN users so a firewall-level SAML bypass cannot alone grant network access. This limits exposure while firmware upgrades are scheduled.",
+          "title": "Conditional access backstop",
+          "type": "Better alternative"
+        }
+      ],
+      "sector": "VPN appliance · SonicWall",
+      "severity": "critical",
+      "source": "SecurityWeek",
+      "summary": "A flaw in SonicOS SSLVPN lets users with valid credentials for another authentication method bypass SAML controls, potentially including SAML-enforced MFA. SonicWall released patches by 7 November and CISA added it to KEV on 6 November with a 20 November deadline; Gen 6 is end-of-support.",
+      "timeline": [
+        {
+          "date": "2026-11-06",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "CISA",
+          "summary": "CISA confirmed exploitation of the SonicOS SSLVPN SAML bypass.",
+          "title": "CISA Known Exploited Vulnerabilities catalog",
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "date": "2026-11-07",
+          "kind": "patched",
+          "label": "SonicWall patches released",
+          "source": "SecurityWeek",
+          "summary": "SonicWall shipped fixed SonicOS builds for exploited SAML bypass.",
+          "title": "SonicWall patches exploited SonicOS bug that weakens VPN logins",
+          "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/"
+        },
+        {
+          "date": "2026-11-09",
+          "kind": "reported",
+          "label": "Fixed versions summarised",
+          "source": "eSecurity Planet",
+          "summary": "Coverage lists fixed Gen 7 and Gen 8 builds and notes Gen 6 is unsupported.",
+          "title": "SonicWall SSLVPN Authentication Bypass Added to CISA KEV",
+          "url": "https://esecurityplanet.com/vulnerabilities/news-sonicwall-sslvpn-authentication-bypass-cve-2026-19868"
+        },
+        {
+          "date": "2026-11-20",
+          "kind": "due",
+          "label": "CISA remediation deadline",
+          "source": "CISA",
+          "summary": "Federal civilian agencies must remediate by 20 November.",
+          "title": "CISA Known Exploited Vulnerabilities catalog",
+          "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+        }
+      ],
+      "title": "SonicWall patches exploited SonicOS bug that weakens VPN logins (CVE-2026-19868)",
+      "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-125350"
+      ],
+      "date": "2026-11-09",
+      "exploited": true,
+      "fixedIn": "Update Chrome to 157.0.8103.50/.51 (Windows, macOS) or 157.0.8103.50 (Linux) and relaunch; update Chromium-based browsers as fixes ship.",
+      "occurredDate": "2026-11-09",
+      "response": [
+        {
+          "text": "Schedule a job that reads endpoint inventory or the va_endpoints dataset for Chrome and Chromium browsers below the fixed version. It returns a compliance list per business unit with a ticket for lagging devices.",
+          "title": "Browser version compliance",
+          "type": "Job"
+        },
+        {
+          "text": "Pushing the Chrome update through MDM or the endpoint management tool with a relaunch deadline closes the gap faster than manual tracking. Enterprise policies can also enforce a maximum relaunch delay.",
+          "title": "Force browser update",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Act as a SOC analyst. For the attached endpoint telemetry from <hostname>, check whether Chrome spawned unexpected child processes, wrote executables or made unusual outbound connections after visiting a page since 6 Nov 2026. Assess likelihood of CVE-2026-125350 exploitation and list next steps in under 120 words.",
+          "text": "Helps analysts triage endpoints showing suspicious Chrome child processes. The output is advisory, and analysts decide on isolation.",
+          "title": "Browser exploit triage",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "Web browser · Google Chrome",
+      "severity": "high",
+      "source": "The Hacker News",
+      "summary": "Google patched nine Chrome flaws, including a use-after-free in the XML component that it says has an exploit in the wild, the eighth exploited Chrome zero-day of 2026. An anonymous researcher reported it on 6 November; Google gave no detail on the attacks.",
+      "timeline": [
+        {
+          "date": "2026-11-06",
+          "kind": "event",
+          "label": "Reported to Google",
+          "source": "The Hacker News",
+          "summary": "An anonymous researcher reported the XML flaw to Google.",
+          "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+          "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html"
+        },
+        {
+          "date": "2026-11-09",
+          "kind": "patched",
+          "label": "Chrome 157 update released",
+          "source": "SecurityWeek",
+          "summary": "Google shipped fixes for nine vulnerabilities including the XML zero-day.",
+          "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
+          "url": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/"
+        },
+        {
+          "date": "2026-11-09",
+          "kind": "exploited",
+          "label": "Google confirms in-the-wild exploit",
+          "source": "The Hacker News",
+          "summary": "Google said it is aware an exploit exists in the wild.",
+          "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+          "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html"
+        }
+      ],
+      "title": "Chrome XML use-after-free exploited in the wild (CVE-2026-125350)",
+      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html"
+    }
+  ],
+  "generatedAt": "2026-11-10T21:10:44+08:00",
+  "scanDate": "2026-11-10",
+  "threatLevel": {
+    "level": "Medium",
+    "previous": "Low",
+    "since": "2026-11-04",
+    "source": "NACSA",
+    "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+  }
+}

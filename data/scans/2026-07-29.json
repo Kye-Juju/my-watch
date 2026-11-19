@@ -1,0 +1,78 @@
+{
+  "articles": [
+    {
+      "category": "Politics",
+      "date": "2026-07-29",
+      "source": "Malay Mail",
+      "summary": "Pakatan Harapan communications director Fahmi Fadzil said the outcome of the Negeri Sembilan state election rests with voters rather than pundits or forecasts, urging candidates to keep engaging undecided residents in the campaign's final days. He also cautioned voters to be wary of fake news circulating on social media ahead of the August 1 polling date.",
+      "title": "Fahmi: Negeri Sembilan election will be decided by voters, not predictions",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/29/fahmi-negeri-sembilan-election-will-be-decided-by-voters-not-predictions/229308"
+    },
+    {
+      "category": "Politics",
+      "date": "2026-07-29",
+      "source": "The Star",
+      "summary": "Bersatu president Muhyiddin Yassin criticised the seat-sharing pact between Barisan Nasional and Perikatan Nasional in the Negeri Sembilan election, questioning whose manifesto would govern if the two coalitions won given their differing platforms. Speaking on the campaign trail in Linggi, he argued Bersatu's experience in state and federal government made it a stronger choice for voters ahead of the August 1 polls.",
+      "title": "Negri polls: Muhyiddin questions which manifesto will prevail under BN-PN electoral understanding",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/29/negri-polls-muhyiddin-questions-which-manifesto-will-prevail-under-bn-pn-electoral-understanding"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-29",
+      "source": "The Star",
+      "summary": "State transport operator Prasarana launched its 2024/2025 sustainability report, saying its rail and bus network avoided roughly 225,000 tonnes of carbon emissions last year by removing an estimated 377,000 private vehicles from the roads daily. The company said it plans to deepen its climate efforts through new rail lines, more electric buses and energy-efficiency upgrades.",
+      "title": "Public transportation cut 225,000 tonnes of carbon emissions in 2025, says Prasarana",
+      "url": "https://www.thestar.com.my/metro/metro-news/2026/07/29/public-transportation-cut-225000-tonnes-of-carbon-emissions-in-2025-says-prasarana"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-29",
+      "source": "Malay Mail",
+      "summary": "The Natural Resources and Environmental Sustainability Ministry introduced stricter rules for hikers to reduce the frequency and cost of mountain rescue operations, including restrictions on high-risk trails, tighter pre-climb health screening and greater use of certified forestry mountain guides. Climbers will also need to provide medical history declarations and proof of insurance before setting out.",
+      "title": "Malaysia tightens hiking rules to cut costly mountain rescue operations",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/29/malaysia-tightens-hiking-rules-to-cut-costly-mountain-rescue-operations/229408"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-28",
+      "source": "The Star",
+      "summary": "A first population survey of the Al-Sultan Abdullah Royal Tiger Reserve in Pahang estimated 10 to 13 Malayan tigers living there, including cubs, suggesting active breeding within the 134,183-hectare reserve. Conservationists said the count establishes a baseline for the reserve, gazetted in 2023, and credited anti-poaching patrols and prey-boosting efforts for the encouraging signs.",
+      "title": "Up to 13 tigers recorded in new Pahang reserve's first survey",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/28/active-breeding-at-new-reserve"
+    },
+    {
+      "category": "Working Policy",
+      "date": "2026-07-29",
+      "source": "The Star",
+      "summary": "New data show the number of self-employed Malaysians aged 20-29 more than doubled from 128,000 in 2013 to 286,000 in 2025, with own-account work among 20-24 year-olds growing fastest. Researchers cited in the report warned that without stronger social protections, the shift toward gig and freelance work could widen income inequality as young self-employed workers see weaker wage growth than salaried peers.",
+      "title": "INTERACTIVE: M'sia's self-employed youth workforce doubles since 2013",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/29/interactive-m039sia039s-self-employed-youth-workforce-doubles-since-2013"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-27",
+      "source": "DayakDaily",
+      "summary": "Serian became the first location in Sarawak this season to record an unhealthy Air Pollutant Index reading, hitting 151 as smoke drifted in from about 1,000 hotspots in West Kalimantan. Eight other monitoring stations across the state reported moderate readings, as the southwest monsoon raised the risk of transboundary haze reaching Sarawak.",
+      "title": "Serian records unhealthy API reading at 151 while 8 stations in S'wak report moderate readings",
+      "url": "https://dayakdaily.com/serian-records-unhealthy-api-reading-at-151-while-8-stations-in-swak-report-moderate-readings/"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-29",
+      "source": "Xinhua",
+      "summary": "Prime Minister Anwar Ibrahim said Malaysia's push into artificial intelligence and technology must not come at the expense of human values and national identity, calling for a balanced approach as the country pursues its AI ambitions. He urged that AI be introduced into schools alongside stronger STEM and technical education, backed by adequate infrastructure and teacher training.",
+      "title": "Technology, AI advances must be balanced with human values, national identity: Malaysian PM",
+      "url": "https://english.news.cn/20260729/fab0dffdb2ac430bbb7e13c5df05abf6/c.html"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-27",
+      "source": "Proactive Investors",
+      "summary": "Nvidia is reportedly negotiating a roughly $250 billion financial backstop to help OpenAI secure financing for a massive data centre campus in Ohio, part of a project that could exceed $500 billion in total cost. The talks, still unfinalised, would support lease and construction financing for the 10-gigawatt facility, whose first phase is expected online in 2028.",
+      "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center",
+      "url": "https://www.proactiveinvestors.com/companies/news/1096078/"
+    }
+  ],
+  "generatedAt": "2026-07-30T00:00:00+08:00",
+  "scanDate": "2026-07-29"
+}

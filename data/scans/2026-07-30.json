@@ -1,0 +1,94 @@
+{
+  "articles": [
+    {
+      "category": "Politics",
+      "date": "2026-07-29",
+      "source": "BusinessToday",
+      "summary": "Prime Minister Anwar Ibrahim, also PKR president, campaigned across Negeri Sembilan on July 29 with a packed schedule of community events ahead of Saturday's state election. The visit included stops in Jelebu, Paroi and Seremban as Pakatan Harapan made a final push to boost turnout before polling day on August 1.",
+      "title": "Anwar makes final campaign push in Negeri Sembilan ahead of state polls",
+      "url": "https://www.businesstoday.com.my/2026/07/29/pm-anwar-whos-also-the-pkr-president-set-to-woo-ns-voters-today/"
+    },
+    {
+      "category": "Politics",
+      "date": "2026-07-28",
+      "source": "Free Malaysia Today",
+      "summary": "Early voting for the 16th Negeri Sembilan state election recorded a turnout of 91.06%, well above the Election Commission's 75% target, with nearly 15,000 of about 16,500 eligible military and police personnel casting ballots. The strong showing comes ahead of the main polling day on August 1, seen as a bellwether for both Pakatan Harapan and Barisan Nasional.",
+      "title": "Early voting turnout in Negeri Sembilan exceeds 91%, beating EC target",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/28/early-voter-turnout-in-negeri-sembilan-reaches-91-06-exceeds-ec-target"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-22",
+      "source": "The Star",
+      "summary": "At the Asia ESG Summit 2026 in Selangor, industry and government speakers called for Malaysian businesses to move past superficial ESG reporting toward substantive sustainability practices. Discussions centered on tightening disclosure standards and aligning corporate sustainability efforts with the country's broader environmental goals.",
+      "title": "Malaysia pushes for real ESG compliance beyond box-ticking",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/22/pushing-for-real-esg-compliance"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-15",
+      "source": "Malay Mail",
+      "summary": "Johor's revised structure plan for 2040 shifts to a mission-based framework prioritising climate resilience, an ageing population and emerging technologies. State planners say the approach is designed to guide sustainable long-term development as Johor faces rapid industrial and population growth.",
+      "title": "Johor adopts mission-based sustainability approach for 2040 development plan",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/15/johor-adopts-new-mission-based-approach-for-2040-plan-to-drive-sustainable-state-development/227635"
+    },
+    {
+      "category": "Working Policy",
+      "date": "2026-07-28",
+      "source": "Malay Mail",
+      "summary": "A Bank Negara Malaysia deputy governor said wage growth continues to trail productivity gains and urged a rethink of how pay scales are set beyond the minimum wage. The remarks touched on progressive wage and living wage initiatives as tools to close the gap between worker output and take-home pay.",
+      "title": "BNM deputy governor calls for review of Malaysia's wage-setting system",
+      "url": "https://www.malaymail.com/news/money/2026/07/28/wage-growth-trailing-productivity-bnm-deputy-governor-urges-review-of-wagesetting-system/229298"
+    },
+    {
+      "category": "Working Policy",
+      "date": "2026-07-08",
+      "source": "The Star",
+      "summary": "The Cabinet reversed course on Perkeso's Lindung 24 Jam non-workplace accident scheme, making the 0.75% salary contribution optional for local employees after public pushback, Communications Minister Fahmi Fadzil said. Participation remains mandatory for foreign workers, while employers must still facilitate deductions for employees who opt in.",
+      "title": "Perkeso's Lindung 24 Jam accident scheme made voluntary",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/08/perkesos-lindung-24-jam-scheme-now-optional-says-fahmi"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-14",
+      "source": "The Star",
+      "summary": "Malaysia is preparing to become roughly the 60th country worldwide, and the second in ASEAN, to enact standalone climate change legislation. The upcoming law is expected to institutionalise emissions targets and reporting obligations as the country works toward net-zero by 2050.",
+      "title": "Malaysia set to join nations with dedicated climate law",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/14/malaysia-set-to-join-nations-with-climate-law"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-29",
+      "source": "The Edge Malaysia",
+      "summary": "Natural Resources Minister Arthur Joseph Kurup said the National Climate Change Bill and National Climate Change Authority Bill are in their final stages and expected to be tabled in Parliament this July. He described the legislation as a vital step in strengthening Malaysia's legal framework to address the climate crisis.",
+      "title": "Climate Change Bill and Climate Authority Bill in final stages, July tabling expected",
+      "url": "https://theedgemalaysia.com/node/802217"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-28",
+      "source": "The Edge Malaysia",
+      "summary": "Prime Minister Anwar Ibrahim launched AI Malaysia Berhad, a new entity under the Ministry of Digital that formalises and expands the National AI Office's role in coordinating AI policy across government. The launch also introduced the National AI Action Plan 2026-2030 and a new Malaysian AI Safety Institute.",
+      "title": "Putrajaya launches AI Malaysia Berhad to replace National AI Office",
+      "url": "https://theedgemalaysia.com/node/812301"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-28",
+      "source": "The Star",
+      "summary": "Anwar Ibrahim announced that Malaysians aged 18 to 30 who complete digital skills modules under the Rakyat Digital programme will receive three months of free access to a leading AI application starting August 31. The initiative, expected to reach 100,000 young people, is part of the newly launched National AI Action Plan.",
+      "title": "Government to offer 100,000 youths free AI software access",
+      "url": "https://www.thestar.com.my/news/education/2026/07/28/govt-to-offer-free-ai-subscriptions-for-100000-youths-says-pm"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-27",
+      "source": "The Local",
+      "summary": "Starting August 2, the EU AI Act requires chatbots to disclose they are AI, mandates machine-readable labels on AI-generated content, and requires deepfakes to be marked even without intent to deceive. Non-compliant providers face penalties of up to €15 million or 3% of global turnover, marking one of the most concrete global enforcement milestones for AI regulation to date.",
+      "title": "EU's new AI transparency rules on chatbots and deepfakes take effect August 2",
+      "url": "https://www.thelocal.com/20260727/explained-eus-new-rules-on-ai-deepfakes-and-chatbots"
+    }
+  ],
+  "generatedAt": "2026-07-30T00:00:26+08:00",
+  "scanDate": "2026-07-30"
+}

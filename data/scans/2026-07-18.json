@@ -1,0 +1,70 @@
+{
+  "articles": [
+    {
+      "category": "Politics",
+      "date": "2026-07-17",
+      "source": "Malay Mail",
+      "summary": "PAS deputy president Tuan Ibrahim Tuan Man called the Negeri Sembilan state election a 'new political alignment' for Malaysia, as Perikatan Nasional fields 11 seats alongside Barisan Nasional's 25 following Umno's withdrawal from the state government. He also credited PN's Johor landslide to a backlash against Pakatan Harapan's messaging to Chinese voters.",
+      "title": "PAS says Negeri Sembilan polls herald Malaysia's 'new political alignment'",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/17/pas-says-negeri-sembilan-polls-herald-malaysias-new-political-alignment/227908"
+    },
+    {
+      "category": "Politics",
+      "date": "2026-07-16",
+      "source": "Malay Mail",
+      "summary": "PM Anwar Ibrahim urged Negeri Sembilan voters to keep backing Pakatan Harapan ahead of the Aug 1 state poll, praising Menteri Besar Aminuddin Harun's tenure since 2018 as 'clean' and stable. The appeal comes as PH tries to steady its footing after Barisan Nasional's landslide win over the coalition in the July 11 Johor election.",
+      "title": "Anwar asks Negeri Sembilan voters to maintain Pakatan mandate for development continuity",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/16/anwar-asks-negeri-sembilan-voters-to-maintain-pakatan-mandate-for-development-continuity/227887"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-18",
+      "source": "The Edge Malaysia",
+      "summary": "Natural Resources Minister Arthur Joseph Kurup said the National Climate Change Bill and National Climate Change Authority Bill are in final stages for tabling this month, setting up a carbon-pricing MRV system and national emissions registry. The ministry also plans to boost the Department of Environment's enforcement staff and let Sabah and Sarawak manage their own scheduled waste.",
+      "title": "Climate bills near final stages, July Parliament tabling expected — Arthur",
+      "url": "https://theedgemalaysia.com/node/802217"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-14",
+      "source": "Eco-Business",
+      "summary": "A report on Malaysia's 11 largest institutional investors, managing roughly RM2.5 trillion in assets, found 55% now plan to increase climate-solutions financing, ahead of Asia's 49% average. However, only 27% have published formal climate transition plans, highlighting a gap between pledges and actual capital deployment.",
+      "title": "Malaysia's top institutional investors lead Asia on climate investment commitments: report",
+      "url": "https://www.eco-business.com/news/malaysias-top-institutional-investors-lead-asia-on-climate-investment-commitments-report/"
+    },
+    {
+      "category": "Working Policy",
+      "date": "2026-07-08",
+      "source": "The Star",
+      "summary": "The Cabinet reversed course on Perkeso's Lindung 24 Jam non-work-accident scheme, making the 0.75% salary contribution voluntary for local employees with immediate effect after public feedback over the mandatory deduction. Contributions remain mandatory for foreign workers under existing legal provisions.",
+      "title": "Perkeso's Lindung 24 Jam scheme now optional, says Fahmi",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/08/perkesos-lindung-24-jam-scheme-now-optional-says-fahmi"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-02",
+      "source": "Free Malaysia Today",
+      "summary": "Deputy PM Fadillah Yusof unveiled a framework to repurpose retiring coal plant sites into renewable energy and battery storage hubs, part of a plan to phase out coal by 2044 and hit 70% renewable capacity by 2050. He warned that renewable deployment must outpace coal retirement to avoid a costly pivot to imported LNG.",
+      "title": "Malaysia to turn retiring coal plants into renewable energy hubs",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/07/02/malaysia-to-turn-retiring-coal-plants-into-renewable-energy-hubs"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-13",
+      "source": "Baker McKenzie",
+      "summary": "Malaysia's National AI Office released a consultation paper on its first horizontal AI Governance Bill, covering developers and deployers across a system's lifecycle with a risk-tiered approach and a new Central AI Authority. Feedback closes July 31; the bill also proposes an AI regulatory sandbox aimed at helping SMEs innovate within the new rules.",
+      "title": "Malaysia opens public consultation on AI Governance Bill",
+      "url": "https://www.bakermckenzie.com/en/insight/publications/2026/07/malaysia-public-consultation-on-the-ai-governance-bill"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-17",
+      "source": "The Washington Times",
+      "summary": "Beijing-based Moonshot AI released Kimi K3, an open-weight model that topped coding benchmarks and rivals Anthropic's Claude and OpenAI's ChatGPT, priced at roughly half of GPT-5.6 Sol. The release, timed with Xi Jinping's keynote at Shanghai's World AI Conference, extends a run of competitive Chinese open-source model launches this year.",
+      "title": "Chinese AI model Kimi K3 takes US tech industry by surprise",
+      "url": "https://www.washingtontimes.com/news/2026/jul/17/chinese-ai-model-taking-us-tech-industry-surprise-abilities-rivaling/"
+    }
+  ],
+  "generatedAt": "2026-07-18T10:00:00+08:00",
+  "scanDate": "2026-07-18"
+}

@@ -1,0 +1,46 @@
+{
+  "articles": [
+    {
+      "category": "Politics",
+      "date": "2026-07-23",
+      "source": "Malay Mail",
+      "summary": "Malaysia's Foreign Minister reaffirmed the country's long-standing refusal to recognise Israel after the US State Department summoned Malaysia's ambassador over the matter. The clarification followed an incident involving a dual US-Israeli citizen who was turned away at immigration after his Israeli passport was discovered, which the government said reflected established policy rather than a new stance.",
+      "title": "Malaysia explains no-Israel stance to US after envoy summoned",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/malaysia-explains-no-israel-stance-to-us-after-envoy-summoned/228729"
+    },
+    {
+      "category": "Environmental Policy",
+      "date": "2026-07-23",
+      "source": "Malay Mail",
+      "summary": "Deputy Prime Minister Fadillah Yusof said Malaysia's installed renewable energy capacity had reached nearly 32% by June, keeping the country on track for its 35% by 2030 target. He pointed to a newly launched large-scale solar project in Pasir Mas as evidence of growing investor confidence and pledged continued government support for the energy transition.",
+      "title": "Malaysia nearing renewable energy target as solar push gathers pace, says DPM Fadillah",
+      "url": "https://www.malaymail.com/news/malaysia/2026/07/23/malaysia-nearing-renewable-energy-target-as-solar-push-gathers-pace-says-dpm-fadillah/228674"
+    },
+    {
+      "category": "Climate Activities",
+      "date": "2026-07-19",
+      "source": "The Star",
+      "summary": "Alliance for a Safe Community chairman Lee Lam Thye called for immediate national preparations ahead of a forecast Super El Nino expected to peak around November 2026 to January 2027. He warned of heightened risks to water supply, agriculture and public health from extended dry heat and haze, urging coordinated government action and support for farmers and vulnerable communities.",
+      "title": "Malaysia urged to prepare early for expected Super El Nino",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/19/malaysia-urged-to-prepare-early-for-expected-super-el-nio"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-22",
+      "source": "AMD Newsroom",
+      "summary": "AMD and Anthropic unveiled a multi-year partnership under which Anthropic will deploy up to 2 gigawatts of AMD Instinct MI450-series GPUs in AMD's Helios rack-scale systems, with the first gigawatt coming online in early 2027. AMD is also making an equity investment of up to $5 billion in Anthropic, and the companies will collaborate on using Claude to optimize workloads for AMD hardware and accelerate ROCm software development.",
+      "title": "AMD and Anthropic announce strategic partnership to deploy up to 2 gigawatts of AMD Instinct MI450 GPUs",
+      "url": "https://newsroom.amd.com/news/amd-anthropic-strategic-partnership/"
+    },
+    {
+      "category": "AI Technology",
+      "date": "2026-07-24",
+      "source": "TechCrunch",
+      "summary": "Prentis, an AI startup founded by Reid Hoffman and Mark Pincus in April 2026, is reportedly in talks to raise $100 million at a $1 billion valuation. The company builds AI agents designed to automate routine office workflows by navigating computer systems and documents, and has already signed contracts worth up to $50 million with customers in healthcare, manufacturing and retail.",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman and Mark Pincus, in talks to raise $100 million",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/"
+    }
+  ],
+  "generatedAt": "2026-07-30T00:00:00+08:00",
+  "scanDate": "2026-07-24"
+}

@@ -1,0 +1,507 @@
+{
+  "articles": [
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-07",
+      "occurredDate": "2026-11-06",
+      "region": "Malaysia",
+      "sector": "Banking",
+      "severity": "high",
+      "source": "Lowyat.NET",
+      "summary": "Several Bank Rakyat pages, including the iRakyat login, were defaced late on 6 November by an actor calling itself MARLANWG, and the bank pulled most sites offline. The bank has not confirmed a breach or data exposure; the minister said the affected site was run by a third party.",
+      "title": "Bank Rakyat Takes Down Sites After Suspected Cyber Attack",
+      "url": "https://www.lowyat.net/2026/409395/bank-rakyat-takes-down-sites-after-suspected-cyber-attack/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-12",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "high",
+      "source": "The Star",
+      "summary": "Communications Minister Fahmi Fadzil said on 12 November that NACSA remains at amber alert, a moderate readiness level. Claims of attacks and intrusions are circulating online, but NACSA has confirmed none so far and will be the official source of information.",
+      "title": "Nacsa maintains amber alert amid cyberattack, security breach claims",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/12/nacsa-maintains-amber-alert-amid-cyberattack-security-breach-claims"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-08",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "medium",
+      "source": "The Star",
+      "summary": "The Star reports on the widening cyber risk picture after NACSA lifted the national threat level to medium on 4 November, with critical-infrastructure sector heads now submitting weekly threat status reports to the agency.",
+      "title": "Malaysia facing increasingly complex cybersecurity risks",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/08/malaysia-facing-increasingly-complex-cybersecurity-risks"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-10",
+      "milestones": [
+        {
+          "date": "2026-11-14",
+          "label": "Melaka polling day"
+        }
+      ],
+      "region": "Malaysia",
+      "sector": "Elections · government website",
+      "severity": "high",
+      "source": "Lowyat.NET",
+      "summary": "The Election Commission says its website was reportedly attacked during the Melaka state election and it is still waiting for a full report. Chairman Ramlan Harun said an initial report went to the authorities and the commission is working with MCMC. The nature of the attack and any data impact are not yet disclosed.",
+      "title": "Election Commission Claims Cyberattack On Its Website",
+      "url": "https://www.lowyat.net/2026/409511/election-commission-website-cyberattack/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-07",
+      "occurredDate": "2026-11-07",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "critical",
+      "source": "The Star",
+      "summary": "The National Security Council said the cyber situation remains under control after incidents and disruptions at several financial institutions. NACSA's NC4 is monitoring, sector leads and critical-infrastructure operators are working with it, and Bank Negara leads the financial sector response. The public was told to ignore unverified attack claims and use official channels.",
+      "title": "National cybersecurity situation under control, threat level moderate, says MKN",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/07/national-cybersecurity-situation-under-control-threat-level-moderate-says-mkn"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-09",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "medium",
+      "source": "Malay Mail",
+      "summary": "NACSA reported 5,110 cyber incidents in Malaysia between January and September 2026. The figure was released days after the national threat level moved from Low to Medium on 4 November, and it frames the warnings from the Prime Minister about hybrid attacks.",
+      "title": "Nacsa records 5,110 cyber incidents in Malaysia from January to September",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/09/nacsa-records-5110-cyber-incidents-in-malaysia-from-january-to-september/242607"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-13",
+      "occurredDate": "2026-11-09",
+      "region": "Czech Republic",
+      "sector": "Cloud platform",
+      "severity": "high",
+      "source": "SecurityWeek",
+      "summary": "Czech scraping platform Apify, with about 91,000 customers, said an intruder using a compromised credential accessed customer accounts on 9 and 10 November. It confirmed on 12 November that personal data and stored data were reached, revoked some OAuth connections and is still investigating.",
+      "title": "Apify Confirms Customer Data Accessed in Cyberattack",
+      "url": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-12",
+      "occurredDate": "2026-11-10",
+      "region": "Global",
+      "sector": "Software supply chain",
+      "severity": "high",
+      "source": "SecurityWeek",
+      "summary": "Researchers say a campaign dubbed wfx-loot began on 10 November, using stolen valid tokens to probe over 61,000 repositories and plant credential-stealing code in CI workflows and npm hooks. Aikido saw execution in more than 1,800 repositories; teams are advised to rotate exposed secrets.",
+      "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
+      "url": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-05",
+      "region": "Norway",
+      "sector": "Government · aid agency",
+      "severity": "high",
+      "source": "Cybernews",
+      "summary": "Norway's aid agency Norad confirmed on 5 November that attackers abusing 27 accounts took names and emails of all 20,614 Grants Portal users, plus documents from three foreign organisations. The national security authority sees similarities with other recent attacks; no group has claimed it.",
+      "title": "Norwegian aid agency hit by cyberattack exposing data of 20K users",
+      "url": "https://cybernews.com/security/norad-cyberattack-exposes-20k-users/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-04",
+      "region": "Japan, Singapore, Hong Kong & South Korea",
+      "sector": "Aviation · supplier breach",
+      "severity": "high",
+      "source": "The Record",
+      "summary": "Japan Airlines, Cathay Pacific, Singapore Airlines, Korean Air, Asiana and Malaysia Airlines disclosed passenger data exposure traced to reservation provider Amadeus. Reported counts include 92,000 at JAL, 53,000 at Cathay and 46,000 at Singapore Airlines. Amadeus says a booking-display vulnerability was fixed and it found no payment data accessed.",
+      "title": "Asian airlines announce data breaches tied to IT provider incident (Amadeus)",
+      "url": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-10",
+      "occurredDate": "2026-10-12",
+      "region": "France",
+      "sector": "Critical infrastructure · food supply (OT)",
+      "severity": "critical",
+      "source": "SecurityWeek",
+      "summary": "On 9 November Paris prosecutors and ANSSI attributed the 12 October attack on about 700 French supermarkets to the IRGC-linked Shahid Kaveh group. Refrigeration reached 50C for hours. France summoned the Iranian ambassador and promised EU sanctions, and similar incidents were reported in several other European countries.",
+      "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
+      "url": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-11",
+      "region": "Thailand",
+      "sector": "Aviation · government directive",
+      "severity": "medium",
+      "source": "The Star",
+      "summary": "Thailand's deputy transport minister instructed aviation agencies and businesses that maintain public databases to tighten security after airline breaches across Asia. Thai Airways disclosed on 9 November that about 60,000 booking records may have been accessed through its supplier's system, without affecting its own systems or card data.",
+      "title": "Thailand orders tighter aviation cyber security after data breaches across Asia",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/11/thailand-orders-tighter-aviation-cyber-security-after-data-breaches-across-asia"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-12",
+      "sector": "Pardons & courts",
+      "severity": "critical",
+      "source": "The Star",
+      "summary": "Home Minister Saifuddin Nasution told the Dewan Rakyat on 12 November that a breach of house-arrest conditions would revoke the order and return Najib to Kajang Prison. Three prison officers per shift guard the residence at no extra cost, drawn from Kajang Prison staff.",
+      "title": "Najib could go back to prison if he breaches terms of house arrest, Dewan Rakyat told",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/12/najib-could-go-back-to-prison-if-he-breaches-terms-of-house-arrest-dewan-rakyat-told"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-13",
+      "sector": "Parliament · budget",
+      "severity": "high",
+      "source": "Business Today",
+      "summary": "Business Today summarises Parliament's sixth week: the house-arrest terms barring Najib from leaving the premises, politics and media, plus debate on national debt and GST. House arrest runs to 23 August 2028, and the Bar has sought judicial review of the Pardons Board decision.",
+      "title": "Najib House Arrest Conditions, National Debt And GST Dominate Parliament's Sixth Week",
+      "url": "https://www.businesstoday.com.my/2026/11/13/najib-house-arrest-conditions-national-debt-and-gst-dominate-parliaments-sixth-week/"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-09",
+      "milestones": [
+        {
+          "date": "2026-11-16",
+          "label": "Dewan Rakyat Budget 2027 committee-stage debates resume"
+        },
+        {
+          "date": "2026-11-30",
+          "label": "Dewan Rakyat starts government bills including AG and Public Prosecutor split"
+        },
+        {
+          "date": "2026-12-08",
+          "label": "Dewan Rakyat meeting ends"
+        }
+      ],
+      "sector": "Parliament · bills",
+      "severity": "high",
+      "source": "New Straits Times",
+      "summary": "Budget 2027 committee-stage debates continue 16 to 19 November, after which seven bills take the floor from 30 November, including the Constitution (Amendment) (No. 2) Bill splitting the AG and Public Prosecutor roles. The session ends on 8 December; the list may change.",
+      "title": "Seven bills lined up for Dewan Rakyat from Nov 30",
+      "url": "https://www.nst.com.my/amp/news/nation/2026/11/1574019/seven-bills-lined-dewan-rakyat-nov-30"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-10",
+      "milestones": [
+        {
+          "date": "2026-11-14",
+          "label": "Melaka state election polling day"
+        }
+      ],
+      "occurredDate": "2026-11-10",
+      "sector": "Elections",
+      "severity": "high",
+      "source": "The Edge Malaysia",
+      "summary": "Early voting for the Melaka state election on 10 November saw 94.96 percent turnout, with 9,417 of 9,917 eligible security-force voters casting ballots. Polling day for the 28 assembly seats, contested by 79 candidates, is Saturday 14 November.",
+      "title": "Melaka polls: Early voter turnout at 94.96%",
+      "url": "https://theedgemalaysia.com/node/825094"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-12",
+      "milestones": [
+        {
+          "date": "2026-12-01",
+          "label": "Court of Appeal case management in Sabah 40 percent revenue appeal"
+        }
+      ],
+      "sector": "Pardons & courts",
+      "severity": "high",
+      "source": "Newswav",
+      "summary": "In the federal government's appeal over Sabah's 40 percent revenue entitlement, the Court of Appeal used 12 November case management to fix a further session on 1 December. No ruling date or judgment has been reported; an earlier stay still pauses the High Court timelines.",
+      "title": "40pc: Further case management fixed for December 1",
+      "url": "https://newswav.com/article/40pc-further-case-management-fixed-for-december-1-A2611_yLFCUi"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-06",
+      "sector": "Government directive",
+      "severity": "medium",
+      "source": "Bernama",
+      "summary": "Government spokesman Fahmi Fadzil said the Cabinet, chaired by Anwar, agreed a Natural Resources and Environmental Sustainability Ministry memorandum on 6 November, described as a step towards Sarawak's environmental autonomy under the Malaysia Agreement 1963 arrangements.",
+      "title": "Cabinet agrees memorandum on Sarawak environmental autonomy under MA63",
+      "url": "https://bernama.com/en/region/news.php?id=2630917"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-03",
+      "occurredDate": "2026-11-03",
+      "sector": "MACC · courts",
+      "severity": "medium",
+      "source": "Bernama",
+      "summary": "On 3 November the Court of Appeal allowed lawyer Mahajoth Singh to start judicial review of two orders the MACC issued against him, a case testing the limits of the anti-graft agency's investigative powers.",
+      "title": "Court Of Appeal Grants Lawyer Mahajoth Singh Leave To Challenge MACC Orders",
+      "url": "https://bernama.com/en/crime_courts/news.php?id=2629664"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-06",
+      "milestones": [
+        {
+          "date": "2026-11-25",
+          "label": "Court of Appeal case management in Rosmah solar graft appeal"
+        }
+      ],
+      "sector": "Courts · graft trial",
+      "severity": "high",
+      "source": "The Vibes",
+      "summary": "The Court of Appeal had allowed Rosmah Mansor on 1 September to introduce additional evidence in her appeal against conviction and sentence in the solar hybrid graft case, then stayed that order pending a Federal Court appeal. The Court of Appeal fixed case management for 25 November, with a further mention on 3 December.",
+      "title": "Rosmah's bid to introduce fresh evidence in solar graft case held up by Federal Court appeal",
+      "url": "https://www.thevibes.com/articles/news/129260/federal-court-appeal-holds-up-rosmahs-bid-to-introduce-fresh-evidence-in-solar-graft-case"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-123158"
+      ],
+      "date": "2026-11-09",
+      "exploited": true,
+      "fixedIn": "Upgrade to OpenSSH 10.6p2 (Alpine packages shipped 5 Nov) and restart sshd; otherwise disable password authentication.",
+      "kevAdded": "2026-11-09",
+      "kevDue": "2026-11-12",
+      "occurredDate": "2026-11-05",
+      "response": [
+        {
+          "text": "Build a playbook that queries the asset inventory and XSIAM endpoint data for Alpine or musl-based hosts and containers running sshd below 10.6p2. It opens a ticket per host with owner and exposure. Analysts approve restarts of production sshd.",
+          "title": "Find musl SSH hosts",
+          "type": "Playbook"
+        },
+        {
+          "text": "Run an XQL query over auth and sshd logs for successful password logins to Alpine hosts from new source IPs, especially after very long password attempts. The analyst gets a ranked host list. Treat any hit as a compromise and isolate after approval.",
+          "title": "Hunt anomalous SSH logins",
+          "type": "Automation"
+        },
+        {
+          "text": "Setting PasswordAuthentication no in sshd_config and restricting port 22 with firewall rules removes the attack path without building automation. Do this before the package upgrade window. Verify with an external scan.",
+          "title": "Disable password auth",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "List hosts and container images running Alpine or other musl libc with OpenSSH sshd below 10.6p2 and password authentication enabled. Rank by internet exposure, include owner and last login anomalies, and recommend patch or mitigation per host in max 10 bullets.",
+          "text": "Ask the Cortex AI assistant to summarise exposed Alpine and musl hosts from incident data. It lists images, owners and priorities. Analysts validate against the vendor advisory.",
+          "title": "Alpine exposure triage",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "SSH server · OpenSSH",
+      "severity": "critical",
+      "source": "Help Net Security",
+      "summary": "Portable OpenSSH before 10.6p2 on Linux with musl libc and no PAM, such as Alpine, lets attackers log in with an oversized password. Attacks began within hours of publication in early November and CISA added it to KEV on 9 November.",
+      "timeline": [
+        {
+          "date": "2026-11-05",
+          "kind": "disclosed",
+          "label": "Alpine advisory published",
+          "source": "Help Net Security",
+          "summary": "Flaw disclosed and Alpine advisory issued.",
+          "title": "OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158)",
+          "url": "https://www.helpnetsecurity.com/?p=390599"
+        },
+        {
+          "date": "2026-11-05",
+          "kind": "patched",
+          "label": "OpenSSH 10.6p2 released",
+          "source": "Help Net Security",
+          "summary": "Fixed release and Alpine packages shipped the same day.",
+          "title": "OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158)",
+          "url": "https://www.helpnetsecurity.com/?p=390599"
+        },
+        {
+          "date": "2026-11-06",
+          "kind": "exploited",
+          "label": "First attacks observed",
+          "source": "Help Net Security",
+          "summary": "Previdian saw attempts under nine hours after CVE publication.",
+          "title": "OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158)",
+          "url": "https://www.helpnetsecurity.com/?p=390599"
+        },
+        {
+          "date": "2026-11-09",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "CISA",
+          "summary": "CISA listed the OpenSSH flaw as exploited.",
+          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "date": "2026-11-12",
+          "kind": "due",
+          "label": "CISA KEV deadline",
+          "source": "CISA",
+          "summary": "Three-day federal remediation deadline.",
+          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        }
+      ],
+      "title": "OpenSSH password-authentication bypass on musl systems \"SSHole\" (CVE-2026-123158)",
+      "url": "https://www.helpnetsecurity.com/?p=390599"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-123218"
+      ],
+      "cvss": 9.8,
+      "date": "2026-11-09",
+      "exploited": true,
+      "fixedIn": "Upgrade IBM Aspera Faspex to 5.0.19 PL1 on Linux and verify the faspex-core container image; no workaround.",
+      "kevAdded": "2026-11-09",
+      "kevDue": "2026-11-12",
+      "occurredDate": "2026-11-07",
+      "response": [
+        {
+          "text": "Create a playbook that finds Faspex 5 servers in the CMDB or vulnerability data, compares versions with 5.0.19 PL1 and checks internet exposure. It opens prioritised tickets. Analysts approve upgrade windows.",
+          "title": "Faspex version sweep",
+          "type": "Playbook"
+        },
+        {
+          "text": "Use an automation to pull Faspex user and role changes since 1 November and flag accounts promoted to administrator. The analyst gets a diff per server. Any unexplained promotion is escalated as a possible compromise.",
+          "title": "Audit new Faspex admins",
+          "type": "Automation"
+        },
+        {
+          "text": "XSIAM Vulnerability and Exposure Management can track this CVE across agent-covered endpoints without custom playbooks. Use it to see affected hosts and assign work. Add a firewall restriction on Faspex while patching.",
+          "title": "Use Emerging Vulnerabilities view",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Summarise IBM Aspera Faspex 5 servers below 5.0.19 PL1, whether internet-facing, and any user promoted to administrator since 2026-11-01. Rank by risk and propose containment steps needing analyst approval, max 10 bullets.",
+          "text": "Ask the Cortex AI assistant for a short summary of Faspex hosts and suspicious admin changes. It gives analysts a patch order. Validate against IBM bulletin.",
+          "title": "Faspex exposure summary",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "File transfer · IBM Aspera Faspex",
+      "severity": "high",
+      "source": "SecurityWeek",
+      "summary": "IBM patched an incorrect-authorization flaw in Faspex 5.0.0 to 5.0.19 on 7 November that lets an authenticated user gain administrator rights, rated 9.8 by IBM. CISA added it to KEV on 9 November with a 12 November deadline.",
+      "timeline": [
+        {
+          "date": "2026-11-07",
+          "kind": "disclosed",
+          "label": "IBM bulletin published",
+          "source": "IBM",
+          "summary": "IBM disclosed the authorization bypass in Faspex 5.",
+          "title": "Security Bulletin: IBM Aspera Faspex has addressed a vulnerability that could allow authorization bypass",
+          "url": "https://www.ibm.com/support/pages/node/7295921"
+        },
+        {
+          "date": "2026-11-07",
+          "kind": "patched",
+          "label": "Faspex 5.0.19 PL1 released",
+          "source": "IBM",
+          "summary": "Fix shipped with the bulletin.",
+          "title": "Security Bulletin: IBM Aspera Faspex has addressed a vulnerability that could allow authorization bypass",
+          "url": "https://www.ibm.com/support/pages/node/7295921"
+        },
+        {
+          "date": "2026-11-09",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "CISA",
+          "summary": "CISA flagged active exploitation.",
+          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "date": "2026-11-12",
+          "kind": "due",
+          "label": "CISA KEV deadline",
+          "source": "CISA",
+          "summary": "Three-day federal remediation deadline.",
+          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        }
+      ],
+      "title": "IBM Aspera Faspex 5 authorization bypass to admin (CVE-2026-123218)",
+      "url": "https://securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-90436"
+      ],
+      "cvss": 9.8,
+      "date": "2026-11-13",
+      "exploited": true,
+      "fixedIn": "No fix stated; N-able restricted the Legacy API and Intune integration, and hotfix 2026.4 HF2 alone is reported insufficient.",
+      "occurredDate": "2026-11-10",
+      "response": [
+        {
+          "text": "Build a playbook that lists N-central servers, checks whether the Legacy API is enabled and whether the web interface is internet reachable. It then searches for unknown scripts and XMRig processes. Analysts approve disabling the API.",
+          "title": "N-central exposure and IOC check",
+          "type": "Playbook"
+        },
+        {
+          "text": "Run an XQL query for XMRig or unusual high-CPU processes and new scheduled scripts on N-central hosts and on managed endpoints. The analyst gets a host list. Isolate confirmed hits only after approval.",
+          "title": "Hunt for miners on servers",
+          "type": "Automation"
+        },
+        {
+          "text": "Blocking internet access to N-central and turning off the Legacy API is faster than any new automation and removes the reported attack path. Re-enable only for required partners. Check vendor guidance before restoring.",
+          "title": "Restrict access at the firewall",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Draft a compromise assessment checklist for an N-able N-central server suspected of exploitation via the 4EverAble2Shell chain and CVE-2026-90436. Include log sources, persistence, miner indicators, managed-agent impact and evidence to preserve, max 12 bullets.",
+          "text": "Ask the Cortex AI assistant to draft a compromise assessment for an N-central server. It lists logs and artefacts to preserve. Analysts verify with the vendor and Huntress guidance.",
+          "title": "Compromise assessment",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "RMM platform · N-able N-central",
+      "severity": "critical",
+      "source": "SecurityWeek",
+      "summary": "A proof of concept published on 12 November chains an Apache Axis bug (CVE-2026-90436, CVSS 9.8) with an N-central flaw for unauthenticated root code execution when the Legacy API is enabled. Attacks began within hours, reportedly against fully patched servers; no fix was stated.",
+      "timeline": [
+        {
+          "date": "2026-11-10",
+          "kind": "patched",
+          "label": "Emergency hotfix HF2 released",
+          "source": "Huntress",
+          "summary": "N-able shipped hotfix 2026.4 HF2 for earlier Able2Shell flaws.",
+          "title": "N-able Disables Cloud Services Following Disclosure of \"Able2Shell\" Exploit Chains",
+          "url": "https://www.huntress.com/blog/n-able-disables-cloud-services-following-disclosure-of-able2shell-exploit-chains"
+        },
+        {
+          "date": "2026-11-12",
+          "kind": "event",
+          "label": "New PoC published",
+          "source": "SecurityWeek",
+          "summary": "Researcher released exploit code on GitHub.",
+          "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+          "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/"
+        },
+        {
+          "date": "2026-11-13",
+          "kind": "exploited",
+          "label": "Exploitation reported",
+          "source": "BleepingComputer",
+          "summary": "Attackers reportedly deployed crypto miners on patched servers.",
+          "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+          "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/"
+        }
+      ],
+      "title": "N-able N-central 4EverAble2Shell root RCE chain using Apache Axis flaw (CVE-2026-90436)",
+      "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/"
+    }
+  ],
+  "generatedAt": "2026-11-13T22:19:46+08:00",
+  "scanDate": "2026-11-13",
+  "threatLevel": {
+    "level": "Medium",
+    "previous": "Low",
+    "since": "2026-11-04",
+    "source": "NACSA",
+    "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+  }
+}

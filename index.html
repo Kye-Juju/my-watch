@@ -1,0 +1,1643 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Malaysia Cyber &amp; Governance Watch</title>
+<meta name="theme-color" content="#0a1024">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="MY Watch">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<style>body{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}</style>
+<style>
+  :root {
+    color-scheme: dark;
+    --bg-0: #0a1024;
+    --bg-glow: #1c3a8a;
+    --surface: #111830;
+    --surface-2: #0d1428;
+    --surface-hover: #16203f;
+    --border: #1e2a4a;
+    --border-strong: #2b3c66;
+    --grid: rgba(139, 150, 181, 0.10);
+    --gutter: rgba(6, 10, 26, 0.45);
+    --text: #f2f5fc;
+    --text-muted: #8b96b5;
+    --text-dim: #64708f;
+    --accent: #2f7bff;
+    --accent-soft: rgba(47,123,255,0.16);
+    --shadow: 0 2px 4px rgba(0,0,0,0.3), 0 8px 24px rgba(0,0,0,0.28);
+
+    /* Topics */
+    --cat-cyber: #38bdf8;
+    --cat-cyber-bg: rgba(56,189,248,0.15);
+    --cat-law: #b794f6;
+    --cat-law-bg: rgba(155,109,246,0.16);
+    --cat-vuln: #f472b6;
+    --cat-vuln-bg: rgba(244,114,182,0.15);
+
+    /* Severity (semantic — kept apart from the blue accent) */
+    --sev-critical: #ff5a6e;
+    --sev-critical-bg: rgba(255,90,110,0.15);
+    --sev-high: #ff9b45;
+    --sev-high-bg: rgba(255,155,69,0.15);
+    --sev-medium: #e8c547;
+    --sev-medium-bg: rgba(232,197,71,0.15);
+    --sev-low: #48d597;
+    --sev-low-bg: rgba(72,213,151,0.15);
+
+    /* CVE lifecycle events (shape + colour) */
+    --k-disclosed: #a5b4fc;
+    --k-patched: #48d597;
+    --k-exploited: #ff5a6e;
+    --k-kev: #ff9b45;
+    --k-reported: #38bdf8;
+    --k-due: #e8c547;
+    --k-event: #b794f6;
+  }
+  * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
+  body {
+    margin: 0;
+    font-size: 16px;
+    background-color: var(--bg-0);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.45;
+    background:
+      radial-gradient(1200px 600px at 50% -260px, var(--bg-glow) 0%, rgba(28,58,138,0) 60%),
+      linear-gradient(180deg, #0b1330 0%, var(--bg-0) 340px);
+    background-attachment: fixed;
+    min-height: 100%;
+  }
+  :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .wrap {
+    padding: 28px max(16px, env(safe-area-inset-right, 0px)) 72px max(16px, env(safe-area-inset-left, 0px));
+  }
+
+  /* Top bar: search, date and topic filters */
+  .topbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px 16px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--border);
+  }
+  .brand { display: flex; align-items: center; gap: 10px; margin-right: 8px; }
+  .brand .dot {
+    width: 26px; height: 26px;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #3b82f6, #1e40af);
+    box-shadow: 0 0 18px rgba(47,123,255,0.6);
+  }
+  .brand-name { font-weight: 700; font-size: 1.05rem; letter-spacing: 0.02em; }
+  select, input[type="search"] {
+    font: inherit;
+    padding: 10px 14px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--surface-2);
+    color: var(--text);
+    outline: none;
+  }
+  select:focus, input[type="search"]:focus { border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+  input[type="search"]::placeholder { color: var(--text-dim); }
+  .topbar input[type="search"] { flex: 1 1 280px; min-width: 0; }
+  .topbar select { flex: 0 1 auto; max-width: 100%; }
+  .topbar input:disabled, .topbar select:disabled { opacity: 0.5; }
+
+  .tabs { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 16px; }
+  .tabs:empty { display: none; }
+  .tab {
+    font: inherit;
+    font-size: 0.86rem;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    padding: 8px 15px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--surface-2);
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease;
+  }
+  .tab:hover { background: var(--surface-hover); color: var(--text); }
+  .tab .count { color: var(--text-dim); font-variant-numeric: tabular-nums; font-size: 0.8rem; }
+  .tab.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; box-shadow: 0 4px 14px rgba(47,123,255,0.4); }
+  .tab.active .count { color: rgba(255,255,255,0.8); }
+
+  /* Header */
+  .page-head { margin-top: 26px; }
+  h1 { font-size: 1.7rem; margin: 0 0 6px; letter-spacing: -0.01em; text-wrap: balance; }
+  .subtitle { margin: 0; color: var(--text-muted); font-size: 0.94rem; max-width: 70ch; }
+  .scanline {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 14px;
+    margin-top: 12px;
+    font-size: 0.84rem;
+    color: var(--text-muted);
+  }
+  .scanline:empty { display: none; }
+  .scanline .item { display: inline-flex; align-items: center; gap: 7px; }
+  .scanline b { color: var(--text); font-weight: 600; }
+  .scanline .rel { color: var(--text-dim); }
+  .scanline .live { width: 8px; height: 8px; border-radius: 50%; background: var(--sev-low); box-shadow: 0 0 0 3px var(--sev-low-bg); }
+  .scanline .live.stale { background: var(--sev-medium); box-shadow: 0 0 0 3px var(--sev-medium-bg); }
+  .flag {
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 2px 9px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    background: var(--surface-2);
+  }
+  .flag.warn { color: var(--sev-medium); border-color: transparent; background: var(--sev-medium-bg); }
+  .scanline a { color: var(--accent); }
+
+  .status {
+    margin-top: 26px;
+    padding: 48px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+    color: var(--text-muted);
+    background: var(--surface);
+    border: 1px dashed var(--border);
+    border-radius: 16px;
+  }
+  .status strong { color: var(--text); font-size: 1rem; }
+  .status p { margin: 0; max-width: 46ch; font-size: 0.9rem; }
+  .spinner {
+    width: 13px; height: 13px;
+    border: 2px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.7s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Severity bar */
+  .sevbar { margin-top: 22px; }
+  .sevbar-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 6px 16px; margin-bottom: 8px; }
+  .sevbar-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-dim); }
+  .sevbar-label b { margin-left: 8px; color: var(--text); font-variant-numeric: tabular-nums; }
+  .sev-threat { font-size: 0.8rem; color: var(--text-muted); text-decoration: none; }
+  a.sev-threat:hover { text-decoration: underline; }
+  .sevbar-track { display: flex; gap: 3px; height: 24px; border-radius: 7px; overflow: hidden; }
+  .sevbar-track .seg {
+    display: flex; align-items: center; justify-content: center;
+    min-width: 30px;
+    font-size: 0.76rem; font-weight: 800;
+    color: var(--bg-0);
+    font-variant-numeric: tabular-nums;
+  }
+  .sevbar-legend { display: flex; flex-wrap: wrap; gap: 4px 16px; margin-top: 8px; font-size: 0.78rem; color: var(--text-muted); }
+  .sevbar-legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .sevbar-legend i { width: 8px; height: 8px; border-radius: 50%; }
+  .sevbar-empty { margin: 0; font-size: 0.84rem; color: var(--text-dim); }
+
+  /* View switch */
+  .views { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 18px; }
+  .view-btn {
+    font: inherit;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 14px 18px;
+    border-radius: 14px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+  .view-btn:hover { background: var(--surface-hover); border-color: var(--border-strong); }
+  .view-title { font-size: 1rem; font-weight: 700; color: var(--text); }
+  .view-count { font-size: 0.8rem; }
+  .view-btn.active { background: var(--accent); border-color: var(--accent); color: rgba(255,255,255,0.85); box-shadow: 0 4px 14px rgba(47,123,255,0.4); }
+  .view-btn.active .view-title { color: #fff; }
+
+  .result-line {
+    margin: 18px 0 0;
+    font-size: 0.82rem;
+    color: var(--text-dim);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-height: 26px;
+  }
+  .result-line .new-count { color: var(--accent); font-weight: 600; }
+  .mark-read-btn {
+    font: inherit;
+    font-size: 0.78rem;
+    margin-left: auto;
+    padding: 5px 12px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--surface-2);
+    color: var(--text-muted);
+    cursor: pointer;
+  }
+  .mark-read-btn:hover { color: var(--text); border-color: var(--accent); }
+
+  /* Chips shared by rows and cards */
+  .badge, .sev {
+    font-size: 0.66rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 3px 9px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+  .badge.critical-vulnerabilities { color: var(--cat-vuln); background: var(--cat-vuln-bg); }
+  .sev { display: inline-flex; align-items: center; gap: 5px; }
+  .sev::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: currentColor; }
+  .sev-critical { color: var(--sev-critical); background: var(--sev-critical-bg); }
+  .sev-high { color: var(--sev-high); background: var(--sev-high-bg); }
+  .sev-medium { color: var(--sev-medium); background: var(--sev-medium-bg); }
+  .sev-low { color: var(--sev-low); background: var(--sev-low-bg); }
+  .region {
+    font-size: 0.68rem;
+    font-weight: 600;
+    padding: 3px 9px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+  .region.overseas { color: var(--text); border-color: var(--border-strong); background: var(--surface-2); }
+  .new-pill {
+    font-size: 0.6rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #fff;
+    background: var(--accent);
+    padding: 2px 8px;
+    border-radius: 999px;
+    box-shadow: 0 2px 8px rgba(47,123,255,0.45);
+  }
+  .shape-next {
+    display: inline-block; flex: none;
+    width: 8px; height: 8px;
+    border: 2px solid var(--text-muted);
+    border-radius: 1px;
+    transform: rotate(45deg);
+  }
+
+  /* ---- News: one row per article ---- */
+  .group-head {
+    display: flex;
+    align-items: center;
+    gap: 9px;
+    margin: 22px 0 10px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-muted);
+  }
+  .group-head i { width: 9px; height: 9px; border-radius: 50%; }
+  .group-head b { color: var(--text-dim); font-weight: 600; }
+  .rows {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+  .row {
+    position: relative;
+    display: grid;
+    grid-template-columns: 132px minmax(0, 1fr) clamp(150px, 16vw, 220px);
+    gap: 6px 24px;
+    padding: 14px 20px 14px 24px;
+    border-top: 1px solid var(--border);
+    transition: background 0.15s ease;
+  }
+  .row:first-child { border-top: 0; }
+  .row::before {
+    content: "";
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 3px;
+    background: var(--c);
+  }
+  .row:hover { background: var(--surface-hover); }
+  .row.flash { animation: flash 1.6s ease-out; }
+  @keyframes flash { 0%, 35% { background: var(--accent-soft); } }
+  .row-tags { display: flex; flex-direction: column; align-items: flex-start; gap: 6px; padding-top: 2px; }
+  .row-main { min-width: 0; }
+  .row h3 { margin: 0 0 4px; font-size: 0.98rem; line-height: 1.38; font-weight: 600; }
+  .row.is-new h3 { font-weight: 700; }
+  .row h3 a { color: var(--text); text-decoration: none; }
+  .row h3 a:hover { color: var(--accent); text-decoration: underline; }
+  .row-sum {
+    margin: 0;
+    font-size: 0.87rem;
+    color: var(--text-muted);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .row-sum.open { display: block; }
+  .row-next { display: flex; align-items: center; gap: 8px; margin: 6px 0 0; font-size: 0.78rem; color: var(--text-muted); }
+  .row-next time { color: var(--text-dim); font-variant-numeric: tabular-nums; }
+  .row-side {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 2px;
+    text-align: right;
+    font-size: 0.78rem;
+    color: var(--text-dim);
+    font-variant-numeric: tabular-nums;
+    min-width: 0;
+  }
+  .row-side .src { color: var(--text-muted); font-weight: 600; }
+  .row-side span { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+  /* ---- CVE lifecycle timeline ---- */
+  .cl {
+    margin-top: 16px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+  .cl-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 12px 24px;
+    padding: 16px 20px 14px;
+    border-bottom: 1px solid var(--border);
+  }
+  .cl-titlebar { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 14px; }
+  .cl-head h2 { margin: 0; font-size: 1rem; font-weight: 700; }
+  .cl-range { margin: 4px 0 0; font-size: 0.78rem; color: var(--text-dim); font-variant-numeric: tabular-nums; }
+  .seg-switch {
+    display: inline-flex;
+    gap: 2px;
+    padding: 3px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--surface-2);
+  }
+  .seg-switch button {
+    font: inherit;
+    font-size: 0.78rem;
+    padding: 4px 12px;
+    border: 0;
+    border-radius: 999px;
+    background: none;
+    color: var(--text-muted);
+    cursor: pointer;
+  }
+  .seg-switch button:hover { color: var(--text); }
+  .seg-switch button[aria-pressed="true"] { background: var(--accent); color: #fff; font-weight: 600; }
+  .cl-legend { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; font-size: 0.76rem; color: var(--text-muted); }
+  .cl-legend span { display: inline-flex; align-items: center; gap: 6px; }
+
+  /* Event shapes: legend, markers and popover chips all use .kshape */
+  .kshape { display: inline-block; flex: none; width: 11px; height: 11px; border-radius: 50%; background: var(--k); }
+  .k-disclosed { --k: var(--k-disclosed); background: var(--surface); border: 2px solid var(--k); }
+  .k-patched { --k: var(--k-patched); }
+  .k-exploited { --k: var(--k-exploited); }
+  .k-kev { --k: var(--k-kev); width: 10px; height: 10px; border-radius: 2px; transform: rotate(45deg); }
+  .k-reported { --k: var(--k-reported); width: 9px; height: 9px; }
+  .k-due { --k: var(--k-due); width: 10px; height: 10px; border-radius: 2px; transform: rotate(45deg); background: var(--surface); border: 2px solid var(--k); }
+  .k-event { --k: var(--k-event); width: 9px; height: 9px; }
+
+  .cl-scroll { overflow-x: auto; overscroll-behavior-x: contain; }
+  .cl-grid {
+    --cl-label: clamp(200px, 20vw, 300px);
+    display: grid;
+    grid-template-columns: var(--cl-label) minmax(640px, 1fr);
+  }
+  .cl-hlabel, .cl-label {
+    position: sticky;
+    left: 0;
+    z-index: 2;
+    background: var(--surface);
+    border-right: 1px solid var(--border);
+  }
+  .cl-hlabel {
+    z-index: 3;
+    display: flex;
+    align-items: flex-end;
+    padding: 10px 16px 9px;
+    font-size: 0.68rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--text-dim);
+    border-bottom: 1px solid var(--border);
+  }
+  .cl-axis { position: relative; height: 46px; border-bottom: 1px solid var(--border); }
+  .cl-tick {
+    position: absolute;
+    bottom: 7px;
+    transform: translateX(-50%);
+    font-size: 0.68rem;
+    color: var(--text-dim);
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+  .cl-month {
+    position: absolute;
+    top: 7px;
+    padding-left: 6px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+  .cl-month::before { content: ""; position: absolute; left: 0; top: 2px; bottom: 2px; width: 1px; background: var(--text-dim); }
+  .cl-gut-label {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 0.64rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-dim);
+  }
+  .cl-today-tag {
+    position: absolute;
+    top: 6px;
+    transform: translateX(-50%);
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 1px 7px;
+    border-radius: 999px;
+    color: #fff;
+    background: var(--accent);
+    z-index: 1;
+  }
+  .cl-label {
+    font: inherit;
+    color: inherit;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 9px 14px 9px 16px;
+    border: 0;
+    border-right: 1px solid var(--border);
+    border-top: 1px solid var(--grid);
+    cursor: pointer;
+    min-width: 0;
+  }
+  .cl-label:hover { background: var(--surface-hover); }
+  .cl-sev { flex: none; width: 9px; height: 9px; border-radius: 50%; background: var(--c); }
+  .cl-ltext { display: flex; flex-direction: column; min-width: 0; }
+  .cl-cve, .cl-prod { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .cl-cve { font: 600 0.8rem/1.3 ui-monospace, "Cascadia Code", Consolas, monospace; color: var(--text); }
+  .cl-cve em { font-style: normal; color: var(--text-dim); font-weight: 400; }
+  .cl-prod { font-size: 0.72rem; color: var(--text-dim); }
+  .cl-prod .due { color: var(--k-due); }
+  .cl-prod .due.late { color: var(--sev-critical); }
+  .cl-track { position: relative; height: 54px; border-top: 1px solid var(--grid); }
+  .cl-gutter { position: absolute; top: 0; bottom: 0; background: var(--gutter); }
+  .cl-vline { position: absolute; top: 0; bottom: 0; width: 1px; background: var(--grid); }
+  .cl-today { position: absolute; top: 0; bottom: 0; width: 2px; margin-left: -1px; background: var(--accent); opacity: 0.5; }
+  .cl-line { position: absolute; top: 50%; height: 2px; margin-top: -1px; background: var(--c); opacity: 0.55; }
+  .cl-line.ahead { background: repeating-linear-gradient(90deg, var(--c) 0 6px, transparent 6px 11px); opacity: 0.6; }
+  .cl-mk {
+    position: absolute;
+    top: 50%;
+    width: 24px; height: 24px;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    background: none;
+    transform: translate(-50%, -50%);
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+    z-index: 1;
+  }
+  .cl-mk .kshape { width: 13px; height: 13px; box-shadow: 0 0 0 3px var(--surface); transition: transform 0.12s ease; }
+  .cl-mk .k-kev, .cl-mk .k-due { width: 11px; height: 11px; }
+  .cl-mk .k-reported, .cl-mk .k-event { width: 10px; height: 10px; }
+  .cl-mk .k-exploited { box-shadow: 0 0 0 3px var(--surface), 0 0 12px 1px var(--k); }
+  .cl-mk:hover .kshape, .cl-mk:focus-visible .kshape { transform: scale(1.3); }
+  .cl-mk:hover .k-kev, .cl-mk:hover .k-due, .cl-mk:focus-visible .k-kev, .cl-mk:focus-visible .k-due { transform: rotate(45deg) scale(1.3); }
+  .cl-mk.open { background: rgba(47,123,255,0.22); }
+  .cl-mk b {
+    position: absolute;
+    top: -3px; right: -4px;
+    min-width: 15px;
+    padding: 0 3px;
+    font-size: 0.6rem;
+    line-height: 15px;
+    border-radius: 999px;
+    color: var(--bg-0);
+    background: var(--text);
+  }
+  .cl-pill {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 8px;
+    font: inherit;
+    font-size: 0.66rem;
+    white-space: nowrap;
+    color: var(--text-muted);
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--surface-2);
+    cursor: pointer;
+    z-index: 1;
+  }
+  .cl-pill .kshape { width: 8px; height: 8px; }
+  .cl-pill:hover, .cl-pill:focus-visible, .cl-pill.open { color: var(--text); border-color: var(--accent); }
+  .cl-empty { grid-column: 1 / -1; padding: 28px 20px; text-align: center; font-size: 0.86rem; color: var(--text-dim); }
+  .cl-foot { margin: 0; padding: 10px 20px 12px; font-size: 0.74rem; color: var(--text-dim); border-top: 1px solid var(--border); }
+
+  /* Popover listing every article on a clicked date */
+  .cl-pop {
+    position: fixed;
+    z-index: 60;
+    width: min(380px, calc(100vw - 24px));
+    max-height: min(62vh, 460px);
+    overflow: auto;
+    padding: 12px 14px 8px;
+    background: #0b1226;
+    border: 1px solid var(--border-strong);
+    border-radius: 14px;
+    box-shadow: 0 16px 40px rgba(0,0,0,0.5);
+  }
+  .pop-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 4px; }
+  .pop-date { font-size: 0.86rem; font-weight: 700; }
+  .pop-date span { margin-left: 6px; font-weight: 400; color: var(--text-dim); font-size: 0.78rem; }
+  .pop-close {
+    font: inherit;
+    width: 26px; height: 26px;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    background: var(--surface-2);
+    color: var(--text-muted);
+    cursor: pointer;
+    line-height: 1;
+  }
+  .pop-close:hover { color: var(--text); border-color: var(--accent); }
+  .pop-list { list-style: none; margin: 0; padding: 0; }
+  .pop-item { padding: 10px 0; border-top: 1px solid var(--border); }
+  .pop-item:first-child { border-top: 0; }
+  .pop-item.focus .pop-title { color: #fff; }
+  .pop-top { display: flex; align-items: center; flex-wrap: wrap; gap: 4px 8px; margin-bottom: 4px; font-size: 0.7rem; }
+  .kchip { display: inline-flex; align-items: center; gap: 6px; font-weight: 700; color: var(--text); }
+  .kchip .kshape { width: 8px; height: 8px; }
+  .kchip .k-disclosed, .kchip .k-due { border-width: 1.5px; }
+  .pop-cve { font-family: ui-monospace, "Cascadia Code", Consolas, monospace; color: var(--text-dim); }
+  .pop-title { display: block; font-size: 0.86rem; font-weight: 600; line-height: 1.35; color: var(--text); text-decoration: none; }
+  .pop-title:hover { color: var(--accent); text-decoration: underline; }
+  .pop-sum { margin: 3px 0 0; font-size: 0.78rem; color: var(--text-muted); }
+  .pop-foot { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-top: 5px; font-size: 0.72rem; color: var(--text-dim); }
+  .pop-go {
+    font: inherit;
+    font-size: 0.72rem;
+    padding: 2px 9px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--surface-2);
+    color: var(--text-muted);
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .pop-go:hover { color: var(--text); border-color: var(--accent); }
+
+  /* ---- CVE cards with suggested playbook response ---- */
+  .vulns { display: grid; gap: 16px; margin-top: 16px; }
+  .card {
+    position: relative;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 18px 20px;
+    box-shadow: var(--shadow);
+  }
+  .card.is-new { border-color: rgba(47,123,255,0.5); }
+  .card.flash { animation: cardflash 1.6s ease-out; }
+  @keyframes cardflash { 0%, 35% { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(47,123,255,0.35), var(--shadow); } }
+  .card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 10px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .card h3 { font-size: 1.04rem; margin: 0 0 8px; line-height: 1.36; text-wrap: balance; }
+  .card h3 a { color: var(--text); text-decoration: none; }
+  .card h3 a:hover { color: var(--accent); text-decoration: underline; }
+  .src-line { font-size: 0.8rem; color: var(--text-dim); margin-bottom: 10px; display: flex; align-items: center; gap: 4px 6px; flex-wrap: wrap; }
+  .src-line .sector { color: var(--text-muted); }
+  .card p.summary { margin: 0; font-size: 0.92rem; color: var(--text-muted); }
+  .vuln-body { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr); gap: 18px 28px; margin-top: 2px; }
+  .vuln-info, .vuln-actions { min-width: 0; }
+  .vuln-facts { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
+  .fact {
+    font-size: 0.72rem;
+    padding: 3px 9px;
+    border-radius: 6px;
+    border: 1px solid var(--border);
+    background: var(--surface-2);
+    color: var(--text-muted);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+  .fact.cve { font-family: ui-monospace, "Cascadia Code", Consolas, monospace; color: var(--text); }
+  .fact.exploited { color: var(--sev-critical); background: var(--sev-critical-bg); border-color: transparent; }
+  .fact.kev { color: var(--sev-high); background: var(--sev-high-bg); border-color: transparent; }
+  .fixed-in { margin: 10px 0 0; font-size: 0.84rem; color: var(--text-muted); }
+  .fixed-in b { color: var(--text); font-weight: 600; }
+  .next-list {
+    list-style: none;
+    margin: 14px 0 0;
+    padding: 10px 0 0;
+    border-top: 1px dashed var(--border);
+    display: grid;
+    gap: 6px;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+  .next-list li { display: flex; align-items: center; gap: 9px; }
+  .next-list time { margin-left: auto; color: var(--text-dim); white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .actions-head { margin: 0 0 8px; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-dim); }
+  .actions { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+  .action { padding: 11px 14px; border-radius: 12px; border: 1px solid var(--border); background: var(--surface-2); }
+  .action-top { display: flex; align-items: center; flex-wrap: wrap; gap: 6px 8px; margin-bottom: 4px; }
+  .atype {
+    font-size: 0.64rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 2px 7px;
+    border-radius: 5px;
+    color: var(--accent);
+    background: var(--accent-soft);
+    white-space: nowrap;
+  }
+  .atype.better-alternative { color: var(--sev-low); background: var(--sev-low-bg); }
+  .action-title { font-size: 0.87rem; font-weight: 600; color: var(--text); }
+  .action p { margin: 0; font-size: 0.84rem; color: var(--text-muted); }
+  .prompt pre {
+    margin: 8px 0 0;
+    padding: 10px 12px;
+    max-height: 220px;
+    overflow: auto;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--bg-0);
+    color: var(--text);
+    font: 0.78rem/1.5 ui-monospace, "Cascadia Code", Consolas, monospace;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+  }
+  .copy-btn {
+    margin-top: 6px;
+    font: inherit;
+    font-size: 0.74rem;
+    padding: 4px 11px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-muted);
+    cursor: pointer;
+  }
+  .copy-btn:hover { color: var(--text); border-color: var(--accent); }
+
+  .empty {
+    margin-top: 16px;
+    text-align: center;
+    color: var(--text-muted);
+    padding: 48px 20px;
+    border: 1px dashed var(--border);
+    border-radius: 16px;
+  }
+  .empty button {
+    margin-top: 14px;
+    font: inherit;
+    padding: 9px 16px;
+    border-radius: 10px;
+    border: 1px solid var(--accent);
+    background: var(--accent-soft);
+    color: var(--text);
+    cursor: pointer;
+  }
+  footer { margin-top: 44px; color: var(--text-dim); font-size: 0.8rem; text-align: center; }
+
+  @media (max-width: 860px) { .vuln-body { grid-template-columns: 1fr; } }
+  @media (max-width: 760px) {
+    .wrap { padding-top: 20px; }
+    .row { grid-template-columns: minmax(0, 1fr); gap: 8px; padding: 14px 16px 14px 20px; }
+    .row-tags { flex-direction: row; flex-wrap: wrap; align-items: center; }
+    .row-side { flex-direction: row; flex-wrap: wrap; align-items: center; text-align: left; gap: 2px 12px; }
+    .cl-grid { --cl-label: 148px; grid-template-columns: var(--cl-label) minmax(560px, 1fr); }
+    .cl-label { padding: 8px 10px 8px 12px; gap: 8px; }
+  }
+  @media (max-width: 520px) { .views { grid-template-columns: 1fr; } h1 { font-size: 1.45rem; } }
+  @media (prefers-reduced-motion: reduce) {
+    .tab, .view-btn, .row, .cl-mk .kshape { transition: none; }
+    .row.flash, .card.flash { animation: none; outline: 2px solid var(--accent); }
+  }
+</style>
+
+</head><body>
+<div class="wrap">
+  <div class="topbar">
+    <div class="brand">
+      <div class="dot"></div>
+      <span class="brand-name">MY Watch</span>
+    </div>
+    <input type="search" id="searchBox" placeholder="Search headlines, CVEs, sectors and summaries…" aria-label="Search articles" disabled>
+    <select id="dateSelect" aria-label="Select brief date" disabled></select>
+  </div>
+  <div class="tabs" id="tabs" role="tablist" aria-label="Filter by topic"></div>
+
+  <header class="page-head">
+    <h1>Malaysia Cyber &amp; Governance Watch</h1>
+    <p class="subtitle">Daily brief on cyberattacks in Malaysia and overseas, critical Malaysian law &amp; government developments, and exploited vulnerabilities with suggested XSOAR/XSIAM response.</p>
+    <div class="scanline" id="scanline" aria-live="polite"></div>
+  </header>
+
+  <div class="status" id="status" role="status">
+    <span class="spinner"></span>
+    <strong>Loading the latest brief…</strong>
+    <p>A new brief arrives every night around 9 PM Malaysia time.</p>
+  </div>
+
+  <div id="app" hidden>
+    <div class="sevbar" id="sevbar"></div>
+
+    <div class="views" role="tablist" aria-label="Choose which articles to show">
+      <button type="button" class="view-btn active" id="viewNews" role="tab" aria-selected="true" aria-controls="newsSection">
+        <span class="view-title">Cyberattacks &amp; government news</span>
+        <span class="view-count" id="newsCount"></span>
+      </button>
+      <button type="button" class="view-btn" id="viewVulns" role="tab" aria-selected="false" aria-controls="vulnSection">
+        <span class="view-title">CVEs &amp; SOAR suggestions</span>
+        <span class="view-count" id="vulnCount"></span>
+      </button>
+    </div>
+    <div class="result-line" id="resultLine" aria-live="polite"></div>
+
+    <section id="newsSection" role="tabpanel" aria-labelledby="viewNews">
+      <div id="rows"></div>
+    </section>
+
+    <section id="vulnSection" role="tabpanel" aria-labelledby="viewVulns" hidden>
+      <section class="cl" aria-labelledby="clTitle">
+        <div class="cl-head">
+          <div>
+            <div class="cl-titlebar">
+              <h2 id="clTitle">CVE lifecycle</h2>
+              <div class="seg-switch" role="group" aria-label="Which CVEs to plot">
+                <button type="button" id="clBrief" aria-pressed="true">This brief</button>
+                <button type="button" id="clRecent" aria-pressed="false">Last 30 days</button>
+              </div>
+            </div>
+            <p class="cl-range" id="clRange"></p>
+          </div>
+          <div class="cl-legend" aria-hidden="true" id="clLegend"></div>
+        </div>
+        <div class="cl-scroll" id="clScroll">
+          <div class="cl-grid" id="clGrid"></div>
+        </div>
+        <p class="cl-foot">Click a point to see every article on that date. Dashed lines run ahead to upcoming deadlines.</p>
+      </section>
+      <div class="vulns" id="vulns"></div>
+    </section>
+
+    <div class="empty" id="emptyState" hidden>No articles match your filters.<br><button type="button" id="clearBtn">Clear filters</button></div>
+    <footer id="footerNote"></footer>
+  </div>
+</div>
+<div class="cl-pop" id="clPop" role="dialog" aria-label="Articles on this date" hidden></div>
+
+<script>
+  const CATEGORY_ORDER = [
+    "Cyberattacks", "Law & Government", "Critical Vulnerabilities",
+    "Politics", "Environmental Policy", "Working Policy", "Climate Activities", "AI Technology"
+  ];
+  const CAT_COLOR = {
+    "Cyberattacks": "var(--cat-cyber)",
+    "Law & Government": "var(--cat-law)",
+    "Critical Vulnerabilities": "var(--cat-vuln)"
+  };
+  const SEVERITIES = ["critical", "high", "medium", "low"];
+  const SEVERITY_LABEL = { critical: "Critical", high: "High", medium: "Medium", low: "Low" };
+  // CVE lifecycle events, in the order they usually happen
+  const EVENT_KINDS = {
+    disclosed: "Disclosed",
+    patched: "Patch released",
+    exploited: "Exploited in the wild",
+    kev: "Added to CISA KEV",
+    reported: "Reported",
+    due: "CISA deadline",
+    event: "Other event"
+  };
+  const KIND_ORDER = Object.keys(EVENT_KINDS);
+  const KIND_PRIORITY = ["exploited", "kev", "due", "patched", "disclosed", "reported", "event"];
+  const SCAN_HOUR_UTC = 13;              // the cloud routine runs daily at 13:00 UTC = 9 PM Malaysia time
+
+  const cardEls = new Map();             // url -> rendered row or card, for jumps
+  const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  let scans = [];                        // loaded briefs, newest first
+  let selectedDate = null;               // null = follow the newest brief
+  let currentData = null;
+  let activeCategory = "All";
+  let searchTerm = "";
+  let activeView = "news";
+  let clRange = "brief";                 // "brief" | "recent" (last 30 days of briefs)
+  try { if (localStorage.getItem("myWatchClRange") === "recent") clRange = "recent"; } catch (e) {}
+  let lanes = [];                        // CVE entries plotted on the lifecycle chart
+  let liveOk = false;
+
+  const statusEl = document.getElementById("status");
+  const appEl = document.getElementById("app");
+
+  function setStatus(title, text, busy = false) {
+    statusEl.innerHTML = (busy ? '<span class="spinner"></span>' : "")
+      + `<strong>${esc(title)}</strong>` + (text ? `<p>${esc(text)}</p>` : "");
+    statusEl.hidden = false;
+    appEl.hidden = true;
+  }
+
+  /* ---- Read / unread tracking (this browser only) ---- */
+  const SEEN_KEY = "myWatchSeenUrls";
+  function getSeen() {
+    try { return new Set(JSON.parse(localStorage.getItem(SEEN_KEY) || "[]")); }
+    catch (e) { return new Set(); }
+  }
+  let seenUrls = getSeen();
+  function saveSeen() { try { localStorage.setItem(SEEN_KEY, JSON.stringify([...seenUrls])); } catch (e) {} }
+  function markSeen(url) { if (!seenUrls.has(url)) { seenUrls.add(url); saveSeen(); } }
+  function markAllSeen(urls) { urls.forEach(u => seenUrls.add(u)); saveSeen(); render(); }
+
+  /* ---- Helpers ---- */
+  function esc(s) {
+    return String(s ?? "").replace(/[&<>"']/g, c =>
+      ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  }
+  function slug(s) { return String(s).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""); }
+  function safeUrl(u) { return /^https?:\/\//i.test(String(u || "")) ? u : "#"; }
+  function isISO(s) { return /^\d{4}-\d{2}-\d{2}$/.test(String(s || "")); }
+
+  function parseISO(iso) { return new Date(iso + "T00:00:00"); }
+  function toISO(d) {
+    return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+  }
+  function addDays(iso, n) { const d = parseISO(iso); d.setDate(d.getDate() + n); return toISO(d); }
+  function dayDiff(a, b) { return Math.round((parseISO(b) - parseISO(a)) / 86400000); }
+  function todayISO() { return toISO(new Date()); }
+  function minISO(a, b) { return a < b ? a : b; }
+  function maxISO(a, b) { return a > b ? a : b; }
+
+  function fmtFull(iso) {
+    const d = parseISO(iso);
+    return isNaN(d) ? iso : d.toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" });
+  }
+  function fmtDay(iso) {
+    const d = parseISO(iso);
+    return isNaN(d) ? iso : d.toLocaleDateString(undefined, { weekday: "short", day: "numeric", month: "short" });
+  }
+  function fmtShort(iso) {
+    const d = parseISO(iso);
+    return isNaN(d) ? iso : d.toLocaleDateString(undefined, { day: "numeric", month: "short" });
+  }
+  function fmtStamp(d) {
+    return d.toLocaleString(undefined, { weekday: "short", day: "numeric", month: "short", hour: "numeric", minute: "2-digit" });
+  }
+  function dayAgo(iso) {
+    const days = dayDiff(iso, todayISO());
+    if (isNaN(days)) return iso;
+    if (days === 0) return "today";
+    if (days === 1) return "yesterday";
+    if (days > 1 && days < 30) return days + " days ago";
+    return fmtFull(iso);
+  }
+  function dayUntil(iso) {
+    const days = dayDiff(todayISO(), iso);
+    if (days === 0) return "today";
+    if (days === 1) return "tomorrow";
+    if (days > 1) return "in " + days + " days";
+    return "passed";
+  }
+  // Past or future, relative to today; empty when far away
+  function relDay(iso) {
+    const days = dayDiff(todayISO(), iso);
+    if (days === 0) return "today";
+    if (days === 1) return "tomorrow";
+    if (days === -1) return "yesterday";
+    if (days > 1 && days < 60) return "in " + days + " days";
+    if (days < -1 && days > -60) return -days + " days ago";
+    return "";
+  }
+  function timeAgo(t) {
+    const mins = Math.round((Date.now() - t.getTime()) / 60000);
+    if (mins < 1) return "just now";
+    if (mins < 60) return mins + " min ago";
+    const hrs = Math.round(mins / 60);
+    if (hrs < 24) return hrs + (hrs === 1 ? " hour ago" : " hours ago");
+    const days = Math.round(hrs / 24);
+    return days + (days === 1 ? " day ago" : " days ago");
+  }
+  // A short version of a summary for the timeline popover: first sentence, at most ~110 characters
+  function brief(s, n = 110) {
+    s = String(s || "").trim();
+    const first = (s.match(/^.+?[.!?](\s|$)/) || [s])[0].trim();
+    if (first.length <= n) return first;
+    return first.slice(0, first.lastIndexOf(" ", n)).replace(/[,;:]$/, "") + "…";
+  }
+  function upcoming(a) {
+    return (a.milestones || [])
+      .filter(m => isISO(m.date) && m.date > currentData.scanDate)
+      .sort((x, y) => x.date.localeCompare(y.date));
+  }
+  function sevColor(sev) { return SEVERITIES.includes(sev) ? `var(--sev-${sev})` : "var(--text-muted)"; }
+  function sevRank(a) { const i = SEVERITIES.indexOf(a.severity); return i === -1 ? 9 : i; }
+  function orderOf(cat) { const i = CATEGORY_ORDER.indexOf(cat); return i === -1 ? 99 : i; }
+  function isVuln(a) { return a.category === "Critical Vulnerabilities"; }
+
+  /* ---- Header ---- */
+  function populateDateSelect() {
+    const sel = document.getElementById("dateSelect");
+    sel.innerHTML = "";
+    dates.forEach((d, i) => {
+      const opt = document.createElement("option");
+      opt.value = d;
+      opt.textContent = fmtFull(d) + " · " + (i === 0 ? "latest" : dayAgo(d));
+      sel.appendChild(opt);
+    });
+    sel.value = currentData.scanDate;
+  }
+
+  function nextScan() {
+    const now = new Date();
+    const n = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), SCAN_HOUR_UTC, 0));
+    if (n <= now) n.setUTCDate(n.getUTCDate() + 1);
+    return n;
+  }
+
+  // When the shown brief was last scanned, and when the next scan runs
+  function renderScanline() {
+    const el = document.getElementById("scanline");
+    if (!currentData) { el.innerHTML = ""; return; }
+    let gen = new Date(currentData.generatedAt);
+    if (isNaN(gen)) gen = null;
+    else if (gen > new Date()) gen = new Date();      // a clock slip in the scan should never read as "in the future"
+    const latest = currentData === scans[0];
+    let html = `<span class="item"><i class="live${liveOk ? "" : " stale"}" title="${liveOk ? "Live: new briefs appear automatically" : "Offline copy, may be out of date"}"></i>`
+      + `Last scan <b>${gen ? esc(fmtStamp(gen)) : esc(fmtFull(currentData.scanDate))}</b>`
+      + (gen ? ` <span class="rel">· ${esc(timeAgo(gen))}</span>` : "") + `</span>`;
+    if (!latest) html += `<span class="flag">Viewing the brief of ${esc(fmtFull(currentData.scanDate))}</span>`;
+    html += `<span class="item">Next scan <b>${esc(fmtStamp(nextScan()))}</b></span>`;
+    if (currentData.searchOnly) html += `<span class="flag warn" title="The scan could not open article pages, so details come from search results">Search-only scan</span>`;
+    if (currentData.backfilled) html += `<span class="flag">Backfilled later</span>`;
+    if (!liveOk && scans.length) html += `<span class="flag warn">Offline copy · <a href="#" id="reloadLink">reload</a></span>`;
+    el.innerHTML = html;
+    const r = document.getElementById("reloadLink");
+    if (r) r.onclick = e => { e.preventDefault(); location.reload(); };
+  }
+  setInterval(renderScanline, 60000);
+
+  // One severity bar for cyber incidents and/or CVEs; follows the topic filter
+  function renderStats() {
+    const scope = activeCategory === "Cyberattacks" ? ["Cyberattacks"]
+      : activeCategory === "Critical Vulnerabilities" ? ["Critical Vulnerabilities"]
+      : ["Cyberattacks", "Critical Vulnerabilities"];
+    const name = scope.length === 2 ? "Cyber incidents & CVEs" : scope[0] === "Cyberattacks" ? "Cyber incidents" : "CVEs";
+    const arts = currentData.articles.filter(a => scope.includes(a.category));
+    const counts = SEVERITIES.map(s => [s, arts.filter(a => a.severity === s).length]).filter(([, n]) => n);
+    const total = counts.reduce((sum, [, n]) => sum + n, 0);
+
+    const t = currentData.threatLevel;
+    let threat = "";
+    if (t) {
+      const inner = `NACSA threat level <b style="color:${sevColor(String(t.level).toLowerCase())}">${esc(t.level)}</b>`
+        + (t.since ? ` · since ${esc(fmtShort(t.since))}` : "");
+      threat = t.url
+        ? `<a class="sev-threat" href="${esc(safeUrl(t.url))}" target="_blank" rel="noopener noreferrer">${inner}</a>`
+        : `<span class="sev-threat">${inner}</span>`;
+    }
+    let html = `<div class="sevbar-head"><span class="sevbar-label">Severity · ${esc(name)}<b>${total}</b></span>${threat}</div>`;
+    if (!total) {
+      html += `<p class="sevbar-empty">No ${scope.length === 2 ? "cyber incidents or CVEs" : esc(name.toLowerCase())} in this brief.</p>`;
+    } else {
+      html += `<div class="sevbar-track" role="img" aria-label="${esc(counts.map(([s, n]) => n + " " + s).join(", "))}">`
+        + counts.map(([s, n]) => `<span class="seg" style="flex:${n};background:${sevColor(s)}" title="${n} ${s}">${n}</span>`).join("")
+        + `</div><div class="sevbar-legend">`
+        + counts.map(([s, n]) => `<span><i style="background:${sevColor(s)}"></i>${n} ${s}</span>`).join("")
+        + `</div>`;
+    }
+    document.getElementById("sevbar").innerHTML = html;
+  }
+
+  function renderTabs() {
+    const tabsEl = document.getElementById("tabs");
+    const cats = [...new Set(currentData.articles.map(a => a.category))].sort((a, b) => orderOf(a) - orderOf(b));
+    if (activeCategory !== "All" && !cats.includes(activeCategory)) activeCategory = "All";
+    tabsEl.innerHTML = "";
+    ["All", ...cats].forEach(cat => {
+      const count = cat === "All" ? currentData.articles.length : currentData.articles.filter(a => a.category === cat).length;
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "tab" + (cat === activeCategory ? " active" : "");
+      btn.setAttribute("role", "tab");
+      btn.setAttribute("aria-selected", cat === activeCategory ? "true" : "false");
+      btn.innerHTML = esc(cat) + ' <span class="count">' + count + "</span>";
+      btn.onclick = () => {
+        activeCategory = cat;
+        if (cat === "Critical Vulnerabilities") activeView = "vulns";
+        else if (cat !== "All") activeView = "news";
+        render();
+      };
+      tabsEl.appendChild(btn);
+    });
+  }
+
+  function filterItems(list) {
+    let items = list.slice();
+    if (activeCategory !== "All") items = items.filter(a => a.category === activeCategory);
+    if (searchTerm.trim()) {
+      const q = searchTerm.trim().toLowerCase();
+      items = items.filter(a =>
+        [a.title, a.summary, a.source, a.sector, a.region, (a.cves || []).join(" ")].some(f => (f || "").toLowerCase().includes(q)));
+    }
+    return items;
+  }
+  function getFiltered() {
+    // Most severe first, then most recently reported
+    return filterItems(currentData.articles)
+      .sort((a, b) => sevRank(a) - sevRank(b) || (b.date || "").localeCompare(a.date || ""));
+  }
+  function clearFilters() {
+    activeCategory = "All";
+    searchTerm = "";
+    document.getElementById("searchBox").value = "";
+    render();
+  }
+
+  /* ---- News: one row per article ---- */
+  function renderRows(news) {
+    const host = document.getElementById("rows");
+    host.innerHTML = "";
+    const groups = activeCategory === "All"
+      ? [...new Set(news.map(a => a.category))].sort((a, b) => orderOf(a) - orderOf(b))
+      : [null];
+    groups.forEach(cat => {
+      const list = cat ? news.filter(a => a.category === cat) : news;
+      if (!list.length) return;
+      if (cat) {
+        const h = document.createElement("h2");
+        h.className = "group-head";
+        h.innerHTML = `<i style="background:${CAT_COLOR[cat] || "var(--text-muted)"}"></i>${esc(cat)} <b>${list.length}</b>`;
+        host.appendChild(h);
+      }
+      const box = document.createElement("div");
+      box.className = "rows";
+      list.forEach(a => box.appendChild(buildRow(a)));
+      host.appendChild(box);
+    });
+  }
+
+  function buildRow(a) {
+    const isNew = !seenUrls.has(a.url);
+    const row = document.createElement("article");
+    row.className = "row" + (isNew ? " is-new" : "");
+    row.style.setProperty("--c", sevColor(a.severity));
+    const region = a.region
+      ? `<span class="region${a.region === "Malaysia" ? "" : " overseas"}">${a.region === "Malaysia" ? "Malaysia" : esc(a.region)}</span>`
+      : "";
+    const next = upcoming(a)[0];
+    const occurred = a.occurredDate && a.occurredDate !== a.date ? `<span>occurred ${esc(fmtShort(a.occurredDate))}</span>` : "";
+    row.innerHTML = `
+      <div class="row-tags">
+        ${SEVERITIES.includes(a.severity) ? `<span class="sev sev-${a.severity}">${SEVERITY_LABEL[a.severity]}</span>` : ""}
+        ${region}
+        ${isNew ? '<span class="new-pill">New</span>' : ""}
+      </div>
+      <div class="row-main">
+        <h3><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener noreferrer">${esc(a.title)}</a></h3>
+        <p class="row-sum" tabindex="0" role="button" aria-expanded="false" title="Show the full summary">${esc(a.summary)}</p>
+        ${next ? `<p class="row-next"><span class="shape-next"></span><span>Next: ${esc(next.label)}</span><time datetime="${esc(next.date)}">${esc(fmtDay(next.date))} · ${dayUntil(next.date)}</time></p>` : ""}
+      </div>
+      <div class="row-side">
+        <span class="src">${esc(a.source)}</span>
+        ${a.sector ? `<span title="${esc(a.sector)}">${esc(a.sector)}</span>` : ""}
+        <span title="${esc(fmtFull(a.date))}">reported ${esc(dayAgo(a.date))}</span>
+        ${occurred}
+      </div>`;
+    const sum = row.querySelector(".row-sum");
+    const toggle = () => {
+      const open = sum.classList.toggle("open");
+      sum.setAttribute("aria-expanded", String(open));
+    };
+    sum.addEventListener("click", toggle);
+    sum.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); } });
+    row.querySelector("h3 a").addEventListener("click", () => {
+      markSeen(a.url);
+      row.classList.remove("is-new");
+      const pill = row.querySelector(".new-pill");
+      if (pill) pill.remove();
+    });
+    cardEls.set(a.url, row);
+    return row;
+  }
+
+  /* ---- CVE lifecycle ---- */
+  // Dated events for one CVE entry: the scan's own timeline list first, then dates implied by its fields
+  function cveEvents(a) {
+    const out = [];
+    const taken = new Set();
+    const listed = new Set();
+    const add = (e, derived) => {
+      if (!e || !isISO(e.date)) return;
+      if (derived && listed.has(e.date)) return;          // the scan already described this date
+      const kind = EVENT_KINDS[e.kind] ? e.kind : "event";
+      const key = e.date + "|" + kind + "|" + (kind === "event" ? e.label : "");
+      if (taken.has(key)) return;
+      taken.add(key);
+      out.push({
+        date: e.date,
+        kind,
+        label: e.label || EVENT_KINDS[kind],
+        title: e.title || a.title,
+        url: e.url || a.url,
+        source: e.source || a.source,
+        summary: e.summary || brief(a.summary)
+      });
+    };
+    (Array.isArray(a.timeline) ? a.timeline : []).forEach(e => { if (e && isISO(e.date)) listed.add(e.date); add(e, false); });
+    if (a.disclosedDate || a.occurredDate) add({ date: a.disclosedDate || a.occurredDate, kind: "disclosed", label: a.patchedDate ? "Vendor disclosure" : "Vendor disclosure & patch" }, true);
+    if (a.patchedDate) add({ date: a.patchedDate, kind: "patched", label: "Patch released" }, true);
+    if (a.exploitedDate) add({ date: a.exploitedDate, kind: "exploited", label: "Exploitation confirmed" }, true);
+    if (a.kevAdded) add({ date: a.kevAdded, kind: "kev", label: "Added to CISA KEV" }, true);
+    if (a.date && a.date !== a.kevAdded && a.date !== (a.disclosedDate || a.occurredDate) && a.date !== a.exploitedDate) {
+      add({ date: a.date, kind: a.exploited ? "exploited" : "reported", label: a.exploited ? "Exploitation reported" : "Reported" }, true);
+    }
+    if (a.kevDue) add({ date: a.kevDue, kind: "due", label: "CISA remediation deadline" }, true);
+    (a.milestones || []).forEach(m => { if (m.date !== a.kevDue) add({ date: m.date, kind: "event", label: m.label }, true); });
+    return out.sort((x, y) => x.date.localeCompare(y.date) || KIND_ORDER.indexOf(x.kind) - KIND_ORDER.indexOf(y.kind));
+  }
+
+  function cveKey(a) { return (a.cves && a.cves.length ? a.cves.slice().sort() : [a.title]).join(","); }
+
+  // CVE entries to plot: this brief, or the newest copy of each CVE from the last 30 days of briefs
+  function laneSource() {
+    const cur = currentData.scanDate;
+    if (clRange === "brief") return currentData.articles.filter(isVuln).map(a => Object.assign({}, a, { _scan: cur }));
+    const seen = new Map();
+    scans.filter(s => s.scanDate <= cur && s.scanDate >= addDays(cur, -29)).forEach(s => {
+      (s.articles || []).filter(isVuln).forEach(a => {
+        const k = cveKey(a);
+        if (!seen.has(k)) seen.set(k, Object.assign({}, a, { _scan: s.scanDate }));
+      });
+    });
+    return [...seen.values()];
+  }
+
+  function renderLegend() {
+    document.getElementById("clLegend").innerHTML = KIND_ORDER
+      .map(k => `<span><i class="kshape k-${k}"></i>${esc(EVENT_KINDS[k])}</span>`).join("");
+  }
+
+  function renderLifecycle() {
+    const grid = document.getElementById("clGrid");
+    hidePop();
+    document.getElementById("clBrief").setAttribute("aria-pressed", String(clRange === "brief"));
+    document.getElementById("clRecent").setAttribute("aria-pressed", String(clRange === "recent"));
+
+    lanes = filterItems(laneSource())
+      .map(a => Object.assign(a, { _events: cveEvents(a) }))
+      .filter(a => a._events.length)
+      .sort((p, q) => sevRank(p) - sevRank(q) || (q.kevAdded || q.date || "").localeCompare(p.kevAdded || p.date || ""));
+
+    const head = `<div class="cl-hlabel">CVE · product</div>`;
+    if (!lanes.length) {
+      document.getElementById("clRange").textContent = "";
+      grid.innerHTML = head + `<div class="cl-axis"></div><div class="cl-empty">No dated CVE events match your filters.</div>`;
+      return;
+    }
+
+    // Window: the events around this brief, at most ~6 weeks either side; older or later dates sit in the gutters
+    const ref = currentData.scanDate;
+    const today = todayISO();
+    const all = lanes.flatMap(a => a._events.map(e => e.date));
+    const near = all.filter(d => d >= addDays(ref, -42) && d <= addDays(ref, 42));
+    let start = near.length ? near.reduce(minISO) : addDays(ref, -7);
+    let end = near.length ? near.reduce(maxISO) : ref;
+    start = minISO(start, addDays(ref, -7));
+    end = maxISO(maxISO(end, ref), addDays(ref, 3));
+    if (dayDiff(start, end) < 20) end = addDays(start, 20);
+    start = addDays(start, -1);
+    end = addDays(end, 1);
+    const early = all.some(d => d < start), late = all.some(d => d > end);
+    const G = 9;                                           // gutter width, %
+    const lo = early ? G : 0, hi = late ? 100 - G : 100;
+    const span = dayDiff(start, end) + 1;
+    const pos = iso => iso < start ? G / 2 : iso > end ? 100 - G / 2 : lo + (dayDiff(start, iso) + 0.5) / span * (hi - lo);
+    const pct = v => v.toFixed(3) + "%";
+    const inside = iso => iso >= start && iso <= end;
+
+    document.getElementById("clRange").textContent =
+      `${fmtFull(start)} – ${fmtFull(end)} · ${lanes.length} ${lanes.length === 1 ? "CVE entry" : "CVE entries"}`
+      + (clRange === "recent" ? " from the last 30 days of briefs" : " in this brief");
+
+    // Axis: month starts, Monday ticks, today
+    let axis = "";
+    const step = span > 70 ? 14 : 7;
+    let mondays = 0;
+    for (let i = 0; i < span; i++) {
+      const iso = addDays(start, i);
+      const d = parseISO(iso);
+      // Name the first month too, unless it only shows for a couple of days
+      if (d.getDate() === 1 || (i === 0 && dayDiff(iso, toISO(new Date(d.getFullYear(), d.getMonth() + 1, 1))) >= 3)) {
+        axis += `<span class="cl-month" style="left:${pct(pos(iso) - 0.5 / span * (hi - lo))}">${esc(d.toLocaleDateString(undefined, { month: "short", year: d.getMonth() === 0 || i === 0 ? "numeric" : undefined }))}</span>`;
+      }
+      if (d.getDay() === 1 && mondays++ % (step / 7) === 0 && iso !== today) {
+        axis += `<span class="cl-tick" style="left:${pct(pos(iso))}">${d.getDate()}</span>`;
+      }
+    }
+    if (early) axis += `<span class="cl-gutter" style="left:0;width:${G}%"></span><span class="cl-gut-label" style="left:${G / 2}%">Earlier</span>`;
+    if (late) axis += `<span class="cl-gutter" style="right:0;width:${G}%"></span><span class="cl-gut-label" style="left:${100 - G / 2}%">Later</span>`;
+    if (inside(today)) axis += `<span class="cl-today-tag" style="left:${pct(pos(today))}">Today</span>`;
+
+    // Shared background for every lane: gutters, week lines, today line
+    let bg = "";
+    if (early) bg += `<span class="cl-gutter" style="left:0;width:${G}%"></span>`;
+    if (late) bg += `<span class="cl-gutter" style="right:0;width:${G}%"></span>`;
+    for (let i = 0; i < span; i++) {
+      const iso = addDays(start, i);
+      if (parseISO(iso).getDay() === 1) bg += `<span class="cl-vline" style="left:${pct(pos(iso))}"></span>`;
+    }
+    if (inside(today)) bg += `<span class="cl-today" style="left:${pct(pos(today))}"></span>`;
+
+    let html = head + `<div class="cl-axis">${axis}</div>`;
+    lanes.forEach((a, li) => {
+      const c = sevColor(a.severity);
+      // One marker per date; several events on a date share it
+      const byDate = new Map();
+      a._events.forEach(e => { if (!byDate.has(e.date)) byDate.set(e.date, []); byDate.get(e.date).push(e); });
+      const dates = [...byDate.keys()].sort();
+      const first = pos(dates[0]), last = pos(dates[dates.length - 1]);
+      const t = inside(today) ? pos(today) : today < start ? 0 : 100;
+
+      let track = bg;
+      if (last > first) {
+        const solidEnd = Math.min(last, Math.max(first, t));
+        if (solidEnd > first) track += `<span class="cl-line" style="left:${pct(first)};width:${pct(solidEnd - first)}"></span>`;
+        if (last > solidEnd) track += `<span class="cl-line ahead" style="left:${pct(solidEnd)};width:${pct(last - solidEnd)}"></span>`;
+      }
+      const gut = { early: [], late: [] };
+      dates.forEach(d => {
+        const evs = byDate.get(d);
+        const top = KIND_PRIORITY.find(k => evs.some(e => e.kind === k)) || "event";
+        const label = `${fmtDay(d)}: ${evs.map(e => e.label).join(", ")} (${(a.cves || []).join(", ")})`;
+        if (!inside(d)) { (d < start ? gut.early : gut.late).push({ d, top, label }); return; }
+        track += `<button type="button" class="cl-mk" data-lane="${li}" data-date="${d}" style="left:${pct(pos(d))}" aria-label="${esc(label)}" title="${esc(label)}">`
+          + `<i class="kshape k-${top}"></i>${evs.length > 1 ? `<b>${evs.length}</b>` : ""}</button>`;
+      });
+      // Out-of-window dates: one pill per gutter showing the nearest date
+      [["early", gut.early[gut.early.length - 1]], ["late", gut.late[0]]].forEach(([side, g]) => {
+        if (!g) return;
+        const n = gut[side].length;
+        track += `<button type="button" class="cl-pill" data-lane="${li}" data-date="${g.d}" style="left:${side === "early" ? G / 2 : 100 - G / 2}%" aria-label="${esc(g.label)}" title="${esc(g.label)}">`
+          + `<i class="kshape k-${g.top}"></i>${esc(fmtShort(g.d))}${n > 1 ? " +" + (n - 1) : ""}</button>`;
+      });
+
+      const cves = a.cves || [];
+      const due = a.kevDue
+        ? (a.kevDue < today ? ` · <span class="due late">deadline passed</span>` : ` · <span class="due">due ${esc(dayUntil(a.kevDue))}</span>`)
+        : "";
+      const product = String(a.sector || "").split("·").pop().trim() || a.source;
+      html += `<button type="button" class="cl-label" data-lane="${li}" style="--c:${c}" title="${esc(a.title)}">`
+        + `<span class="cl-sev"></span><span class="cl-ltext">`
+        + `<span class="cl-cve">${esc(cves[0] || "No CVE")}${cves.length > 1 ? ` <em>+${cves.length - 1}</em>` : ""}</span>`
+        + `<span class="cl-prod">${esc(product)}${due}</span>`
+        + `</span></button>`
+        + `<div class="cl-track" style="--c:${c}">${track}</div>`;
+    });
+    grid.innerHTML = html;
+  }
+
+  /* Popover: every article (event) on the clicked date, across the plotted CVEs */
+  const pop = document.getElementById("clPop");
+  let popAnchor = null;
+  function openPop(btn) {
+    const date = btn.dataset.date;
+    const laneIdx = +btn.dataset.lane;
+    const order = [laneIdx, ...lanes.map((_, i) => i).filter(i => i !== laneIdx)];
+    const items = [];
+    order.forEach(li => {
+      const a = lanes[li];
+      a._events.filter(e => e.date === date).forEach(e => items.push({ a, e, li }));
+    });
+    if (!items.length) return;
+    if (popAnchor) popAnchor.classList.remove("open");
+    popAnchor = btn;
+    btn.classList.add("open");
+    pop.innerHTML = `<div class="pop-head"><div class="pop-date">${esc(fmtDay(date))}<span>${items.length} ${items.length === 1 ? "article" : "articles"}${relDay(date) ? " · " + esc(relDay(date)) : ""}</span></div>`
+      + `<button type="button" class="pop-close" aria-label="Close">×</button></div>`
+      + `<ul class="pop-list">` + items.map(({ a, e, li }, k) => `
+        <li class="pop-item${li === laneIdx ? " focus" : ""}">
+          <div class="pop-top"><span class="kchip"><i class="kshape k-${e.kind}"></i>${esc(e.label)}</span><span class="pop-cve">${esc((a.cves || []).join(", "))}</span></div>
+          <a class="pop-title" href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener noreferrer">${esc(e.title)}</a>
+          <p class="pop-sum">${esc(brief(e.summary))}</p>
+          <div class="pop-foot"><span>${esc(e.source || "")}</span><button type="button" class="pop-go" data-k="${k}">SOAR response ›</button></div>
+        </li>`).join("") + `</ul>`;
+    pop.hidden = false;
+    pop.querySelector(".pop-close").onclick = () => hidePop(true);
+    pop.querySelectorAll(".pop-go").forEach(b => b.onclick = () => {
+      const it = items[+b.dataset.k];
+      hidePop();
+      focusCard(it.a.url, it.a._scan);
+    });
+    // Place below the point, or above it when there is no room
+    const r = btn.getBoundingClientRect();
+    const w = pop.offsetWidth, h = pop.offsetHeight;
+    const left = Math.min(Math.max(12, r.left + r.width / 2 - w / 2), window.innerWidth - w - 12);
+    let top = r.bottom + 8;
+    if (top + h > window.innerHeight - 12) top = Math.max(12, r.top - h - 8);
+    pop.style.left = left + "px";
+    pop.style.top = top + "px";
+    if (btn.matches(":focus-visible")) pop.querySelector(".pop-close").focus();
+  }
+  function hidePop(returnFocus) {
+    if (pop.hidden) return;
+    pop.hidden = true;
+    if (popAnchor) {
+      popAnchor.classList.remove("open");
+      if (returnFocus && document.contains(popAnchor)) popAnchor.focus();
+    }
+    popAnchor = null;
+  }
+  document.getElementById("clGrid").addEventListener("click", e => {
+    const mk = e.target.closest(".cl-mk, .cl-pill");
+    if (mk) { e.stopPropagation(); if (popAnchor === mk) hidePop(); else openPop(mk); return; }
+    const label = e.target.closest(".cl-label");
+    if (label) { const a = lanes[+label.dataset.lane]; if (a) focusCard(a.url, a._scan); }
+  });
+  document.addEventListener("click", e => { if (!pop.hidden && !pop.contains(e.target)) hidePop(); });
+  document.addEventListener("keydown", e => { if (e.key === "Escape") hidePop(true); });
+  window.addEventListener("scroll", () => hidePop(), { passive: true });
+  window.addEventListener("resize", () => hidePop());
+  document.getElementById("clScroll").addEventListener("scroll", () => hidePop(), { passive: true });
+
+  function setClRange(r) {
+    clRange = r;
+    try { localStorage.setItem("myWatchClRange", r); } catch (e) {}
+    renderLifecycle();
+  }
+  document.getElementById("clBrief").onclick = () => setClRange("brief");
+  document.getElementById("clRecent").onclick = () => setClRange("recent");
+
+  function openBrief(date) {
+    const pick = scans.find(s => s.scanDate === date);
+    if (!pick) { ensureLoaded(date).then(() => { if (scans.some(s => s.scanDate === date)) openBrief(date); }); return false; }
+    selectedDate = pick === scans[0] ? null : pick.scanDate;
+    currentData = pick;
+    render();
+    return true;
+  }
+  // Jump to a story's row or CVE card, opening its brief and view first if needed
+  function focusCard(url, scan) {
+    if (scan && scan !== currentData.scanDate && !currentData.articles.some(a => a.url === url)) openBrief(scan);
+    const target = currentData.articles.find(a => a.url === url);
+    if (target) {
+      const want = isVuln(target) ? "vulns" : "news";
+      if (want !== activeView || !cardEls.has(url)) {
+        activeView = want;
+        if (activeCategory !== "All" && activeCategory !== target.category) activeCategory = "All";
+        searchTerm = "";
+        document.getElementById("searchBox").value = "";
+        render();
+      }
+    }
+    const el = cardEls.get(url);
+    if (!el) return;
+    el.scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "center" });
+    el.classList.remove("flash");
+    void el.offsetWidth;
+    el.classList.add("flash");
+    setTimeout(() => el.classList.remove("flash"), 1600);
+  }
+
+  /* ---- CVE cards ---- */
+  document.getElementById("vulns").addEventListener("click", e => {
+    const btn = e.target.closest(".copy-btn");
+    if (!btn) return;
+    const pre = document.getElementById(btn.dataset.copy);
+    const done = label => { btn.textContent = label; setTimeout(() => { btn.textContent = "Copy prompt"; }, 2000); };
+    const selectIt = () => {
+      const range = document.createRange();
+      range.selectNodeContents(pre);
+      const sel = window.getSelection();
+      sel.removeAllRanges();
+      sel.addRange(range);
+      done("Selected, copy it manually");
+    };
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(pre.textContent).then(() => done("Copied"), selectIt);
+    else selectIt();
+  });
+
+  function buildCard(a, n) {
+    const isNew = !seenUrls.has(a.url);
+    const card = document.createElement("article");
+    card.className = "card" + (isNew ? " is-new" : "");
+    const occurred = a.occurredDate && a.occurredDate !== a.date
+      ? ` · <span title="${esc(fmtFull(a.occurredDate))}">disclosed ${esc(fmtShort(a.occurredDate))}</span>` : "";
+    const next = upcoming(a);
+    const nextHtml = next.length
+      ? `<ul class="next-list">` + next.map((m, k) =>
+          `<li><span class="shape-next"></span><span>${k === 0 ? "Next" : "Then"}: ${esc(m.label)}</span>`
+          + `<time datetime="${esc(m.date)}">${esc(fmtDay(m.date))} · ${dayUntil(m.date)}</time></li>`).join("") + `</ul>`
+      : "";
+    const facts = [
+      ...(a.cves || []).map(c => `<span class="fact cve">${esc(c)}</span>`),
+      typeof a.cvss === "number" ? `<span class="fact">CVSS ${a.cvss.toFixed(1)}</span>` : "",
+      a.exploited ? `<span class="fact exploited">Actively exploited</span>` : "",
+      a.kevAdded ? `<span class="fact kev">CISA KEV · added ${esc(fmtShort(a.kevAdded))}</span>` : "",
+      a.kevDue ? `<span class="fact">CISA deadline ${esc(fmtShort(a.kevDue))}${a.kevDue < todayISO() ? " · passed" : ""}</span>` : ""
+    ].join("");
+    const actions = (a.response || []).map((r, k) => {
+      const id = `prompt-${n}-${k}`;
+      return `<li class="action"><div class="action-top"><span class="atype ${slug(r.type)}">${esc(r.type)}</span>`
+        + `<span class="action-title">${esc(r.title)}</span></div><p>${esc(r.text)}</p>`
+        + (r.prompt ? `<div class="prompt"><pre id="${id}">${esc(r.prompt)}</pre><button type="button" class="copy-btn" data-copy="${id}">Copy prompt</button></div>` : "")
+        + `</li>`;
+    }).join("");
+    card.innerHTML = `
+      <div class="card-top">
+        <div class="chips">
+          <span class="badge critical-vulnerabilities">CVE</span>
+          ${SEVERITIES.includes(a.severity) ? `<span class="sev sev-${a.severity}">${SEVERITY_LABEL[a.severity]}</span>` : ""}
+        </div>
+        ${isNew ? '<span class="new-pill">New</span>' : ""}
+      </div>
+      <h3><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener noreferrer">${esc(a.title)}</a></h3>
+      <div class="src-line">
+        ${a.sector ? `<span class="sector">${esc(a.sector)}</span> ·` : ""}
+        <span>${esc(a.source)}</span> ·
+        <span title="${esc(fmtFull(a.date))}">reported ${esc(dayAgo(a.date))}</span>${occurred}
+      </div>
+      <div class="vuln-body">
+        <div class="vuln-info">
+          <div class="vuln-facts">${facts}</div>
+          <p class="summary">${esc(a.summary)}</p>
+          ${a.fixedIn ? `<p class="fixed-in"><b>Fix:</b> ${esc(a.fixedIn)}</p>` : ""}
+          ${nextHtml}
+        </div>
+        ${actions ? `<div class="vuln-actions"><p class="actions-head">Playbook response</p><ul class="actions">${actions}</ul></div>` : ""}
+      </div>`;
+    card.querySelector("h3 a").addEventListener("click", () => {
+      markSeen(a.url);
+      card.classList.remove("is-new");
+      const pill = card.querySelector(".new-pill");
+      if (pill) pill.remove();
+    });
+    cardEls.set(a.url, card);
+    return card;
+  }
+
+  /* ---- Page ---- */
+  function showView(view) {
+    activeView = view;
+    if (view === "news" && activeCategory === "Critical Vulnerabilities") activeCategory = "All";
+    if (view === "vulns" && (activeCategory === "Cyberattacks" || activeCategory === "Law & Government")) activeCategory = "All";
+    render();
+  }
+  document.getElementById("viewNews").onclick = () => showView("news");
+  document.getElementById("viewVulns").onclick = () => showView("vulns");
+  document.getElementById("clearBtn").onclick = clearFilters;
+
+  function render() {
+    if (!currentData) return;
+    hidePop();
+    populateDateSelect();
+    renderScanline();
+    renderStats();
+    renderTabs();
+
+    const items = getFiltered();
+    const vulns = items.filter(isVuln);
+    const news = items.filter(a => !isVuln(a));
+    const showVulns = activeView === "vulns";
+    const shown = showVulns ? vulns : news;
+
+    [["viewNews", !showVulns], ["viewVulns", showVulns]].forEach(([id, on]) => {
+      const b = document.getElementById(id);
+      b.classList.toggle("active", on);
+      b.setAttribute("aria-selected", on ? "true" : "false");
+    });
+    document.getElementById("newsCount").textContent = `${news.length} ${news.length === 1 ? "story" : "stories"}`;
+    document.getElementById("vulnCount").textContent = `${vulns.length} ${vulns.length === 1 ? "CVE entry" : "CVE entries"} · lifecycle and suggested XSOAR / XSIAM response`;
+    document.getElementById("newsSection").hidden = showVulns;
+    document.getElementById("vulnSection").hidden = !showVulns;
+
+    const resultEl = document.getElementById("resultLine");
+    const filtered = activeCategory !== "All" || searchTerm.trim();
+    const all = currentData.articles.filter(a => isVuln(a) === showVulns).length;
+    const newItems = shown.filter(a => !seenUrls.has(a.url));
+    resultEl.innerHTML = `<span>${filtered ? `Showing ${shown.length} of ${all}` : `${shown.length}`} ${showVulns ? "CVE entries" : "stories"}</span>`
+      + (newItems.length ? `<span class="new-count">· ${newItems.length} new</span>` : "");
+    if (newItems.length) {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "mark-read-btn";
+      btn.textContent = "Mark all as read";
+      btn.onclick = () => markAllSeen(shown.map(a => a.url));
+      resultEl.appendChild(btn);
+    }
+
+    cardEls.clear();
+    const vulnsEl = document.getElementById("vulns");
+    vulnsEl.innerHTML = "";
+    if (showVulns) {
+      renderLifecycle();
+      vulns.forEach((a, n) => vulnsEl.appendChild(buildCard(a, n)));
+    } else {
+      renderRows(news);
+    }
+    document.getElementById("emptyState").hidden = shown.length > 0;
+
+    document.getElementById("footerNote").textContent =
+      "Brief of " + fmtFull(currentData.scanDate) + " · " + currentData.articles.length + " items · scanned daily at 9 PM Malaysia time";
+  }
+
+  document.getElementById("searchBox").addEventListener("input", e => { searchTerm = e.target.value; render(); });
+  document.getElementById("dateSelect").addEventListener("change", e => openBrief(e.target.value));
+  renderLegend();
+
+  /* ---- Briefs from data/ (published to GitHub Pages by the nightly task) ---- */
+  const EAGER = 31;                      // briefs loaded per batch: enough for the 30-day CVE view
+  const loaded = new Map();              // scanDate -> brief
+  let dates = [];                        // every brief date, newest first, from data/index.json
+  let stamp = "";                        // what is on screen, so polling only re-renders on change
+
+  const getJSON = p => fetch(p, { cache: "no-cache" }).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); });
+  const loadBrief = d => loaded.has(d) ? Promise.resolve(loaded.get(d))
+    : getJSON(`data/scans/${d}.json`).then(b => { loaded.set(d, b); return b; });
+
+  // Load a brief and the 30 before it, then rebuild the list the page renders from
+  async function ensureLoaded(date) {
+    const i = dates.indexOf(date);
+    if (i < 0) return;
+    await Promise.all(dates.slice(i, i + EAGER).map(d => loadBrief(d).catch(() => null)));
+    scans = [...loaded.values()].filter(d => d && d.scanDate && Array.isArray(d.articles))
+      .sort((a, b) => b.scanDate.localeCompare(a.scanDate));
+  }
+
+  function applyScans() {
+    const kept = selectedDate && scans.find(s => s.scanDate === selectedDate);
+    if (!kept) selectedDate = null;
+    currentData = kept || scans[0];
+    statusEl.hidden = true;
+    appEl.hidden = false;
+    document.getElementById("searchBox").disabled = false;
+    document.getElementById("dateSelect").disabled = false;
+    render();
+  }
+
+  async function refresh() {
+    try {
+      dates = (await getJSON("data/index.json")).dates || [];
+      loaded.delete(dates[0]);           // the newest brief can be rewritten by a re-run
+      await ensureLoaded(dates[0]);
+      liveOk = navigator.onLine;         // offline, the service worker serves the last copy seen
+      const now = scans.length ? scans[0].scanDate + scans[0].generatedAt + scans.length : "";
+      if (!scans.length) setStatus("No briefs yet", "The nightly scan adds a brief here around 9 PM Malaysia time.");
+      else if (now !== stamp) { stamp = now; applyScans(); }
+      else renderScanline();
+    } catch (e) {
+      liveOk = false;
+      if (scans.length) renderScanline();
+      else setStatus("The brief couldn't load", "Check your connection and reopen the app.");
+    }
+  }
+
+  refresh();
+  setInterval(() => { if (!document.hidden) refresh(); }, 15 * 60000);
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) refresh(); });
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+</script>
+
+</body></html>

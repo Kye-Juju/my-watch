@@ -1,0 +1,599 @@
+{
+  "articles": [
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-14",
+      "occurredDate": "2026-11-12",
+      "region": "Malaysia",
+      "sector": "Healthcare · government",
+      "severity": "high",
+      "source": "Bernama",
+      "summary": "The Health Ministry said unauthorised access was detected on 12 November on a file storage and sharing platform at one facility. Main databases were not encrypted and treatment services continue. The platform was closed to the public, passwords were reset and multi-factor authentication made mandatory, with NACSA assisting under the Cyber Security Act.",
+      "title": "Health Ministry's Main Systems, Services Unaffected By Cybersecurity Incident",
+      "url": "https://bernama.com/en/crime_courts/news.php?id=2634472"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-12",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "high",
+      "source": "The Star",
+      "summary": "Communications Minister Fahmi Fadzil said on 12 November that NACSA remains at amber alert, a moderate readiness level. Claims of attacks and intrusions are circulating online, but NACSA has confirmed none so far and will be the official source of information.",
+      "title": "Nacsa maintains amber alert amid cyberattack, security breach claims",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/12/nacsa-maintains-amber-alert-amid-cyberattack-security-breach-claims"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-07",
+      "occurredDate": "2026-11-07",
+      "region": "Malaysia",
+      "sector": "Banking",
+      "severity": "high",
+      "source": "FocusM",
+      "summary": "Bank Rakyat's corporate portal was defaced on 7 November, with a hacker alleging access to internal systems and stolen sample data. The bank only acknowledged a temporary access disruption and pointed customers to other channels. The minister later described the incident as a website defacement on a third-party-managed site. The data-theft claims remain unverified.",
+      "title": "A sign of escalating cyberattack in Malaysia after Bank Rakyat becomes latest victim of hacking?",
+      "url": "https://focusmalaysia.my/a-sign-of-escalating-cyberattack-in-malaysia-after-bank-rakyat-becomes-latest-victim-of-hacking/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-10",
+      "occurredDate": "2026-11-10",
+      "region": "Malaysia",
+      "sector": "Government · elections",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "The Election Commission said on 10 November that its website appeared to be under cyberattack and that it was working with MCMC to protect it. Chairman Ramlan Harun said an initial report was filed. The extent of any intrusion has not been established, and the timing is close to the Melaka state election.",
+      "title": "EC, MCMC take measures to protect website following reported cyber attack",
+      "url": "https://www.malaymail.com/amp/news/malaysia/2026/11/10/ec-mcmc-take-measures-to-protect-website-following-reported-cyber-attack/242677"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-10",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "NACSA's chief executive warned that criminals are shifting from stealing data to disrupting everyday life, with industrial control systems in healthcare, energy, water supply and supply chains named as targets. The agency also said it logged 5,110 incidents between January and September and that the raised threat level was precautionary.",
+      "title": "Cyber threats to Malaysia now extend beyond data theft to daily disruption, Nacsa says",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/10/cyber-threats-to-malaysia-now-extend-beyond-data-theft-to-daily-disruption-nacsa-says/242639"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-07",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "high",
+      "source": "Free Malaysia Today",
+      "summary": "The National Security Council urged the public to distrust social media images of a FortiGuard live threat map, saying the national threat level stays moderate and the situation is under control. It acknowledged disruptions at several financial institutions, with Bank Negara applying preparedness measures after Bank Rakyat's website was defaced.",
+      "title": "Don't be fooled by claims of cyberattack, says security council",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/don-t-be-fooled-by-claims-of-cyberattack-says-security-council"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-13",
+      "occurredDate": "2026-11-10",
+      "region": "Belarus",
+      "sector": "Cloud provider",
+      "severity": "high",
+      "source": "The Record",
+      "summary": "Belarusian cloud provider ActiveCloud disclosed a ransomware attack that encrypted parts of its infrastructure, taking down customer websites, email and virtual servers. Main services were restored by Friday 13 November, though some virtual machines remained troubled. The company found no evidence of customer data theft and has not named the attackers.",
+      "title": "Ransomware attack on Belarusian cloud firm disrupts businesses for days",
+      "url": "https://therecord.media/belarus-cloud-provider-activecloud-ransomware-attack"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-13",
+      "region": "United States",
+      "sector": "Education",
+      "severity": "medium",
+      "source": "The Record",
+      "summary": "The university confirmed that data was stolen in an October incident, which the Qilin ransomware group has claimed, but has not said what information was taken. Its MachForms portal remains offline. The report places it among several recent university attacks, including York University and Vanderbilt.",
+      "title": "University of Texas at Arlington warns personal information stolen during cyberattack",
+      "url": "https://therecord.media/university-of-texas-arlington-warns-data-breach"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-09",
+      "region": "Japan",
+      "sector": "Gaming · third-party supplier",
+      "severity": "medium",
+      "source": "GBHackers",
+      "summary": "SEGA confirmed that attackers who breached its newsletter provider Arara took 2,196,044 customer email addresses. The company said names, birth dates, addresses, phone numbers, card details and passwords were not exposed. The case illustrates third-party supplier risk that Malaysian organisations also face.",
+      "title": "SEGA Confirms Data Breach Exposing 2.19 Million Customer Email Addresses Following Third-Party Cyberattack",
+      "url": "https://gbhackers.com/sega-confirms-data-breach/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-11",
+      "region": "Denmark",
+      "sector": "Logistics · shipping",
+      "severity": "high",
+      "source": "SecurityWeek",
+      "summary": "Maersk disclosed a breach of a legacy system at a logistics firm it acquired in 2022, after the WhiteArmor ransomware group demanded $5 million within 30 days and threatened to leak about 100GB. The company says no sensitive data was disclosed and no operational disruption is expected. Maersk is a key customer of Malaysian ports.",
+      "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
+      "url": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-10",
+      "occurredDate": "2026-11-09",
+      "region": "United States",
+      "sector": "Education · healthcare",
+      "severity": "medium",
+      "source": "The Register",
+      "summary": "Vanderbilt University shut down devices after a BYOD-group ransomware attack that displayed threat messages on campus computers. The group claims encrypted databases and over a million Social Security numbers, but the university has not confirmed the extent of data theft and is still restoring systems.",
+      "title": "Ransomware threat blares from Vanderbilt University computers during cyberattack",
+      "url": "https://www.theregister.com/cyber-crime/2026/11/10/ransomware-threat-blares-from-vanderbilt-university-computers-during-cyberattack/5308687"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-07",
+      "occurredDate": "2026-11-06",
+      "sector": "Pardons & courts",
+      "severity": "critical",
+      "source": "The Vibes",
+      "summary": "Sultan Ibrahim said challenging the house arrest order for Najib Razak amounts to defying the ruler's decree, calling it explicit. The statement followed the Attorney-General's Chambers suspending its implementation pending legal review of how the RM50 million fine and the SRC sentence interact. Najib stays at his current place of detention meanwhile.",
+      "title": "Agong: Challenging Najib's house arrest order amounts to defying royal decree",
+      "url": "https://www.thevibes.com/articles/news/129291/agong-challenging-najibs-house-arrest-order-amounts-to-defying-royal-decree"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-12",
+      "sector": "Pardons & courts",
+      "severity": "critical",
+      "source": "The Star",
+      "summary": "Home Minister Saifuddin Nasution told the Dewan Rakyat on 12 November that a breach of house-arrest conditions would revoke the order and return Najib to Kajang Prison. Three prison officers per shift guard the residence at no extra cost, drawn from Kajang Prison staff.",
+      "title": "Najib could go back to prison if he breaches terms of house arrest, Dewan Rakyat told",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/12/najib-could-go-back-to-prison-if-he-breaches-terms-of-house-arrest-dewan-rakyat-told"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-06",
+      "milestones": [
+        {
+          "date": "2027-01-14",
+          "label": "High Court case management in Rosmah solar graft appeal"
+        }
+      ],
+      "sector": "Pardons & courts",
+      "severity": "high",
+      "source": "The Vibes",
+      "summary": "Rosmah Mansor's attempt to add a witness's pressure allegations to her appeal against the RM1.25 billion solar project corruption conviction is paused while the Federal Court hears the prosecution's challenge. A Court of Appeal stay is in place and the High Court fixed 14 January for further case management.",
+      "title": "Federal Court appeal holds up Rosmah's bid to introduce fresh evidence in solar graft case",
+      "url": "https://www.thevibes.com/articles/news/129260/federal-court-appeal-holds-up-rosmahs-bid-to-introduce-fresh-evidence-in-solar-graft-case"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-09",
+      "milestones": [
+        {
+          "date": "2026-11-30",
+          "label": "Dewan Rakyat starts taking seven bills including AG/public prosecutor separation"
+        },
+        {
+          "date": "2026-12-08",
+          "label": "Dewan Rakyat meeting ends"
+        }
+      ],
+      "sector": "Parliament · legislation",
+      "severity": "high",
+      "source": "New Straits Times",
+      "summary": "After 2027 Budget committee-stage debates from 16 to 19 November, the Dewan Rakyat is due to take seven bills from 30 November to 8 December. They include the Constitution (Amendment) (No. 2) Bill separating the attorney-general and public prosecutor roles, Courts of Judicature amendments and the Urban Renewal Bill.",
+      "title": "Seven bills lined up for Dewan Rakyat from Nov 30",
+      "url": "https://www.nst.com.my/amp/news/nation/2026/11/1574019/seven-bills-lined-dewan-rakyat-nov-30"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-05",
+      "sector": "Parliament · privileges",
+      "severity": "medium",
+      "source": "The Star",
+      "summary": "Speaker Johari Abdul asked Deputy Prime Minister Zahid Hamidi to explain, with documents, claims that he misled the House over whether projects were sacrificed to fund rural road allocations. The request followed an opposition-side motion to refer him to the Rights and Privileges Committee. No ruling was found after the 12 November deadline.",
+      "title": "Speaker gives Zahid until Nov 12 to explain alleged misleading statement in Dewan Rakyat",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/05/speaker-gives-zahid-until-nov-12-to-explain-alleged-misleading-statement-in-dewan-rakyat"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-15",
+      "milestones": [],
+      "occurredDate": "2026-11-15",
+      "sector": "Elections",
+      "severity": "high",
+      "source": "The Sun",
+      "summary": "Ab Rauf Yusoh was sworn in on 15 November as Melaka's 13th Chief Minister for a second term, a day after the state election. Reports put BN at 21 of 28 seats, PN at three and PH at four, with BN and PN nominating him. He declared Monday a special public holiday.",
+      "title": "Ab Rauf sworn in for second term as Melaka Chief Minister",
+      "url": "https://thesun.my/news/ab-rauf-sworn-in-for-second-term-as-melaka-chief-minister/"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-16",
+      "sector": "Government · telecoms",
+      "severity": "medium",
+      "source": "The Star",
+      "summary": "Communications Minister Fahmi Fadzil said Malaysia's re-election to the International Telecommunication Union Council for the 2027 to 2030 term gives it a seat in early discussions on 6G standards and spectrum. The result was reported on 16 November, and the minister framed it as a chance to shape national positions early.",
+      "title": "Malaysia's re-election into ITU Council opens door to early 6G talks, says Fahmi",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/16/malaysia039s-re-election-into-itu-council-opens-door-to-early-6g-talks-says-fahmi"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-12",
+      "occurredDate": "2026-11-12",
+      "sector": "Courts · 1MDB recovery",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "A three-judge Court of Appeal bench unanimously set aside a High Court ruling and allowed 1MDB and related companies to file a 319-page affidavit supporting their Mareva injunction bid against Rosmah Mansor. The court said the High Court wrongly required exceptional circumstances. The ruling affects evidence only and does not itself freeze any assets.",
+      "title": "Court of Appeal allows 1MDB to use Singaporean woman's affidavit in bid to freeze Rosmah's RM1.41b assets",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/12/court-of-appeal-allows-1mdb-to-use-singaporean-womans-affidavit-in-bid-to-freeze-rosmahs-rm141b-assets/242953"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-19868"
+      ],
+      "date": "2026-11-06",
+      "exploited": true,
+      "fixedIn": "Upgrade to SonicOS 7.3.4-7013 (Gen7) or 8.2.3-8015 (Gen8); SonicWall lists no workaround.",
+      "kevAdded": "2026-11-06",
+      "kevDue": "2026-11-20",
+      "milestones": [
+        {
+          "date": "2026-11-20",
+          "label": "CISA deadline to fix SonicWall CVE-2026-19868"
+        }
+      ],
+      "occurredDate": "2026-11-06",
+      "response": [
+        {
+          "text": "A playbook triggered by the KEV addition or NVD feed ingests the CVE, asks the firewall integration or CMDB for SonicWall devices with SSLVPN and SAML enabled, and lists firmware versions below the fixed builds. It opens one ticket per device owner with the upgrade target. Analyst approval is required before any change window is scheduled.",
+          "title": "SonicWall exposure triage",
+          "type": "Playbook"
+        },
+        {
+          "text": "An automation runs an XQL or SIEM query on SonicWall and IdP logs for SSLVPN sessions authenticated by password only for users who are normally SAML-enforced. It returns users, source IPs and timestamps for analyst review. It is read-only and takes no containment action by itself.",
+          "title": "Hunt VPN logins skipping MFA",
+          "type": "Automation"
+        },
+        {
+          "text": "XSIAM's Vulnerability and Exposure Management emerging-vulnerability tracking can show affected assets for this CVE without custom automation, where the firewall is covered. Pair it with an NGFW policy restricting SSLVPN access to known geographies until patched.",
+          "title": "Use Emerging Vulnerabilities view",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Using the attached list of SonicWall devices, firmware and SAML status, summarise exposure to CVE-2026-19868 (SonicOS SSLVPN SAML MFA bypass). List devices needing upgrade to 7.3.4-7013 or 8.2.3-8015, rank by internet exposure, and draft a short change-advisory note with rollback steps and a hunt checklist for password-only VPN logins.",
+          "text": "A ready prompt helps analysts draft the change request. It produces a ranked device list and a hunt checklist. Review the output before sharing.",
+          "title": "Summarise exposure for CAB",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "VPN appliance · SonicWall",
+      "severity": "critical",
+      "source": "Help Net Security",
+      "summary": "An authentication-enforcement flaw in SonicOS SSLVPN lets an attacker holding valid credentials for another login method skip SAML-enforced MFA when SAML is enabled. SonicWall disclosed and patched it on 6 November, and CISA added it to KEV the same day. No indicators of compromise are public.",
+      "timeline": [
+        {
+          "date": "2026-11-06",
+          "kind": "disclosed",
+          "label": "SonicWall advisory SNWLID-2026-0014",
+          "source": "BleepingComputer",
+          "summary": "SonicWall disclosed the SAML MFA bypass among seven SonicOS flaws.",
+          "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+          "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/"
+        },
+        {
+          "date": "2026-11-06",
+          "kind": "patched",
+          "label": "Fixed builds released",
+          "source": "BleepingComputer",
+          "summary": "Fixes shipped in SonicOS 7.3.4-7013 and 8.2.3-8015 alongside the advisory.",
+          "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+          "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/"
+        },
+        {
+          "date": "2026-11-06",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "CISA",
+          "summary": "CISA listed CVE-2026-19868 as exploited in the wild.",
+          "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+          "date": "2026-11-09",
+          "kind": "reported",
+          "label": "No IOCs published",
+          "source": "Help Net Security",
+          "summary": "Coverage notes SonicWall shared no attack details or indicators of compromise.",
+          "title": "Exploited SonicWall SSL-VPN flaw lets attackers bypass SAML-enforced MFA (CVE-2026-19868)",
+          "url": "https://www.helpnetsecurity.com/2026/11/09/exploited-sonicwall-ssl-vpn-flaw-lets-attackers-bypass-saml-enforced-mfa-cve-2026-19868/"
+        },
+        {
+          "date": "2026-11-20",
+          "kind": "due",
+          "label": "KEV remediation deadline",
+          "source": "BleepingComputer",
+          "summary": "Federal civilian agencies must secure affected devices by this date.",
+          "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+          "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/"
+        }
+      ],
+      "title": "SonicWall SonicOS SSLVPN SAML MFA bypass (CVE-2026-19868)",
+      "url": "https://www.helpnetsecurity.com/2026/11/09/exploited-sonicwall-ssl-vpn-flaw-lets-attackers-bypass-saml-enforced-mfa-cve-2026-19868/"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-116606",
+        "CVE-2026-111560"
+      ],
+      "cvss": 9.3,
+      "date": "2026-11-10",
+      "exploited": true,
+      "fixedIn": "Barracuda ESG firmware 9.4.0.030 or later per one report; restrict the admin interface to trusted networks and confirm against Barracuda's advisory.",
+      "kevAdded": "2026-11-10",
+      "kevDue": "2026-11-13",
+      "occurredDate": "2026-11-02",
+      "response": [
+        {
+          "text": "A playbook finds Barracuda ESG appliances in the asset inventory, checks firmware, and confirms whether the admin interface is reachable from the internet through an external scan or NGFW rule lookup. The analyst receives a per-appliance report. Admin-interface blocking at the firewall requires analyst approval.",
+          "title": "Barracuda ESG containment",
+          "type": "Playbook"
+        },
+        {
+          "text": "A scheduled job pulls the CISA KEV feed and matches new entries against vendors in the CMDB, such as Barracuda, SonicWall and Ivanti. It creates one incident per match with product, deadline and affected assets. This turns each KEV addition into a ticket without manual reading.",
+          "title": "Daily KEV watch for edge devices",
+          "type": "Job"
+        },
+        {
+          "text": "A NGFW rule limiting the ESG admin interface to a management subnet is faster than building automation and cuts the exposed attack path immediately. Barracuda says interfaces kept off the internet are less exposed.",
+          "title": "Firewall rule for admin port",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Review the attached Barracuda ESG admin and system logs for CVE-2026-116606 and CVE-2026-111560 exploitation. Flag unauthenticated admin requests, unexpected command execution, new accounts or cron entries, and outbound connections since 2 November. Output a timeline, confidence rating and recommended containment steps for analyst approval.",
+          "text": "A prompt that turns raw appliance logs into a hunt summary. The analyst gets a timeline and confidence rating. Containment still needs approval.",
+          "title": "Compromise assessment checklist",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "Email security gateway · Barracuda",
+      "severity": "critical",
+      "source": "SecurityWeek",
+      "summary": "Two flaws chain into unauthenticated root access on Barracuda Email Security Gateway through its admin interface. Barracuda published an advisory on 2 November and later said exploitation hit a small number of organisations. CISA added both to KEV on 10 November, and a scanner firm saw 17 attempts between 9 and 11 November.",
+      "timeline": [
+        {
+          "date": "2026-11-02",
+          "kind": "disclosed",
+          "label": "Barracuda advisory published",
+          "source": "SecurityWeek",
+          "summary": "Barracuda warned the chained flaws could give attackers root access.",
+          "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+          "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/"
+        },
+        {
+          "date": "2026-11-09",
+          "kind": "exploited",
+          "label": "Exploitation confirmed by Barracuda",
+          "source": "SecurityWeek",
+          "summary": "Barracuda updated its advisory: attackers were exploiting a small number of organisations.",
+          "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+          "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/"
+        },
+        {
+          "date": "2026-11-10",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "CISA",
+          "summary": "CISA listed both Barracuda CVEs as exploited.",
+          "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "date": "2026-11-11",
+          "kind": "reported",
+          "label": "Scanning attempts observed",
+          "source": "SecurityWeek",
+          "summary": "Previdian saw 17 attempts from 15 IPs between 9 and 11 November.",
+          "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+          "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/"
+        },
+        {
+          "date": "2026-11-13",
+          "kind": "due",
+          "label": "KEV remediation deadline",
+          "source": "CISA",
+          "summary": "Federal agencies had until this date to remediate.",
+          "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
+        }
+      ],
+      "title": "Barracuda Email Security Gateway auth bypass and command injection chain (CVE-2026-116606, CVE-2026-111560)",
+      "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-111357",
+        "CVE-2026-118527"
+      ],
+      "cvss": 8.8,
+      "date": "2026-10-30",
+      "exploited": true,
+      "fixedIn": "Upgrade Connect Secure to 25.1.1.3 or 22.8R2.6; builds 25.1.1.2 and 22.8R2.5 only fix the earlier bypass.",
+      "kevAdded": "2026-10-30",
+      "kevDue": "2026-11-13",
+      "occurredDate": "2026-10-29",
+      "response": [
+        {
+          "text": "A playbook gathers Connect Secure appliances and versions, runs Ivanti's integrity checker output through an analyst review step, and flags builds below 25.1.1.3 or 22.8R2.6. It opens an incident for each exposed appliance with the findings. Credential and session resets are proposed to the analyst, not applied automatically.",
+          "title": "Connect Secure compromise check",
+          "type": "Playbook"
+        },
+        {
+          "text": "An automation lists accounts and service credentials that authenticated through the VPN since 1 October and prepares a reset list for the identity provider. The analyst gets a ranked list of privileged users to confirm. Resets run only after analyst approval.",
+          "title": "Rotate credentials after patch",
+          "type": "Automation"
+        },
+        {
+          "text": "Because exploitation predates disclosure, a factory reset and rebuild of suspect appliances is stronger than patching alone. Pair it with conditional access on VPN logins as a simpler control.",
+          "title": "Rebuild rather than patch",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Analyse the attached Ivanti Connect Secure logs from 1 October onward for CVE-2026-111357 and CVE-2026-118527 activity: unexpected file uploads, root-level command execution, new admin accounts and outbound connections. Summarise suspicious events with timestamps and source IPs, and suggest containment steps for analyst approval.",
+          "text": "A prompt for the Cortex AI assistant. It summarises suspicious VPN activity with timestamps. Analysts verify before acting.",
+          "title": "VPN log anomaly summary",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "VPN appliance · Ivanti Connect Secure",
+      "severity": "critical",
+      "source": "SecurityWeek",
+      "summary": "Two Ivanti Connect Secure flaws were chained with an earlier authentication bypass to reach root on appliances, with attacks starting around 1 to 3 October. Ivanti added the two CVEs to its advisory on 29 October and CISA listed them the next day. Earlier fixes do not cover them, so appliances need a further upgrade.",
+      "timeline": [
+        {
+          "date": "2026-10-13",
+          "kind": "exploited",
+          "label": "Volexity reports in-the-wild chain",
+          "source": "SecurityWeek",
+          "summary": "Volexity published on exploitation of the earlier bypass, first seen 3 October.",
+          "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+          "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/"
+        },
+        {
+          "date": "2026-10-29",
+          "kind": "disclosed",
+          "label": "Two CVEs added to advisory",
+          "source": "SecurityWeek",
+          "summary": "Ivanti added the privilege escalation and upload flaws to its advisory.",
+          "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+          "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/"
+        },
+        {
+          "date": "2026-10-29",
+          "kind": "patched",
+          "label": "Fixed releases published",
+          "source": "SecurityWeek",
+          "summary": "Ivanti shipped 25.1.1.3 and 22.8R2.6.",
+          "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+          "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/"
+        },
+        {
+          "date": "2026-10-30",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "SecurityWeek",
+          "summary": "CISA listed CVE-2026-111357 and CVE-2026-118527.",
+          "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+          "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/"
+        },
+        {
+          "date": "2026-11-13",
+          "kind": "due",
+          "label": "KEV deadline for CVE-2026-118527",
+          "source": "SecurityWeek",
+          "summary": "Federal agencies were due to fix the second CVE by this date.",
+          "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+          "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/"
+        }
+      ],
+      "title": "Ivanti Connect Secure privilege escalation and file upload zero-days chained in attacks (CVE-2026-111357, CVE-2026-118527)",
+      "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-124194"
+      ],
+      "cvss": 6.5,
+      "date": "2026-11-10",
+      "exploited": true,
+      "fixedIn": "Update Microsoft 365 Apps, Office LTSC 2021 and 2024 through Click-to-Run to the November 2026 build; Windows Update does not deliver it.",
+      "kevAdded": "2026-11-10",
+      "kevDue": "2026-11-24",
+      "milestones": [
+        {
+          "date": "2026-11-24",
+          "label": "CISA deadline to fix Outlook CVE-2026-124194"
+        }
+      ],
+      "occurredDate": "2026-11-10",
+      "response": [
+        {
+          "text": "An automation queries network and endpoint telemetry with XQL for Outlook processes making outbound SMB or WebDAV connections to external addresses. It returns hosts, users and destinations for review. Because it is read-only, analysts can run it on demand.",
+          "title": "Hunt outbound SMB and NTLM",
+          "type": "Automation"
+        },
+        {
+          "text": "A playbook checks Office Click-to-Run build versions across managed endpoints through the endpoint or MDM integration and lists those missing the November update. It notifies owners and opens tickets. Forced updates need analyst approval for critical servers.",
+          "title": "Office build compliance sweep",
+          "type": "Playbook"
+        },
+        {
+          "text": "Blocking outbound SMB (TCP 445) and WebDAV to the internet at the firewall removes the hash-leak path for every host at once. It is quicker than per-host automation and complements patching.",
+          "title": "Block outbound SMB at perimeter",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Given the attached list of users whose Outlook hosts made outbound SMB or WebDAV connections to external IPs since 10 November, assess exposure to CVE-2026-124194 NTLM hash theft. Prioritise privileged accounts, recommend which passwords to reset, and draft a short notification for affected users.",
+          "text": "A prompt for scoping credential risk. It ranks users and drafts a notification. Resets remain an analyst decision.",
+          "title": "Credential reset scoping",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "Email client · Microsoft Outlook",
+      "severity": "high",
+      "source": "SecurityWeek",
+      "summary": "Microsoft patched an exploited Outlook spoofing flaw on November Patch Tuesday. Opening a crafted message file skips the usual warning and can leak the user's NTLMv2 authentication hash to an attacker-controlled server. The fix ships through the Office Click-to-Run channel, and CISA added it to KEV on 10 November.",
+      "timeline": [
+        {
+          "date": "2026-11-10",
+          "kind": "disclosed",
+          "label": "Microsoft advisory published",
+          "source": "SecurityWeek",
+          "summary": "Microsoft disclosed the flaw as already exploited.",
+          "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+          "url": "https://securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft"
+        },
+        {
+          "date": "2026-11-10",
+          "kind": "patched",
+          "label": "Office update released",
+          "source": "SecurityWeek",
+          "summary": "Fix shipped through Office Click-to-Run, not Windows Update.",
+          "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+          "url": "https://securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft"
+        },
+        {
+          "date": "2026-11-10",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "CISA",
+          "summary": "CISA listed the Outlook flaw as exploited.",
+          "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "date": "2026-11-24",
+          "kind": "due",
+          "label": "KEV remediation deadline",
+          "source": "CISA",
+          "summary": "Federal agencies must apply the Office update by this date.",
+          "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
+        }
+      ],
+      "title": "Microsoft Outlook NTLM hash-theft zero-day (CVE-2026-124194)",
+      "url": "https://securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft"
+    }
+  ],
+  "generatedAt": "2026-11-16T21:10:38+08:00",
+  "scanDate": "2026-11-16",
+  "threatLevel": {
+    "level": "Medium",
+    "previous": "Low",
+    "since": "2026-11-04",
+    "source": "NACSA",
+    "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+  }
+}

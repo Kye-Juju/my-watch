@@ -1,0 +1,681 @@
+{
+  "articles": [
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-14",
+      "occurredDate": "2026-11-12",
+      "region": "Malaysia",
+      "sector": "Healthcare · government",
+      "severity": "high",
+      "source": "Free Malaysia Today",
+      "summary": "The health ministry said an unauthorised party accessed a file storage and sharing platform at one unnamed facility on Thursday 12 November. It says main databases and operational systems were untouched, blocked public access, reset passwords, audited servers and enforced multi-factor authentication, and warned the public against possessing or sharing leaked official documents.",
+      "title": "Health ministry suffers cybersecurity breach, but patient services not affected",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/14/health-ministry-suffers-cybersecurity-breach-but-patient-services-not-affected"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-07",
+      "occurredDate": "2026-11-06",
+      "region": "Malaysia",
+      "sector": "Banking",
+      "severity": "high",
+      "source": "The Star (Bernama)",
+      "summary": "Minister Fahmi Fadzil said attempted attacks by non-state actors caused no data theft or disruption to online banking, describing the Bank Rakyat incident of 6 November as a defacement of a third-party-managed website. The Prime Minister ordered the National Security Council to review hybrid threats to infrastructure and asked for a deeper cyber review of government assets, banks and GLCs.",
+      "title": "Malaysia's online banking system remains secure, says Comms Minister",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/07/malaysia039s-online-banking-system-remains-secure-says-comms-minister"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-03",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "critical",
+      "source": "The Vibes",
+      "summary": "Prime Minister Anwar Ibrahim told the Dewan Rakyat that intelligence assessments place Malaysia among potential cyberattack targets and that the National Security Council met specially on 2 November. Measures include an MP briefing, a Chief Secretary coordination meeting, a Bank Negara meeting with financial institutions and extra attention to energy, transport, finance and food supply.",
+      "title": "Malaysia on cyberattack radar, government steps up security measures",
+      "url": "https://www.thevibes.com/articles/news/129123/malaysia-on-cyberattack-radar-government-steps-up-security-measures"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-12",
+      "region": "Malaysia",
+      "sector": "National security",
+      "severity": "high",
+      "source": "The Star",
+      "summary": "Communications Minister Fahmi Fadzil said on 12 November that NACSA remains at amber alert, a moderate readiness level. Claims of attacks and intrusions are circulating online, but NACSA has confirmed none so far and will be the official source of information.",
+      "title": "Nacsa maintains amber alert amid cyberattack, security breach claims",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/12/nacsa-maintains-amber-alert-amid-cyberattack-security-breach-claims"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-10",
+      "region": "Malaysia",
+      "sector": "Elections · government website",
+      "severity": "high",
+      "source": "Lowyat.NET",
+      "summary": "The Election Commission says its website was reportedly attacked during the Melaka state election and it is still waiting for a full report. Chairman Ramlan Harun said an initial report went to the authorities and the commission is working with MCMC. The nature of the attack and any data impact are not yet disclosed.",
+      "title": "Election Commission Claims Cyberattack On Its Website",
+      "url": "https://www.lowyat.net/2026/409511/election-commission-website-cyberattack/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-02",
+      "region": "Malaysia",
+      "sector": "Aviation · third-party provider",
+      "severity": "high",
+      "source": "New Straits Times",
+      "summary": "Malaysia Airlines said a cybersecurity incident at its reservation technology provider Amadeus may have exposed customer information processed between August 2023 and September 2026, while its own IT systems were not breached. It found no evidence financial data was accessed and has not disclosed how many customers are affected; Cathay, JAL and ANA reported similar exposure.",
+      "title": "Malaysia Airlines' systems untouched by data breach",
+      "url": "https://www.nst.com.my/amp/business/corporate/2026/11/1568677/malaysia-airlines-systems-untouched-data-breach"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-11",
+      "region": "Denmark",
+      "sector": "Transport · shipping & logistics",
+      "severity": "high",
+      "source": "BleepingComputer",
+      "summary": "Maersk disclosed unauthorised access and data extraction from a legacy local system inherited through an acquisition, saying it found no sign of wider impact. The WhiteArmor group claims about 100 GB of stolen data and demands $5 million in bitcoin within 30 days; the claims are not independently verified.",
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-09",
+      "occurredDate": "2026-11-09",
+      "region": "United States",
+      "sector": "Education · university",
+      "severity": "high",
+      "source": "The Record",
+      "summary": "Vanderbilt University announced a cyberattack on 9 November and told staff and students to shut down devices and leave campus WiFi. The BYOD ransomware gang listed the university on its leak site and has alleged theft of over one million Social Security numbers, which the university has not confirmed; classes continued as systems were restored.",
+      "title": "Vanderbilt cybersecurity incident impacting campus devices and systems",
+      "url": "https://therecord.media/vanderbilt-cyberattack-ransomware-alert"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-13",
+      "region": "Singapore",
+      "sector": "National security · regional",
+      "severity": "high",
+      "source": "The Star (Bernama)",
+      "summary": "Singapore's Cyber Security Agency said the monthly average of reported incidents since September is three times the January to August level, with at least 12 incidents between 24 October and 13 November. It sees opportunistic attacks rather than coordinated campaigns, flags compromised suppliers, and has briefed all critical information infrastructure sectors.",
+      "title": "Singapore sees rise in reported cyber incidents since September, says CSA",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/13/singapore-sees-rise-in-reported-cyber-incidents-since-september-says-csa"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-10",
+      "occurredDate": "2026-10-12",
+      "region": "France",
+      "sector": "Critical infrastructure · food supply (OT)",
+      "severity": "critical",
+      "source": "SecurityWeek",
+      "summary": "On 9 November Paris prosecutors and ANSSI attributed the 12 October attack on about 700 French supermarkets to the IRGC-linked Shahid Kaveh group. Refrigeration reached 50C for hours. France summoned the Iranian ambassador and promised EU sanctions, and similar incidents were reported in several other European countries.",
+      "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
+      "url": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-11",
+      "occurredDate": "2026-11-08",
+      "region": "United States",
+      "sector": "Cloud vendor · third-party access",
+      "severity": "medium",
+      "source": "BleepingComputer",
+      "summary": "Notion said a breach at its AI infrastructure provider Fireworks exposed AI chat transcripts for a small number of workspaces. Fireworks confirmed on 8 November that customer data had been accessed. The case shows how third-party AI and cloud suppliers can widen exposure for organisations that never stored the data themselves.",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/"
+    },
+    {
+      "category": "Cyberattacks",
+      "date": "2026-11-02",
+      "region": "United States",
+      "sector": "Education · university",
+      "severity": "medium",
+      "source": "The Record",
+      "summary": "The BYOD ransomware gang listed Michigan State University and alleged it stole personal data on about 1.3 million current and former students. The university said the incident forced password resets for all student and employee accounts. The same gang is linked to the recent Vanderbilt and University of New Mexico health incidents; the data claim remains unverified.",
+      "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
+      "url": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-14",
+      "occurredDate": "2026-11-14",
+      "sector": "Elections",
+      "severity": "high",
+      "source": "Free Malaysia Today",
+      "summary": "Counting after Melaka state polling on 14 November produced unofficial results showing BN with most declared seats, PH retaining its four DAP-held seats and PN winning three, with Bersatu reportedly wiped out. An Umno leader claimed a simple majority for BN-PN. Turnout closed near 70.6 percent; final tallies and the chief minister were not yet confirmed.",
+      "title": "LIVE: BN-PN secures two-thirds majority in Melaka",
+      "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/14/live-vote-counting-for-melaka-polls-begins"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-12",
+      "occurredDate": "2026-11-12",
+      "sector": "Courts · 1MDB recovery",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "A three-judge Court of Appeal bench unanimously set aside a High Court ruling and allowed 1MDB and related companies to file a 319-page affidavit supporting their Mareva injunction bid against Rosmah Mansor. The court said the High Court wrongly required exceptional circumstances. The ruling affects evidence only and does not itself freeze any assets.",
+      "title": "Court of Appeal allows 1MDB to use Singaporean woman's affidavit in bid to freeze Rosmah's RM1.41b assets",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/12/court-of-appeal-allows-1mdb-to-use-singaporean-womans-affidavit-in-bid-to-freeze-rosmahs-rm141b-assets/242953"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-13",
+      "milestones": [
+        {
+          "date": "2027-02-23",
+          "label": "Federal Court hears IRB leave bid over Najib bankruptcy stay"
+        }
+      ],
+      "sector": "Courts · tax & bankruptcy",
+      "severity": "high",
+      "source": "Malay Mail (Bernama)",
+      "summary": "The Federal Court will hear the Inland Revenue Board's leave application on 23 February 2027, challenging the Court of Appeal's September stay of bankruptcy proceedings against Najib Razak over a RM1.69 billion tax claim. The board has filed no similar application for Najib's son Nazifuddin, whose proceedings also remain stayed pending tax appeals.",
+      "title": "IRB's RM1.69b appeal in Najib bankruptcy case set for Feb 23; no appeal for Nazifuddin",
+      "url": "https://malaymail.com/news/malaysia/2026/11/13/irbs-rm169b-appeal-in-najib-bankruptcy-case-set-for-feb-23-no-appeal-for-nazifuddin/243112"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-10-30",
+      "milestones": [
+        {
+          "date": "2026-11-26",
+          "label": "Budget 2027 committee stage scheduled to end"
+        },
+        {
+          "date": "2026-12-08",
+          "label": "Dewan Rakyat sitting scheduled to end"
+        }
+      ],
+      "occurredDate": "2026-10-29",
+      "sector": "Parliament · budget",
+      "severity": "high",
+      "source": "Malay Mail",
+      "summary": "The Dewan Rakyat passed the RM459.8 billion Supply Bill 2027 at the policy stage on 29 October by voice vote. Committee-stage debate began on 2 November and is scheduled to run to 26 November, after which a third reading and the Dewan Negara follow. The sitting is due to end on 8 December.",
+      "title": "Dewan Rakyat passes Supply Bill 2027 at policy stage; committee debate runs to Nov 26",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/30/budget-2027-passes-policy-stage-committee-debate-from-nov-2-as-govt-mulls-tighter-glc-rules-1mdb-recovery/241207"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-05",
+      "sector": "Cabinet · governance",
+      "severity": "medium",
+      "source": "The Vibes",
+      "summary": "In a written parliamentary reply, Anwar Ibrahim said the Cabinet is the final authority on collective decisions and that ministry disagreements are part of policy deliberation. The reply followed a public dispute between the Finance and Rural Development ministries over a RM2.1 billion gap in Rural Road Programme spending, which the Deputy Prime Minister said does not indicate missing funds.",
+      "title": "Cabinet has final say on government policies amid ministry differences: PM",
+      "url": "https://www.thevibes.com/articles/news/129202/cabinet-has-final-say-on-government-policies-amid-ministry-differences-pm"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-13",
+      "sector": "Parliament · budget",
+      "severity": "high",
+      "source": "Business Today",
+      "summary": "Business Today summarises Parliament's sixth week: the house-arrest terms barring Najib from leaving the premises, politics and media, plus debate on national debt and GST. House arrest runs to 23 August 2028, and the Bar has sought judicial review of the Pardons Board decision.",
+      "title": "Najib House Arrest Conditions, National Debt And GST Dominate Parliament's Sixth Week",
+      "url": "https://www.businesstoday.com.my/2026/11/13/najib-house-arrest-conditions-national-debt-and-gst-dominate-parliaments-sixth-week/"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-12",
+      "milestones": [
+        {
+          "date": "2026-12-01",
+          "label": "Court of Appeal case management in Sabah 40 percent revenue appeal"
+        }
+      ],
+      "sector": "Pardons & courts",
+      "severity": "high",
+      "source": "Newswav",
+      "summary": "In the federal government's appeal over Sabah's 40 percent revenue entitlement, the Court of Appeal used 12 November case management to fix a further session on 1 December. No ruling date or judgment has been reported; an earlier stay still pauses the High Court timelines.",
+      "title": "40pc: Further case management fixed for December 1",
+      "url": "https://newswav.com/article/40pc-further-case-management-fixed-for-december-1-A2611_yLFCUi"
+    },
+    {
+      "category": "Law & Government",
+      "date": "2026-11-12",
+      "sector": "Pardons & courts",
+      "severity": "critical",
+      "source": "The Star",
+      "summary": "Home Minister Saifuddin Nasution told the Dewan Rakyat on 12 November that a breach of house-arrest conditions would revoke the order and return Najib to Kajang Prison. Three prison officers per shift guard the residence at no extra cost, drawn from Kajang Prison staff.",
+      "title": "Najib could go back to prison if he breaches terms of house arrest, Dewan Rakyat told",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/12/najib-could-go-back-to-prison-if-he-breaches-terms-of-house-arrest-dewan-rakyat-told"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-123039"
+      ],
+      "cvss": 7.8,
+      "date": "2026-11-13",
+      "exploited": true,
+      "fixedIn": "Install the November Jumbo Hotfix (R82.20 Take 14+, R82.10 Take 52+, R82 Take 132+, R81.20 Take 174+) per sk1000362; R81.10 and R81 have no fix.",
+      "kevAdded": "2026-11-13",
+      "kevDue": "2026-11-16",
+      "milestones": [
+        {
+          "date": "2026-11-16",
+          "label": "CISA deadline to fix Check Point CVE-2026-123039"
+        }
+      ],
+      "occurredDate": "2026-11-12",
+      "response": [
+        {
+          "text": "Trigger a playbook from the KEV or NVD feed indicator that queries your CMDB and Check Point management for gateways below the fixed Jumbo take. It opens one ticket per gateway with owner, version and Mobile Access exposure for analyst review. Patching or isolation steps wait for analyst approval.",
+          "title": "Check Point exposure sweep",
+          "type": "Playbook"
+        },
+        {
+          "prompt": "Given these Check Point gateway logs and XSIAM alerts, list evidence of CVE-2026-123039 abuse: PHP2Shell requests to the Mobile Access portal, root commands via /tmp/dynamic_socket, new webshells, unknown backdoor processes, and lateral movement to ESXi. Rate confidence per item and give next containment steps.",
+          "text": "Gives analysts a consistent triage summary for a suspect Check Point gateway. It turns raw logs into a short, ordered checklist. Analysts should verify every finding against the gateway before acting.",
+          "title": "Gaia compromise triage",
+          "type": "AI prompt"
+        },
+        {
+          "text": "Check the XSIAM Vulnerability and Exposure Management emerging vulnerabilities view or Vulnerability Intelligence first, since it can already map this CVE to your assets without custom automation. Pair it with an NGFW rule restricting the Mobile Access portal to known sources until patched.",
+          "title": "Use Emerging Vulnerabilities view",
+          "type": "Better alternative"
+        },
+        {
+          "text": "Schedule a job that re-runs the gateway version check each morning and compares it to the fixed Jumbo takes. It posts only newly vulnerable or newly patched gateways to the SOC channel. Stop it once the estate is clean for a week.",
+          "title": "Daily version drift check",
+          "type": "Job"
+        }
+      ],
+      "sector": "Firewall OS · Check Point",
+      "severity": "high",
+      "source": "CISA / Check Point",
+      "summary": "A flaw in the Gaia OS DynamicCLI daemon, which runs as root on a world-writable socket, lets a low-privileged local user run commands as root. Check Point says attackers chained it after PHP2Shell access via the Mobile Access portal, deploying webshells, a backdoor and in some cases a wiper. CISA added it to KEV on 13 November.",
+      "timeline": [
+        {
+          "date": "2026-10-23",
+          "kind": "event",
+          "label": "PHP2Shell hotfix released",
+          "source": "Check Point Community",
+          "summary": "Hotfix for the PHP flaws used for initial access became available.",
+          "title": "Check Point PHP2Shell hotfix guidance",
+          "url": "https://community.checkpoint.com/t5/WAF/PHP2Shell-Technical-Impact-Emergency-Protection-with-Check-Point/td-p/283962"
+        },
+        {
+          "date": "2026-10-30",
+          "kind": "exploited",
+          "label": "First exploitation seen",
+          "source": "Rescana",
+          "summary": "Exploitation first observed against Israeli organisations; a wider wave followed on 2 November.",
+          "title": "Check Point Gaia CVE-2026-123039 exploited DynamicCLI root escalation",
+          "url": "https://www.rescana.com/post/checkpoint-gaia-cve-2026-123039-kev-patch-now"
+        },
+        {
+          "date": "2026-11-12",
+          "kind": "disclosed",
+          "label": "Check Point advisory published",
+          "source": "Check Point",
+          "summary": "Check Point published the CVE record and advisory sk1000362.",
+          "title": "Check Point advisory sk1000362 for CVE-2026-123039",
+          "url": "https://www.rescana.com/post/checkpoint-gaia-cve-2026-123039-kev-patch-now"
+        },
+        {
+          "date": "2026-11-12",
+          "kind": "patched",
+          "label": "Jumbo Hotfix fix ships",
+          "source": "Check Point",
+          "summary": "Fixed builds shipped in the November Jumbo Hotfix Accumulator.",
+          "title": "Check Point advisory sk1000362 for CVE-2026-123039",
+          "url": "https://www.rescana.com/post/checkpoint-gaia-cve-2026-123039-kev-patch-now"
+        },
+        {
+          "date": "2026-11-13",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "CISA",
+          "summary": "CISA listed the Check Point flaw alongside UnrealIRCd CVE-2026-114713.",
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+          "date": "2026-11-16",
+          "kind": "due",
+          "label": "CISA remediation deadline",
+          "source": "CISA",
+          "summary": "Federal agencies must fix by this date.",
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        }
+      ],
+      "title": "Check Point Gaia DynamicCLI root privilege escalation (CVE-2026-123039)",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-116606",
+        "CVE-2026-111560"
+      ],
+      "cvss": 9.3,
+      "date": "2026-11-10",
+      "exploited": true,
+      "fixedIn": "Update Barracuda Email Security Gateway to 9.4.0.030 or later and restrict access to the admin UI; see the Barracuda advisory for other affected products.",
+      "kevAdded": "2026-11-10",
+      "kevDue": "2026-11-13",
+      "occurredDate": "2026-11-02",
+      "response": [
+        {
+          "text": "Run a playbook that pulls ESG version and admin-UI exposure from your asset inventory, flags appliances below 9.4.0.030, and opens tickets with the owner. It adds a compromise-check task using Barracuda and Mandiant guidance. Analyst approval is required before any appliance is taken offline.",
+          "title": "ESG patch and compromise check",
+          "type": "Playbook"
+        },
+        {
+          "text": "Create an automation that checks whether each ESG admin interface is reachable from the internet using your attack surface or scanner integration. It returns a short list of exposed appliances for the analyst. The result feeds the ticket priority so internet-facing devices are handled first.",
+          "title": "Admin UI exposure lookup",
+          "type": "Automation"
+        },
+        {
+          "text": "A simple NGFW rule that limits the ESG admin interface to management subnets removes the main attack path faster than building automation. Use it as an immediate stopgap, then patch to 9.4.0.030. Confirm the rule with a scan from outside the network.",
+          "title": "Firewall-restrict the admin UI",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Review these Barracuda ESG logs and XSIAM alerts for signs of CVE-2026-116606 and CVE-2026-111560 abuse: unexpected admin-UI sessions, config restore or password-change requests, timezone-setting command injection, new processes or cron entries, and outbound connections. List findings, confidence, and recommended containment steps.",
+          "text": "Helps analysts turn mixed gateway and XSIAM data into a compromise assessment. It keeps the output structured for the incident ticket. Analysts must confirm results on the appliance.",
+          "title": "Summarise ESG alerts",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "Email security gateway · Barracuda",
+      "severity": "critical",
+      "source": "SecurityWeek",
+      "summary": "An authentication bypass in Barracuda Email Security Gateway can chain with a command injection bug to give root access on the appliance. Barracuda updated its advisory around 9 November to say a small number of organisations were attacked, and CISA added both flaws to KEV on 10 November with a three-day deadline.",
+      "timeline": [
+        {
+          "date": "2026-11-02",
+          "kind": "disclosed",
+          "label": "Barracuda advisory published",
+          "source": "Barracuda",
+          "summary": "Barracuda disclosed both flaws and fixes, reported to it on 15 and 22 October.",
+          "title": "Pre-Authentication Authorization Bypass and Command Injection Vulnerabilities in Certain Barracuda Products",
+          "url": "https://trust.barracuda.com/security/pre-authentication-authorization-bypass-command-injection"
+        },
+        {
+          "date": "2026-11-04",
+          "kind": "reported",
+          "label": "Mandiant and press analysis",
+          "source": "SecurityWeek",
+          "summary": "Reporting detailed the chain; Mandiant said the bypass needs no authentication.",
+          "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
+          "url": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/"
+        },
+        {
+          "date": "2026-11-09",
+          "kind": "exploited",
+          "label": "Exploitation warning added",
+          "source": "SecurityWeek",
+          "summary": "Barracuda updated its advisory: attackers were exploiting the flaws against a small number of organisations.",
+          "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+          "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/"
+        },
+        {
+          "date": "2026-11-10",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "SecurityWeek",
+          "summary": "CISA added both Barracuda flaws to the KEV catalog.",
+          "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+          "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/"
+        },
+        {
+          "date": "2026-11-13",
+          "kind": "due",
+          "label": "CISA remediation deadline",
+          "source": "SecurityWeek",
+          "summary": "Three-day federal remediation deadline passed.",
+          "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+          "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/"
+        }
+      ],
+      "title": "Barracuda ESG authentication bypass and command injection chain (CVE-2026-116606, CVE-2026-111560)",
+      "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-114713"
+      ],
+      "cvss": 8.6,
+      "date": "2026-11-13",
+      "exploited": true,
+      "fixedIn": "Upgrade to UnrealIRCd 6.2.7.1 or run the bundle-20261107 hot-patch on every server; UnrealIRCd 5 users should blacklist the labeled-response module.",
+      "kevAdded": "2026-11-13",
+      "kevDue": "2026-11-16",
+      "milestones": [
+        {
+          "date": "2026-11-16",
+          "label": "CISA deadline to fix UnrealIRCd CVE-2026-114713"
+        }
+      ],
+      "occurredDate": "2026-11-07",
+      "response": [
+        {
+          "text": "Build an automation that searches your endpoint and vulnerability data for unrealircd processes or packages and returns versions. The analyst gets a deduplicated host list with owners. Most organisations will find none, which closes the case quickly.",
+          "title": "Find UnrealIRCd hosts",
+          "type": "Automation"
+        },
+        {
+          "text": "Schedule a weekly job that rechecks hosts running IRC services against 6.2.7.1. It creates a ticket only for hosts still vulnerable. Retire the job once the CISA deadline has passed and no hosts remain.",
+          "title": "Scheduled version scan",
+          "type": "Job"
+        },
+        {
+          "text": "If IRC is not a business requirement, removing the service or blocking inbound IRC ports at the firewall beats patching repeatedly. Where it must stay, apply the hot-patch and restrict link ports to known peers. Verify with a port scan.",
+          "title": "Remove or isolate IRC servers",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Review these UnrealIRCd server logs for CVE-2026-114713 abuse: IRCv3 label tags containing newlines or escaped sequences, unexpected KILL, GLINE or other operator commands from non-operators, and new server links. Summarise findings with timestamps and recommend containment steps.",
+          "text": "Helps analysts check logs from IRC servers for abuse of the label tag. It prioritises suspicious command patterns for review. Treat the output as leads, not proof.",
+          "title": "Review IRC server logs",
+          "type": "AI prompt"
+        }
+      ],
+      "sector": "IRC server · UnrealIRCd",
+      "severity": "high",
+      "source": "CISA / UnrealIRCd",
+      "summary": "An escaping bug in UnrealIRCd's IRCv3 label tag lets an ordinary user inject commands that run with server or operator authority, such as KILL and GLINE. The maintainer shipped 6.2.7.1 and a hot-patch on 7 November and reported exploitation attempts; CISA added it to KEV on 13 November.",
+      "timeline": [
+        {
+          "date": "2026-11-07",
+          "kind": "disclosed",
+          "label": "UnrealIRCd advisory",
+          "source": "UnrealIRCd",
+          "summary": "The project published the advisory and critical fix for the label-tag bug.",
+          "title": "UnrealIRCd 6.2.7.1 released & hot-patch (CVE-2026-114713)",
+          "url": "https://seclists.org/oss-sec/2026/q4/576"
+        },
+        {
+          "date": "2026-11-07",
+          "kind": "patched",
+          "label": "6.2.7.1 and hot-patch",
+          "source": "UnrealIRCd",
+          "summary": "Version 6.2.7.1 and a no-restart hot-patch were released.",
+          "title": "UnrealIRCd 6.2.7.1 released & hot-patch (CVE-2026-114713)",
+          "url": "https://seclists.org/oss-sec/2026/q4/576"
+        },
+        {
+          "date": "2026-11-13",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "Security Affairs",
+          "summary": "CISA listed the flaw; the maintainer confirmed exploitation attempts after disclosure.",
+          "title": "U.S. CISA adds Check Point and UnrealIRCd flaws to its KEV catalog",
+          "url": "https://securityaffairs.com/203040/hacking/u-s-cisa-adds-check-point-and-unrealircd-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+          "date": "2026-11-16",
+          "kind": "due",
+          "label": "CISA remediation deadline",
+          "source": "CISA",
+          "summary": "Federal agencies must fix by this date.",
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        }
+      ],
+      "title": "UnrealIRCd labeled-response command injection (CVE-2026-114713)",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-124194"
+      ],
+      "cvss": 6.5,
+      "date": "2026-11-10",
+      "exploited": true,
+      "fixedIn": "Install the November 2026 Patch Tuesday updates for Microsoft 365 Apps and Office LTSC 2021/2024.",
+      "kevAdded": "2026-11-10",
+      "kevDue": "2026-11-24",
+      "milestones": [
+        {
+          "date": "2026-11-24",
+          "label": "CISA deadline to fix Outlook CVE-2026-124194"
+        }
+      ],
+      "occurredDate": "2026-11-10",
+      "response": [
+        {
+          "text": "Run a playbook that lists endpoints with Outlook builds below the November fix and notifies owners. It also queries recent outbound SMB or WebDAV connections to external hosts that could indicate NTLM leakage. Password resets for affected users need analyst approval.",
+          "title": "Outlook patch and hash exposure",
+          "type": "Playbook"
+        },
+        {
+          "prompt": "Given these email, endpoint and authentication events, assess whether a user opened a crafted message file triggering CVE-2026-124194: attachment type, outbound SMB/WebDAV to external IPs after opening, subsequent NTLM logons from unusual hosts. Rate confidence and recommend password reset or session revocation.",
+          "text": "Gives analysts a quick view of whether an Outlook user may have leaked credentials. It correlates email, endpoint and authentication events. Findings must be confirmed in the source systems.",
+          "title": "Triage NTLM leak alerts",
+          "type": "AI prompt"
+        },
+        {
+          "text": "Blocking outbound SMB (TCP 445) and restricting NTLM at the firewall and via Windows policy removes the leak path regardless of patch status. Roll it out in audit mode first to find legitimate dependencies. This is cheaper than custom detection.",
+          "title": "Block outbound NTLM",
+          "type": "Better alternative"
+        },
+        {
+          "text": "Schedule a daily job that reports Outlook patch compliance from vulnerability data against the 24 November deadline. It lists only lagging hosts and their owners. Disable it once compliance reaches your target.",
+          "title": "Patch compliance report",
+          "type": "Job"
+        }
+      ],
+      "sector": "Email client · Microsoft Outlook",
+      "severity": "high",
+      "source": "SecurityWeek",
+      "summary": "Opening a specially crafted message file in Outlook can leak a user's NTLMv2 authentication data, which attackers can relay to sign in as the victim. Microsoft confirmed exploitation before a fix and patched it in the November Patch Tuesday release on 10 November; CISA added it to KEV the same day.",
+      "timeline": [
+        {
+          "date": "2026-11-10",
+          "kind": "disclosed",
+          "label": "Microsoft advisory published",
+          "source": "SecurityWeek",
+          "summary": "Microsoft disclosed the flaw as exploited in November Patch Tuesday.",
+          "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+          "url": "https://securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft"
+        },
+        {
+          "date": "2026-11-10",
+          "kind": "patched",
+          "label": "November Patch Tuesday fix",
+          "source": "SecurityWeek",
+          "summary": "Fixes shipped for affected Microsoft 365 Apps and Office LTSC builds.",
+          "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+          "url": "https://securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft"
+        },
+        {
+          "date": "2026-11-10",
+          "kind": "kev",
+          "label": "Added to CISA KEV",
+          "source": "SecurityWeek",
+          "summary": "CISA added the flaw to the KEV catalog.",
+          "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+          "url": "https://securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft"
+        },
+        {
+          "date": "2026-11-24",
+          "kind": "due",
+          "label": "CISA remediation deadline",
+          "source": "SecurityWeek",
+          "summary": "Federal agencies must fix by this date.",
+          "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+          "url": "https://securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft"
+        }
+      ],
+      "title": "Microsoft Outlook NTLM hash theft zero-day (CVE-2026-124194)",
+      "url": "https://securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft"
+    },
+    {
+      "category": "Critical Vulnerabilities",
+      "cves": [
+        "CVE-2026-90436"
+      ],
+      "cvss": 9.8,
+      "date": "2026-11-13",
+      "exploited": true,
+      "fixedIn": "No fix for the chain is listed; N-able restricted Legacy API and Intune integration, and 2026.4 HF2 alone does not stop the chain.",
+      "occurredDate": "2026-11-12",
+      "response": [
+        {
+          "text": "Run a playbook that locates N-central servers, checks whether Legacy API is enabled, and hunts for the published indicators of compromise. It opens a high-priority ticket with the evidence. Disabling Legacy API or isolating the server needs analyst approval.",
+          "title": "N-central exposure response",
+          "type": "Playbook"
+        },
+        {
+          "text": "Limit inbound access to the N-central web and API ports to known management addresses at the firewall, and disable Legacy API per N-able guidance. This blocks the unauthenticated path faster than detection content. Re-check as N-able updates its advice.",
+          "title": "Restrict N-central at the edge",
+          "type": "Better alternative"
+        },
+        {
+          "prompt": "Review this telemetry from N-central servers and managed agents for CVE-2026-90436 chain abuse: Legacy API requests from unknown IPs, new SYSTEM or root processes, XMRig or other miners, unexpected scheduled tasks, and outbound connections to mining pools. Output findings, confidence and containment steps.",
+          "text": "Helps analysts review N-central server and managed-agent telemetry for the reported compromise pattern. It speeds up first-pass triage. Verify everything on the host.",
+          "title": "Hunt for miner activity",
+          "type": "AI prompt"
+        },
+        {
+          "text": "Schedule a job that pulls N-able and researcher indicators of compromise every few hours and retro-hunts them in XSIAM. It posts only new hits. Retire it when N-able ships a verified fix.",
+          "title": "IOC refresh job",
+          "type": "Job"
+        }
+      ],
+      "sector": "RMM platform · N-able N-central",
+      "severity": "critical",
+      "source": "SecurityWeek",
+      "summary": "A public proof of concept chains the Apache Axis flaw CVE-2026-90436 into unauthenticated root code execution on N-central servers with Legacy API enabled. Researchers saw compromises about five hours after publication, with XMRig miners deployed, and reported victims that had already applied the latest hotfix. N-able confirmed new indicators of compromise.",
+      "timeline": [
+        {
+          "date": "2026-11-12",
+          "kind": "event",
+          "label": "Public PoC released",
+          "source": "SecurityWeek",
+          "summary": "A researcher published the proof of concept on GitHub.",
+          "title": "Hackers exploit new N-central zero-day hours after PoC publication",
+          "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/"
+        },
+        {
+          "date": "2026-11-13",
+          "kind": "exploited",
+          "label": "Exploitation confirmed",
+          "source": "SecurityWeek",
+          "summary": "Lupovis and Huntback saw compromises within hours; N-able confirmed indicators.",
+          "title": "Hackers exploit new N-central zero-day hours after PoC publication",
+          "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/"
+        }
+      ],
+      "title": "N-able N-central 4EverAble2Shell unauthenticated root RCE chain using Apache Axis flaw (CVE-2026-90436)",
+      "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/"
+    }
+  ],
+  "generatedAt": "2026-11-14T21:08:00+08:00",
+  "scanDate": "2026-11-14",
+  "threatLevel": {
+    "level": "Medium",
+    "previous": "Low",
+    "since": "2026-11-04",
+    "source": "NACSA",
+    "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+  }
+}
