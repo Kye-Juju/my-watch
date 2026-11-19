@@ -1,0 +1,635 @@
+{
+ "articles": [
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-01",
+   "region": "Malaysia",
+   "sector": "Transport · aviation (third party)",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Malaysia Airlines told passengers that customer details handled by reservation vendor Amadeus between August 2023 and September 2026 may have been exposed. The airline says its own systems were not breached and no financial data was accessed. Several Asian carriers were affected by the same supplier incident, and the full scope remains under investigation.",
+   "title": "Malaysia Airlines warns customers of data exposure in Amadeus cybersecurity breach",
+   "url": "https://www.malaymail.com/amp/news/malaysia/2026/11/01/malaysia-airlines-warns-customers-of-data-exposure-in-amadeus-cybersecurity-breach/241516"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-04",
+   "occurredDate": "2026-11-04",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "NACSA raised the National Cyber Security Threat Level from Low to Medium on 4 November as a precaution amid geopolitical tension. Heads of national critical information infrastructure sectors must now file weekly threat status reports even without incidents. Officials stressed the country is not in a cyber crisis.",
+   "title": "Nacsa raises level of cyber security threat to medium",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-07",
+   "region": "Malaysia",
+   "sector": "Banking",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Communications Minister Fahmi Fadzil said the Bank Rakyat incident was limited to defacement of a third-party-managed website, with access to the affected server blocked and users redirected. A hacker using the handle Marlanwg claimed deeper access, which the bank had not confirmed. Online banking operations were reported unaffected.",
+   "title": "Fahmi says online banking remains safe despite cyberattacks and Bank Rakyat hack",
+   "url": "https://www.malaymail.com/amp/news/malaysia/2026/11/07/fahmi-says-online-banking-remains-safe-despite-cyberattacks-and-bank-rakyat-hack/242378"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-09",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "medium",
+   "source": "The Star",
+   "summary": "The Malaysian Cyber and Digital Council urged organisations to prepare for covert state-linked hacker groups following the threat-level increase. It called for stronger monitoring, incident readiness and information sharing across sectors. The appeal came days after the Prime Minister warned Malaysia could be a potential cyberattack target.",
+   "title": "MCCA calls for preparedness against covert state-linked hacker groups",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/09/mcca-calls-for-preparedness-against-covert-state-linked-hacker-groups"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-10",
+   "region": "Malaysia",
+   "sector": "Elections",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "The Election Commission is investigating a reported cyberattack on its website during the Melaka state election period, working with MCMC to harden defences. An initial report was submitted, but the extent of the attack and whether any systems or data were compromised has not been disclosed.",
+   "title": "Melaka polls: EC awaiting full report on website cyberattack",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1574449/melaka-polls-ec-awaiting-full-report-website-cyberattack"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-16",
+   "occurredDate": "2026-11-12",
+   "region": "Malaysia",
+   "sector": "Healthcare · government",
+   "severity": "high",
+   "source": "Lowyat.NET",
+   "summary": "The Ministry of Health said unauthorised access to a file storage and sharing platform at one facility was detected on 12 November. Patient services were unaffected. Public access was blocked, passwords reset and multi-factor authentication made mandatory, with NACSA assisting. Initial findings said main databases were not encrypted.",
+   "title": "MOH Confirms Cybersecurity Incident; Assures Healthcare Services Remain Unaffected",
+   "url": "https://www.lowyat.net/2026/409823/moh-cybersecurity-incident/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-18",
+   "occurredDate": "2026-11-17",
+   "region": "Norway",
+   "sector": "Energy · oil & gas",
+   "severity": "critical",
+   "source": "Security Affairs",
+   "summary": "Equinor, Europe's largest gas supplier, disclosed on 17 November an ongoing cyberattack on certain IT systems. It reports no impact on production or operations and no sign of data theft. Authorities were notified, and the company has not said how attackers got in or whether ransomware is involved.",
+   "title": "Norwegian Gas Giant Equinor Says It's Under Cyberattack. Production Keeps Running",
+   "url": "https://securityaffairs.com/203394/hacking/norwegian-gas-giant-equinor-says-its-under-cyberattack-production-keeps-running.html"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-18",
+   "occurredDate": "2026-10-04",
+   "region": "Ireland & United Kingdom",
+   "sector": "Banking · credit unions (third party)",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "Supplier Wellington IT told about 40 Irish credit unions that an automated script made five million requests exploiting an authorisation flaw on 2-4 October. Saved payee names, IBANs and account numbers were exposed. The firm lacks logs to show exactly what was taken, and Ireland's minister called the notification delay unacceptable.",
+   "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+   "url": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-16",
+   "occurredDate": "2026-11-01",
+   "region": "United States",
+   "sector": "Cloud · security vendor",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "Barracuda says an attacker using the open-source ARTEX AI pentesting framework reached about ten of its cloud accounts in roughly 44 hours on 1-2 November, using a forgotten third-party credential. It was found on 4 November. The FBI has separately warned that ARTEX can breach networks in under three hours.",
+   "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+   "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-13",
+   "occurredDate": "2026-10-30",
+   "region": "Israel & other countries",
+   "sector": "Network security · VPN gateways",
+   "severity": "critical",
+   "source": "BleepingComputer",
+   "summary": "Attackers exploited PHP2Shell flaws in Check Point Mobile Access portals from 30 October, then used a Gaia OS zero-day to gain root and install the TSGA backdoor. In Israeli cases they pivoted to VMware ESXi hosts and ran a wiper. Check Point reports around two dozen compromised customers; attribution is unconfirmed.",
+   "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+   "url": "https://bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-17",
+   "region": "United States",
+   "sector": "Network security vendor",
+   "severity": "high",
+   "source": "Security Affairs",
+   "summary": "Infoblox confirmed a supply chain breach in which attackers accessed sensitive data. The vendor supplies DNS and network services to many enterprises and telecoms, so downstream customers should watch for follow-on abuse. Investigation details were still emerging at the time of reporting, with the scope of customer impact not yet fully disclosed.",
+   "title": "Infoblox Confirms Supply Chain Breach After Attackers Access Sensitive Data",
+   "url": "https://securityaffairs.com/203309/data-breach/infoblox-confirms-supply-chain-breach-after-attackers-access-sensitive-data.html"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-16",
+   "region": "Australia",
+   "sector": "Retail · food supply",
+   "severity": "medium",
+   "source": "BleepingComputer",
+   "summary": "Coles, one of Australia's largest supermarket chains, said it is investigating a cybersecurity incident and has engaged external specialists. Store trading and supply operations were not reported as disrupted. The company had not yet confirmed what data, if any, was accessed, and promised updates as the investigation proceeds.",
+   "title": "Australian retail giant Coles investigates cybersecurity incident",
+   "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-18",
+   "milestones": [
+    {
+     "date": "2026-12-15",
+     "label": "Seremban High Court contempt hearing for six Negeri Sembilan Undangs and chieftains"
+    }
+   ],
+   "occurredDate": "2026-11-17",
+   "sector": "Constitutional & royal matters",
+   "severity": "critical",
+   "source": "Free Malaysia Today",
+   "summary": "Seremban High Court ordered six Undangs and chieftains to appear in person on 15 December for a second contempt proceeding over alleged evasion of court papers. It follows the Court of Appeal refusing on 4 November to stay the first proceeding. The dispute stems from the April removal of the state ruler.",
+   "title": "6 nobles face 3rd contempt proceedings over Negeri Sembilan crisis",
+   "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/18/6-nobles-face-3rd-contempt-proceedings-over-negeri-sembilan-crisis"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-13",
+   "occurredDate": "2026-11-13",
+   "sector": "Pardons & courts · citizenship",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "The Court of Appeal confirmed Malaysian citizenship for a woman abandoned as a baby 37 years ago, applying the Federal Court's approach to the constitutional provision on foundlings. The ruling ends a long legal fight and is likely to guide similar stateless-person cases.",
+   "title": "Appeals Court upholds citizenship for woman abandoned at birth",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/13/appeals-court-upholds-citizenship-for-woman-abandoned-at-birth"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-12",
+   "occurredDate": "2026-11-12",
+   "sector": "Pardons & courts · 1MDB recovery",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "A three-judge Court of Appeal panel unanimously held the High Court wrongly demanded exceptional circumstances before 1MDB companies could file an extra affidavit from Rosmah Mansor's shopping partner. The ruling revives the companies' effort to freeze assets of the former prime minister's wife.",
+   "title": "Court allows 1MDB companies to use affidavit in bid to freeze Rosmah's assets",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1575977/court-allows-1mdb-companies-use-affidavit-bid-freeze-rosmahs-assets"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-13",
+   "sector": "Government directive · education",
+   "severity": "medium",
+   "source": "The Star",
+   "summary": "Government spokesman Fahmi Fadzil said the Cabinet kept the existing minimum entry requirements for UEC holders seeking private medical degree places, reverting to the rules that applied before a recent amendment. The decision settles a point of public debate over recognition of the Chinese independent school certificate.",
+   "title": "Existing UEC entry requirements for private medical degrees remain, says Fahmi",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/13/existing-uec-entry-requirements-for-private-medical-degrees-remain-says-fahmi"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-06",
+   "sector": "Government directive · Malaysia Agreement",
+   "severity": "high",
+   "source": "Bernama",
+   "summary": "Cabinet agreed a memorandum from the Natural Resources and Environmental Sustainability Ministry to transfer certain federal legislative powers to the Sarawak government under the Malaysia Agreement 1963. The decision advances the state's autonomy demands, though implementing legislation and timelines were not set out in the report.",
+   "title": "Cabinet clears memorandum on transferring federal legislative powers to Sarawak under MA63",
+   "url": "https://bernama.com/en/news.php?id=2630917"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-10-29",
+   "milestones": [
+    {
+     "date": "2026-11-26",
+     "label": "Scheduled end of Budget 2027 committee-stage debate"
+    },
+    {
+     "date": "2026-12-08",
+     "label": "Scheduled end of Dewan Rakyat session"
+    }
+   ],
+   "occurredDate": "2026-10-29",
+   "sector": "Parliament · budget",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "The Dewan Rakyat passed Budget 2027 at the policy stage on 29 October by voice vote after two weeks of debate. Committee-stage scrutiny by ministry runs from 2 to 26 November, followed by a third reading and the Dewan Negara. The sitting is scheduled to end on 8 December.",
+   "title": "Dewan Rakyat passes Supply Bill 2027 at policy stage",
+   "url": "https://www.thestar.com.my/news/nation/2026/10/29/dewan-rakyat-passes-supply-bill-2027-at-policy-stage"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-14",
+   "occurredDate": "2026-11-14",
+   "sector": "Elections",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Barisan Nasional and Perikatan Nasional together won 24 seats in the Melaka state election, leaving Pakatan Harapan with only four urban seats. The result reshapes state politics and is likely to feed into wider debate about coalition arrangements ahead of the next general election.",
+   "title": "BN-PN sweep Melaka in 24-seat landslide, Pakatan reduced to just four urban seats",
+   "url": "https://www.malaymail.com/amp/news/malaysia/2026/11/14/bn-pn-sweep-melaka-in-24-seat-landslide-pakatan-reduced-to-just-four-urban-seats/243296"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-12",
+   "occurredDate": "2026-11-12",
+   "sector": "MACC · government-linked company",
+   "severity": "medium",
+   "source": "Bernama",
+   "summary": "The MACC obtained a five-day remand, until 16 November, for a former employee of a government-linked company suspected of receiving about RM3 million in bribes. The Shah Alam Magistrate's Court granted the order. The case feeds into the government's plan to tighten GLC governance rules.",
+   "title": "Former GLC employee remanded over alleged RM3 mln bribes",
+   "url": "https://bernama.com/en/crime_courts/news.php?id=2633315"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-123039",
+    "CVE-2026-109618",
+    "CVE-2026-109619"
+   ],
+   "cvss": 9.2,
+   "date": "2026-11-13",
+   "exploited": true,
+   "fixedIn": "Install Check Point's November Jumbo Hotfix (for example R82.20 Take 14, R82.10 Take 52, R81.20 Take 174) on all management servers and gateways, prioritising internet-facing Mobile Access portals.",
+   "kevAdded": "2026-11-13",
+   "kevDue": "2026-11-16",
+   "occurredDate": "2026-10-23",
+   "response": [
+    {
+     "text": "Triggered by the KEV/feed entry, the playbook inventories Check Point gateways with Mobile Access enabled from your CMDB or firewall integration. It then checks each for the Jumbo Hotfix level and lists hosts still exposed. Analyst approval is required before any rule change or shutdown.",
+     "title": "Gateway exposure and IOC hunt",
+     "type": "Playbook"
+    },
+    {
+     "text": "A script runs XQL searches over firewall and endpoint data for the session-file marker \"upload_progress_pwn\", unexpected CPconfigdaemon activity and SSH from gateways to ESXi hosts. Results land in a war-room table for triage. Findings should open an incident automatically.",
+     "title": "XQL hunt for PHP2Shell indicators",
+     "type": "Automation"
+    },
+    {
+     "prompt": "Using the attached list of Check Point gateways and hotfix levels, summarise which are internet-facing with Mobile Access enabled, which lack the November Jumbo Hotfix, and which ESXi hosts they can reach. Rank by risk and propose three containment steps needing analyst approval.",
+     "text": "Give analysts a ready summary of exposed gateways, patch status and likely blast radius. Review the output before sending it to management.",
+     "title": "Summarise exposure for CISO",
+     "type": "AI prompt"
+    },
+    {
+     "text": "If Mobile Access is not required, disabling it and keeping management interfaces off the internet removes the attack path without building automation. This is faster than a playbook and works until patching completes. Track the change through your ticketing integration.",
+     "title": "Disable unused Mobile Access",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Firewall / VPN gateway · Check Point",
+   "severity": "critical",
+   "source": "BleepingComputer",
+   "summary": "Attackers chained the PHP2Shell remote code execution flaws in Check Point Mobile Access portals with a Gaia OS local privilege escalation to gain root, install webshells and a backdoor, and in some cases wipe VMware ESXi hosts. CISA added the Gaia flaw to KEV on 13 November. About two dozen customers were compromised.",
+   "timeline": [
+    {
+     "date": "2026-10-23",
+     "kind": "patched",
+     "label": "PHP2Shell hotfix available",
+     "source": "Check Point",
+     "summary": "Check Point says a hotfix for the PHP2Shell flaws had been available since this date.",
+     "title": "Security Advisory: Active Exploitation of PHP2Shell and Local Privilege Escalation",
+     "url": "https://blog.checkpoint.com/?p=249830"
+    },
+    {
+     "date": "2026-10-30",
+     "kind": "exploited",
+     "label": "Exploitation begins",
+     "source": "Check Point",
+     "summary": "First attacks observed against Mobile Access portals, mostly Israeli organisations.",
+     "title": "Security Advisory: Active Exploitation of PHP2Shell and Local Privilege Escalation",
+     "url": "https://blog.checkpoint.com/?p=249830"
+    },
+    {
+     "date": "2026-11-12",
+     "kind": "disclosed",
+     "label": "Check Point advisory published",
+     "source": "Check Point",
+     "summary": "Vendor published the advisory covering the exploited chain and the Jumbo Hotfix.",
+     "title": "Security Advisory: Active Exploitation of PHP2Shell and Local Privilege Escalation",
+     "url": "https://blog.checkpoint.com/?p=249830"
+    },
+    {
+     "date": "2026-11-13",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "BleepingComputer",
+     "summary": "CISA added CVE-2026-123039 to the Known Exploited Vulnerabilities catalog.",
+     "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+     "url": "https://bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper"
+    },
+    {
+     "date": "2026-11-16",
+     "kind": "due",
+     "label": "CISA remediation deadline",
+     "source": "eSecurity Planet",
+     "summary": "Federal agencies were required to remediate by this date.",
+     "title": "Check Point Flaw Exploited as CISA's Nov. 16 Deadline Hits",
+     "url": "https://esecurityplanet.com/threats/news-check-point-cve-2026-123039-cisa-patch-deadline"
+    }
+   ],
+   "title": "Check Point Gaia OS root escalation chained with PHP2Shell RCE (CVE-2026-123039, CVE-2026-109618, CVE-2026-109619)",
+   "url": "https://bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2024-10441"
+   ],
+   "cvss": 9.8,
+   "date": "2026-11-18",
+   "exploited": true,
+   "fixedIn": "Update to DSM 7.2.2-72806-1, DSM 7.2.1-69057-6 or BSM 1.1-65374 or later per Synology-SA-24:20.",
+   "kevAdded": "2026-11-18",
+   "kevDue": "2026-11-21",
+   "milestones": [
+    {
+     "date": "2026-11-21",
+     "label": "CISA deadline to fix Synology DSM CVE-2024-10441"
+    }
+   ],
+   "occurredDate": "2024-12-01",
+   "response": [
+    {
+     "text": "A recurring job queries your asset inventory or scanner integration for Synology devices and DSM versions below the fixed builds. It creates one ticket per exposed device with owner and location. Use it until all units are patched or retired.",
+     "title": "Scheduled NAS inventory check",
+     "type": "Job"
+    },
+    {
+     "text": "An automation checks firewall and NGFW integrations for Synology management ports reachable from the internet and proposes a deny rule. Analysts get the device list and the proposed change. Apply only after owner approval.",
+     "title": "Block NAS management exposure",
+     "type": "Automation"
+    },
+    {
+     "text": "Verify backups of NAS data are offline or immutable, since C3RB3R encrypts files. This is a control, not a build task, and gives recovery whatever the patch status.",
+     "title": "Isolate backups first",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "NAS appliance · Synology",
+   "severity": "critical",
+   "source": "The Hacker News",
+   "summary": "CISA added the Synology DSM remote code execution flaw CVE-2024-10441 to KEV on 18 November, with a 21 November federal deadline. Synology disclosed earlier in the month that it was exploited in attacks deploying C3RB3R ransomware on NAS devices. The flaw was patched in December 2024, so unpatched legacy units are the target.",
+   "timeline": [
+    {
+     "date": "2024-12-01",
+     "kind": "patched",
+     "label": "Fixed DSM builds released",
+     "source": "CVE Security",
+     "summary": "Synology shipped fixes in December 2024 (day not confirmed; month only).",
+     "title": "CVE-2024-10441: Synology DiskStation Manager improper encoding or escaping of output",
+     "url": "https://cve-security.com/cve/cve-2024-10441"
+    },
+    {
+     "date": "2026-11-18",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "The Hacker News",
+     "summary": "CISA added the flaw citing evidence of active exploitation.",
+     "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+     "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html"
+    },
+    {
+     "date": "2026-11-21",
+     "kind": "due",
+     "label": "CISA remediation deadline",
+     "source": "The Hacker News",
+     "summary": "Federal agencies must patch by this date.",
+     "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+     "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html"
+    }
+   ],
+   "title": "Synology DiskStation Manager plugin daemon RCE exploited for C3RB3R ransomware (CVE-2024-10441)",
+   "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-123637",
+    "CVE-2026-121805",
+    "CVE-2026-120292",
+    "CVE-2026-120285",
+    "CVE-2026-116953",
+    "CVE-2026-120722"
+   ],
+   "cvss": 9.8,
+   "date": "2026-11-18",
+   "exploited": false,
+   "fixedIn": "Apply F5 engineering hotfixes per advisory (Next for Kubernetes 2.4.2-EHF1, 2.3.4-EHF1, 2.2.5-EHF1); no workaround is listed before installation.",
+   "occurredDate": "2026-11-18",
+   "response": [
+    {
+     "text": "An automation pulls BIG-IP configurations through your F5 or backup integration and flags iRules using PEM::subscriber, MR::message, GENERICMESSAGE::route or DNS::scrape, plus APM per-request policies. The analyst receives a per-device exposure list. Read-only access avoids any change risk.",
+     "title": "Find vulnerable configurations",
+     "type": "Automation"
+    },
+    {
+     "text": "Use XSIAM Vulnerability and Exposure Management or Vulnerability Intelligence to see affected BIG-IP assets without building a playbook. It gives a ready asset list for ticketing. Combine with a hotfix request through your change process.",
+     "title": "Emerging Vulnerabilities view",
+     "type": "Better alternative"
+    },
+    {
+     "prompt": "Draft a change request to install F5 engineering hotfixes for six critical BIG-IP buffer overflow CVEs (CVSS 9.8) on the listed devices. Include affected modules, maintenance window, rollback plan and verification steps, in under 200 words.",
+     "text": "Have the Cortex AI assistant draft the change record from the exposure list. A human must approve before submission.",
+     "title": "Draft hotfix change request",
+     "type": "AI prompt"
+    }
+   ],
+   "sector": "Application delivery controller · F5",
+   "severity": "high",
+   "source": "The Hacker News",
+   "summary": "F5 disclosed six critical stack-based buffer overflows in the BIG-IP data plane on 18 November, each CVSS 9.8, reachable only in specific APM, PEM or iRule configurations and possibly allowing remote code execution. WatchTowr reported four. None are reported exploited yet, and fixes are engineering hotfixes only.",
+   "timeline": [
+    {
+     "date": "2026-11-18",
+     "kind": "disclosed",
+     "label": "F5 advisories published",
+     "source": "The Hacker News",
+     "summary": "F5 published advisories for six critical flaws, four reported by watchTowr.",
+     "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+     "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"
+    },
+    {
+     "date": "2026-11-18",
+     "kind": "patched",
+     "label": "Engineering hotfixes released",
+     "source": "The Hacker News",
+     "summary": "Fixes ship as engineering hotfixes for affected configurations.",
+     "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+     "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"
+    }
+   ],
+   "title": "F5 BIG-IP six critical stack buffer overflows (CVE-2026-123637, CVE-2026-121805, CVE-2026-120292, CVE-2026-120285, CVE-2026-116953, CVE-2026-120722)",
+   "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-125350"
+   ],
+   "date": "2026-11-10",
+   "exploited": true,
+   "fixedIn": "Update Chrome to 157.0.8103.50 or later (and Chromium-based browsers when their vendors ship the fix).",
+   "kevAdded": "2026-11-10",
+   "kevDue": "2026-11-24",
+   "milestones": [
+    {
+     "date": "2026-11-24",
+     "label": "CISA deadline to fix Chrome CVE-2026-125350"
+    }
+   ],
+   "occurredDate": "2026-11-09",
+   "response": [
+    {
+     "text": "A scheduled job queries endpoint inventory (for example XSIAM endpoint data) for Chrome builds below 157.0.8103.50 and groups them by owner. It opens tickets or notifies via the MDM integration. Report remaining counts daily until zero.",
+     "title": "Browser version compliance check",
+     "type": "Job"
+    },
+    {
+     "text": "Pushing the Chrome update and a relaunch policy through your MDM or software management tool is simpler than automation. It closes exposure fastest at scale. Verify with the inventory job.",
+     "title": "Force update via MDM",
+     "type": "Better alternative"
+    },
+    {
+     "prompt": "Write a 90-word internal notice asking staff to relaunch Chrome to apply an urgent security update (version 157.0.8103.50), explaining the browser is being attacked, with steps and the helpdesk contact placeholder.",
+     "text": "Ask the Cortex AI assistant for a short staff notice asking users to relaunch Chrome. Review before sending.",
+     "title": "User notice draft",
+     "type": "AI prompt"
+    }
+   ],
+   "sector": "Web browser · Google Chrome",
+   "severity": "critical",
+   "source": "SecurityWeek",
+   "summary": "Google fixed an exploited use-after-free in Chrome's XML component in version 157.0.8103.50, the eighth Chrome zero-day of 2026. An anonymous researcher reported it three days earlier. CISA added it to KEV on 10 November, so managed and unmanaged browsers across Malaysian offices need the update promptly.",
+   "timeline": [
+    {
+     "date": "2026-11-06",
+     "kind": "reported",
+     "label": "Anonymous researcher reports bug",
+     "source": "BleepingComputer",
+     "summary": "Report reached Google three days before the fix.",
+     "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+     "url": "https://bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year"
+    },
+    {
+     "date": "2026-11-09",
+     "kind": "patched",
+     "label": "Chrome 157.0.8103.50 released",
+     "source": "SecurityWeek",
+     "summary": "Stable channel update fixed the flaw; Google confirmed an exploit exists.",
+     "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
+     "url": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/"
+    },
+    {
+     "date": "2026-11-10",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "SecurityOnline",
+     "summary": "CISA listed the Chrome flaw alongside five others.",
+     "title": "CISA Adds Six Exploited Flaws in Outlook, Chrome, Barracuda, Cisco and Openwave to KEV Catalog",
+     "url": "https://securityonline.info/cisa-kev-six-vulnerabilities-november-2026/"
+    },
+    {
+     "date": "2026-11-24",
+     "kind": "due",
+     "label": "CISA remediation deadline",
+     "source": "SecurityOnline",
+     "summary": "Federal deadline for the four non-Barracuda entries.",
+     "title": "CISA Adds Six Exploited Flaws in Outlook, Chrome, Barracuda, Cisco and Openwave to KEV Catalog",
+     "url": "https://securityonline.info/cisa-kev-six-vulnerabilities-november-2026/"
+    }
+   ],
+   "title": "Chrome XML component use-after-free zero-day (CVE-2026-125350)",
+   "url": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-115731"
+   ],
+   "cvss": 9.4,
+   "date": "2026-11-17",
+   "exploited": true,
+   "fixedIn": "Upgrade to Puppet Enterprise 2023.8.13, 2025.12.1 or 2026.0.1, or Puppet Core 9.1.3 / 8.22.1; review CA autosign settings.",
+   "kevAdded": "2026-11-17",
+   "kevDue": "2026-12-01",
+   "milestones": [
+    {
+     "date": "2026-12-01",
+     "label": "CISA deadline to fix Puppet Enterprise CVE-2026-115731"
+    }
+   ],
+   "occurredDate": "2026-11-03",
+   "response": [
+    {
+     "text": "The playbook finds Puppet servers and versions through inventory, checks whether the CA uses autosign, and lists servers below fixed releases. Analysts receive a ranked list and the autosign status. Server changes need owner approval.",
+     "title": "Puppet server exposure triage",
+     "type": "Playbook"
+    },
+    {
+     "text": "A script queries Puppet CA logs and endpoint data for unexpected new certificate signings and unusual report submissions since 3 November. Hits go to an incident with host details. This shows whether exploitation preceded patching.",
+     "title": "Hunt for rogue certificate requests",
+     "type": "Automation"
+    },
+    {
+     "text": "Switching autosign to policy-based or manual signing removes the precondition immediately. It needs a config change, not new automation, and is easy to verify.",
+     "title": "Disable permissive autosign",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Configuration management · Perforce Puppet",
+   "severity": "critical",
+   "source": "SecurityWeek",
+   "summary": "Update: CISA listed the Puppet Enterprise deserialization flaw in KEV on 17 November with a 1 December deadline, after public exploit details emerged. The CVSS 9.4 bug lets an unauthenticated attacker who obtains a certificate under permissive autosign settings run code on the server, which controls whole fleets.",
+   "timeline": [
+    {
+     "date": "2026-11-03",
+     "kind": "disclosed",
+     "label": "Perforce publishes fix and CVE",
+     "source": "Action1",
+     "summary": "Disclosed with Vox Pupuli and Neodyme; fixed releases shipped the same day.",
+     "title": "CVE-2026-115731 Perforce Puppet Enterprise",
+     "url": "https://www.action1.com/vulnerabilities/cve-2026-115731/"
+    },
+    {
+     "date": "2026-11-03",
+     "kind": "patched",
+     "label": "Fixed releases published",
+     "source": "Action1",
+     "summary": "Fixed Puppet Enterprise and Puppet Core versions released.",
+     "title": "CVE-2026-115731 Perforce Puppet Enterprise",
+     "url": "https://www.action1.com/vulnerabilities/cve-2026-115731/"
+    },
+    {
+     "date": "2026-11-17",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "SecurityWeek",
+     "summary": "CISA listed the flaw with a 1 December federal deadline.",
+     "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+     "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+    },
+    {
+     "date": "2026-12-01",
+     "kind": "due",
+     "label": "CISA remediation deadline",
+     "source": "SecurityWeek",
+     "summary": "Federal agencies must remediate by this date.",
+     "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+     "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+    }
+   ],
+   "title": "Puppet Enterprise report-processing deserialization RCE (CVE-2026-115731)",
+   "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+  }
+ ],
+ "generatedAt": "2026-11-19T21:08:17+08:00",
+ "scanDate": "2026-11-19",
+ "threatLevel": {
+  "level": "Medium",
+  "previous": "Low",
+  "since": "2026-11-04",
+  "source": "NACSA",
+  "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+ }
+}
