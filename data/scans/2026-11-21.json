@@ -1,0 +1,597 @@
+{
+ "articles": [
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-07",
+   "occurredDate": "2026-11-06",
+   "region": "Malaysia",
+   "sector": "Banking",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Bank Rakyat's corporate and login web pages were defaced on the night of 6 November, and the bank took most sites offline. The communications minister said the defacement hit a third-party-hosted site, with no data theft or disruption to core banking. The prime minister ordered a security review of government assets, banks and GLCs.",
+   "title": "Fahmi says online banking remains safe despite cyberattacks and Bank Rakyat hack",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/07/fahmi-says-online-banking-remains-safe-despite-cyberattacks-and-bank-rakyat-hack/242378"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-14",
+   "occurredDate": "2026-11-12",
+   "region": "Malaysia",
+   "sector": "Healthcare",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "An intruder reached a supporting file storage and sharing platform at one Health Ministry facility on 12 November. The ministry's response team found no encryption of main databases and no disruption to treatment. Access was blocked, passwords reset and MFA enforced, with NACSA involved under the Cyber Security Act 2024.",
+   "title": "Health Ministry reports cyber breach at facility, services unaffected",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1577818/health-ministry-reports-cyber-breach-facility-services-unaffected"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-02",
+   "region": "Malaysia",
+   "sector": "Aviation · third-party breach",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "Malaysia Airlines said its own systems were not compromised, but reservation provider Amadeus told it that customer data processed between August 2023 and September 2026 was involved. The airline has not stated how many people were affected and says it has no evidence financial data was accessed.",
+   "title": "Malaysia Airlines' systems untouched by data breach",
+   "url": "https://www.nst.com.my/amp/business/corporate/2026/11/1568677/malaysia-airlines-systems-untouched-data-breach"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-04",
+   "occurredDate": "2026-11-04",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "NACSA lifted the National Cyber Threat Level from Low to Medium on 4 November as a precaution after recent security developments. It later said the level stays at Medium with no sudden rise in incidents, while critical sectors must send weekly threat status reports.",
+   "title": "Nacsa raises level of cyber security threat to medium",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-10",
+   "region": "Malaysia",
+   "sector": "Critical infrastructure",
+   "severity": "high",
+   "source": "DagangNews",
+   "summary": "On 10 November NACSA warned that attackers increasingly aim at operational technology controlling water, energy and healthcare. It urged operators of critical infrastructure to isolate critical operating systems from external networks and strengthen service continuity plans. Critical sector heads must also send weekly threat reports to NACSA, which has urged the public not to spread unverified claims.",
+   "title": "NACSA warns cybercriminals increasingly target OT that runs water, energy and healthcare",
+   "url": "https://www.dagangnews.com/article/terkini/ancaman-siber-semakin-serius-sasar-jejaskan-bekalan-air-tenaga-dan-kesihatan-nacsa-77243"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-08",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "medium",
+   "source": "Utusan Malaysia",
+   "summary": "Minister Fahmi Fadzil said no major cyber threat had been reported so far, including against government systems, as NACSA kept the national level at Medium. He named AI-agent swarm attacks among the most worrying risks and said NACSA would act if they approached Malaysia.",
+   "title": "Tiada laporan ancaman siber besar setakat ini - Fahmi",
+   "url": "https://www.utusan.com.my/nasional/2026/11/tiada-laporan-ancaman-siber-besar-setakat-ini-fahmi/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-20",
+   "region": "Belgium (European Union)",
+   "sector": "Government · EU institutions",
+   "severity": "critical",
+   "source": "SecurityWeek",
+   "summary": "The European Commission confirmed an AI-assisted cyberattack that disrupted several of its services, which it took offline to contain the incident. It reports no data breach so far and has not attributed the attack to any known group.",
+   "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+   "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-19",
+   "occurredDate": "2026-11-16",
+   "region": "United States, Global",
+   "sector": "Cloud vendor · MSP email security",
+   "severity": "high",
+   "source": "The Hacker News",
+   "summary": "N-able said unknown actors accessed a server in its Mail Assure and SpamExperts hosted cloud, after a disruption that began 16 November. Mail filtering continued, but portals, APIs and quarantine stayed offline across Americas, APAC and Europe. It has found no evidence of customer data compromise.",
+   "title": "N-able confirms hackers accessed Mail Assure and SpamExperts cloud server",
+   "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-04",
+   "region": "Japan, Hong Kong, Singapore & South Korea",
+   "sector": "Aviation · third-party breach",
+   "severity": "high",
+   "source": "The Record",
+   "summary": "Japan Airlines, Cathay Pacific, Singapore Airlines, Korean Air and Asiana reported passenger booking data exposed through Amadeus, whose account credentials the attackers used. Cathay cited 53,000 bookings and JAL about 92,000 customers; payment data was reportedly not accessed.",
+   "title": "Asian airlines announce data breaches after IT provider incident",
+   "url": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-17",
+   "occurredDate": "2026-11-16",
+   "region": "United States",
+   "sector": "Banking · third-party breach",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "Chase said an attack on a third-party provider exposed customer names and email addresses. Mastercard said only a small subset of cardholder emails was involved. The data was linked to a compromise of Qubole and was leaked by an extortion group on 16 November.",
+   "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+   "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-18",
+   "region": "Norway",
+   "sector": "Critical infrastructure · energy",
+   "severity": "high",
+   "source": "Security Affairs",
+   "summary": "Equinor said it was dealing with a cyberattack against its systems but that gas and oil production continued normally. The company has not published details of the intrusion or its impact on operational technology, and the investigation is still under way.",
+   "title": "Norwegian Gas Giant Equinor Says It's Under Cyberattack. Production Keeps Running",
+   "url": "https://securityaffairs.com/203394/hacking/norwegian-gas-giant-equinor"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-11",
+   "region": "Denmark",
+   "sector": "Transport · shipping",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "Maersk confirmed a data breach at a company it had previously acquired, while the WhiteArmor ransomware group demanded 5 million dollars. The shipping giant says its investigation continues and has not stated how much data was taken or whether customer information was involved.",
+   "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+   "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-18",
+   "occurredDate": "2026-09-18",
+   "sector": "Pardons & courts",
+   "severity": "critical",
+   "source": "Free Malaysia Today",
+   "summary": "Declassified minutes of the 18 September Federal Territories Pardons Board show the minister first resisted signing Najib's conditional pardon, citing political implications, before the Agong decided she should sign. Najib began house arrest on 10 November and the leak has triggered a row within government.",
+   "title": "Hannah wanted another officer to sign Najib's pardon, minutes show",
+   "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/18/hannah-wanted-another-officer-to-sign-najib-s-pardon-minutes-show"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-13",
+   "occurredDate": "2026-11-13",
+   "sector": "Government directive",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "After the Home Minister proposed releasing the Pardons Board minutes, Cabinet on 13 November asked the Attorney-General for advice instead of deciding. The matter intensified after minutes appeared online days later, with Umno MPs demanding clarity on their authenticity and status.",
+   "title": "Cabinet seeks AG's advice on proposal to declassify Najib's pardon board minutes, says Fahmi",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/13/cabinet-seeks-ags-advice-on-proposal-to-declassify-najibs-pardon-board-minutes-says-fahmi/243137"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-17",
+   "milestones": [
+    {
+     "date": "2026-12-15",
+     "label": "Seremban High Court contempt hearing, Negeri Sembilan royal dispute"
+    },
+    {
+     "date": "2026-12-16",
+     "label": "Federal Court hearing on sacked Negeri Sembilan excos constitutional challenge"
+    }
+   ],
+   "sector": "Constitutional & royal matters",
+   "severity": "critical",
+   "source": "New Straits Times",
+   "summary": "The Seremban High Court ordered the disputed undangs and other nobles to attend contempt hearings in person, setting 15 December, as the royal dispute continues. The Court of Appeal recently refused stays, and the Federal Court is to hear a related challenge by sacked state executive councillors on 16 December.",
+   "title": "Disputed Undang, others ordered to attend contempt hearings in Negri Sembilan royal dispute",
+   "url": "https://www.nst.com.my/news/nation/2026/11/1579689/disputed-undang-others-ordered-attend-contempt-hearings-negri-sembilan"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-10-29",
+   "milestones": [
+    {
+     "date": "2026-11-26",
+     "label": "Budget 2027 committee-stage debate scheduled to end"
+    },
+    {
+     "date": "2026-12-08",
+     "label": "Dewan Rakyat sitting scheduled to end"
+    }
+   ],
+   "sector": "Parliament · budget",
+   "severity": "high",
+   "source": "The Edge Malaysia",
+   "summary": "The Dewan Rakyat passed the Budget 2027 Supply Bill at policy stage on 29 October by voice vote. Committee-stage debates run to 26 November, followed by a third reading, Dewan Negara approval and royal assent. The sitting ends on 8 December.",
+   "title": "Dewan Rakyat passes Budget 2027 at policy stage",
+   "url": "https://theedgemalaysia.com/node/823823"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-16",
+   "occurredDate": "2026-11-16",
+   "sector": "Parliament · bills",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "The Finance Bill 2026 and the Tax Collection, Administration and Enforcement Measures Bill 2026 were tabled for first reading on 16 November. Both are due for second reading in the current sitting, and the second bill would carry additional government expenditure not yet quantified.",
+   "title": "Finance Ministry tables two bills on Monday",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/16/finance-ministry-to-table-two-bills-on-monday"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-06",
+   "milestones": [
+    {
+     "date": "2026-11-28",
+     "label": "Sarawak state election nomination day"
+    },
+    {
+     "date": "2026-12-08",
+     "label": "Sarawak state election early voting"
+    },
+    {
+     "date": "2026-12-12",
+     "label": "Sarawak state election polling day"
+    }
+   ],
+   "sector": "Elections",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "The Election Commission fixed polling for the 13th Sarawak state election on 12 December, with nomination on 28 November and early voting on 8 December. About 2.05 million voters will elect 82 assemblymen over a 14-day campaign that ends on 11 December, using 97 nomination centres.",
+   "title": "Sarawak polls set for Dec 12",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/06/sarawak-polls-set-for-dec-12"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-20",
+   "occurredDate": "2026-11-17",
+   "sector": "MACC cases",
+   "severity": "medium",
+   "source": "Malay Mail",
+   "summary": "MACC arrested a man in his fifties on 17 November over alleged bribes to enforcement officers, then handed him to the Chinese Embassy on 19 November after finding he was wanted in China with a revoked passport. No Malaysian charge has been reported.",
+   "title": "Wanted in China, detained in Putrajaya: MACC hands man over to embassy",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/20/wanted-in-china-detained-in-putrajaya-macc-hands-man-over-to-embassy/244027"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-11",
+   "occurredDate": "2026-11-11",
+   "sector": "Cabinet",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "Anthony Loke resigned as Transport Minister with immediate effect on 11 November. Government spokesman Fahmi said the resignation was not discussed in Cabinet on 13 November and that the prime minister would meet Loke soon. No successor had been named in the reports reviewed.",
+   "title": "Loke resigns as Transport Minister with immediate effect",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/11/loke-resigns-as-transport-minister-with-immediate-effect"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-123890"
+   ],
+   "cvss": 9.8,
+   "date": "2026-11-20",
+   "exploited": true,
+   "fixedIn": "Fixed in vCenter 9.1.1.0200, 9.0.2.0200 and 8.0 U3m; vCenter 7.0 has no public patch and no workaround exists.",
+   "kevAdded": "2026-11-20",
+   "kevDue": "2026-11-23",
+   "milestones": [
+    {
+     "date": "2026-11-23",
+     "label": "CISA deadline to fix VMware vCenter CVE-2026-123890"
+    }
+   ],
+   "occurredDate": "2026-11-19",
+   "response": [
+    {
+     "text": "Triggered by the CVE, it lists vCenter assets from the CMDB or va_endpoints-covered hosts and compares builds with the fixed versions. It opens one ticket per unpatched vCenter and gathers recent SSO administrator creation events from logs. Patching and any credential rotation need analyst approval.",
+     "title": "vCenter exposure and compromise hunt",
+     "type": "Playbook"
+    },
+    {
+     "text": "A script queries vCenter audit logs ingested in XSIAM for new SSO administrator accounts and unexpected access to port 2012 since 1 September. It returns a table of suspicious entries for the analyst. It is read-only so it can run without approval.",
+     "title": "Check vCenter SSO account changes",
+     "type": "Automation"
+    },
+    {
+     "prompt": "Summarise the activity on vCenter host {host} since 2026-09-01 related to CVE-2026-123890: new SSO administrator accounts, access to TCP 2012, unusual SAML or LMDB file access. List the evidence, confidence and next containment steps for analyst approval.",
+     "text": "This asks the Cortex AI assistant to condense the incident evidence for hand-off. Review output before acting.",
+     "title": "Summarise vCenter compromise indicators",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Use XSIAM Vulnerability and Exposure Management to see which vCenter assets are affected and track remediation, instead of building a custom tracker. Pair it with a firewall rule that limits management access to admin networks until patched.",
+     "title": "Use Emerging Vulnerabilities view",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Virtualisation management · VMware vCenter",
+   "severity": "critical",
+   "source": "SecurityWeek",
+   "summary": "An unauthenticated network attacker can bypass vCenter authentication through the Directory Service and gain administrator access. Google attributes zero-day use since early September to a suspected China-nexus group. Broadcom patched on 19 November, and CISA added it to KEV on 20 November with a 23 November deadline.",
+   "timeline": [
+    {
+     "date": "2026-11-19",
+     "kind": "disclosed",
+     "label": "Broadcom advisory VMSA-2026-0009",
+     "source": "The Hacker News",
+     "summary": "Broadcom advisory disclosed the CVSS 9.8 authentication bypass in vCenter.",
+     "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
+     "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html"
+    },
+    {
+     "date": "2026-11-19",
+     "kind": "patched",
+     "label": "Fixed builds released",
+     "source": "The Hacker News",
+     "summary": "Patches shipped for vCenter 8.0, 9.0 and 9.1 branches alongside the advisory.",
+     "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
+     "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html"
+    },
+    {
+     "date": "2026-11-20",
+     "kind": "reported",
+     "label": "Google ties exploitation to Armory Castle",
+     "source": "SecurityWeek",
+     "summary": "Google reported zero-day exploitation since early September by a suspected China-nexus actor.",
+     "title": "VMware vCenter CVE-2026-123890 Zero-Day Exploited",
+     "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/"
+    },
+    {
+     "date": "2026-11-20",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA added the vCenter flaw to the KEV catalog.",
+     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-23",
+     "kind": "due",
+     "label": "CISA remediation deadline",
+     "source": "CISA",
+     "summary": "Federal agencies must remediate by this date.",
+     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "VMware vCenter Directory Service authentication bypass exploited as zero-day (CVE-2026-123890)",
+   "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-76466"
+   ],
+   "cvss": 9.8,
+   "date": "2026-11-20",
+   "exploited": true,
+   "fixedIn": "Upgrade clustered Expressway to X15.5.20 or later; X14 and earlier have no fix and should migrate; Cisco lists no workaround.",
+   "kevAdded": "2026-11-20",
+   "kevDue": "2026-11-23",
+   "milestones": [
+    {
+     "date": "2026-11-23",
+     "label": "CISA deadline to fix Cisco Expressway CVE-2026-76466"
+    }
+   ],
+   "occurredDate": "2026-10-21",
+   "response": [
+    {
+     "text": "A scheduled job pulls Expressway software versions through the configured integration or inventory and flags clustered units below X15.5.20. It posts a ranked list to the vulnerability ticket queue. Remediation scheduling stays with the network team.",
+     "title": "Scheduled Expressway version audit",
+     "type": "Job"
+    },
+    {
+     "text": "For each exposed unit, the playbook queries XSIAM for outbound connections from Expressway hosts and new admin or root sessions since 5 November. It enriches destination IPs and attaches findings to the incident. Isolation or credential reset requires analyst approval.",
+     "title": "Expressway compromise triage",
+     "type": "Playbook"
+    },
+    {
+     "prompt": "Draft a change request to upgrade Cisco Expressway clusters to X15.5.20 for CVE-2026-76466 (hard-coded credentials, root RCE, exploited, public PoC). Include affected hosts {hosts}, rollback plan, interim network restrictions on cluster database ports, and the compromise-check evidence required beforehand.",
+     "text": "This helps the team prepare the upgrade request and risk summary quickly. Review the draft before submission.",
+     "title": "Draft Expressway change request",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Until upgrades finish, an NGFW rule limiting cluster database traffic to peer nodes removes most remote exposure. It is faster than writing automation and is easy to reverse.",
+     "title": "Restrict cluster ports at firewall",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Collaboration edge appliance · Cisco Expressway",
+   "severity": "critical",
+   "source": "The Hacker News",
+   "summary": "Clustered Cisco Expressway-C and Expressway-E devices contain hard-coded credentials that give an unauthenticated attacker root command execution. Cisco patched in October and a public exploit appeared on 5 November. F6 reported a real intrusion on 19 November, and CISA listed the flaw on 20 November.",
+   "timeline": [
+    {
+     "date": "2026-10-21",
+     "kind": "patched",
+     "label": "Cisco releases fixed software",
+     "source": "Secure.com",
+     "summary": "Cisco released fixes and disclosed the hard-coded credential flaw.",
+     "title": "Cisco Expressway Vulnerability Exploited Soon After Public PoC Drops",
+     "url": "https://www.secure.com/news/cisco-expressway-cve-2026-76466"
+    },
+    {
+     "date": "2026-11-05",
+     "kind": "event",
+     "label": "Public PoC exploit published",
+     "source": "Secure.com",
+     "summary": "Exploit code for the flaw appeared on GitHub.",
+     "title": "Cisco Expressway Vulnerability Exploited Soon After Public PoC Drops",
+     "url": "https://www.secure.com/news/cisco-expressway-cve-2026-76466"
+    },
+    {
+     "date": "2026-11-19",
+     "kind": "exploited",
+     "label": "F6 reports intrusion",
+     "source": "The Hacker News",
+     "summary": "F6 reported root compromise of four Expressway devices at a Russian organisation.",
+     "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"
+    },
+    {
+     "date": "2026-11-20",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA added the Cisco Expressway flaw to the KEV catalog.",
+     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-23",
+     "kind": "due",
+     "label": "CISA remediation deadline",
+     "source": "CISA",
+     "summary": "Federal agencies must remediate by this date.",
+     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "Cisco Expressway hard-coded credentials root RCE exploited after public PoC (CVE-2026-76466)",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-129448"
+   ],
+   "cvss": 9.8,
+   "date": "2026-11-18",
+   "exploited": true,
+   "fixedIn": "Upgrade to Apache Roller 6.1.6 or later; otherwise set enabledForExtensions to false in web.xml or remove the /roller-services/xmlrpc mapping and restart.",
+   "kevAdded": "2026-11-20",
+   "kevDue": "2026-11-23",
+   "milestones": [
+    {
+     "date": "2026-11-23",
+     "label": "CISA deadline to fix Apache Roller CVE-2026-129448"
+    }
+   ],
+   "occurredDate": "2026-11-17",
+   "response": [
+    {
+     "text": "An automation searches the asset inventory and XSIAM web logs for hosts serving Roller or requests to the roller-services XML-RPC path. It returns a list of candidate servers and request counts for each. It makes no changes.",
+     "title": "Find Roller instances",
+     "type": "Automation"
+    },
+    {
+     "text": "Block the roller-services XML-RPC path at the WAF or reverse proxy now, since disabling XML-RPC in the admin console does not stop the deserialization. This is quicker and safer than scripting server edits across hosts.",
+     "title": "WAF block on XML-RPC path",
+     "type": "Better alternative"
+    },
+    {
+     "text": "For any exposed instance, the playbook collects web-server logs, process creation events from XSIAM agents and outbound connections, then opens an incident with the evidence. Containment such as isolating the host needs analyst approval.",
+     "title": "Roller exploitation response",
+     "type": "Playbook"
+    },
+    {
+     "prompt": "Review these web server log lines for host {host}: identify POST requests to /roller-services/xmlrpc with unusual payload sizes or Java serialization markers, list source IPs and timestamps after 2026-11-10, and say whether exploitation of CVE-2026-129448 is likely.",
+     "text": "This prompt speeds up reviewing noisy web logs. Verify findings in the raw logs.",
+     "title": "Roller log triage helper",
+     "type": "AI prompt"
+    }
+   ],
+   "sector": "Blogging platform · Apache Roller",
+   "severity": "critical",
+   "source": "The Hacker News",
+   "summary": "Apache Roller versions 4.0.0 to 6.1.4 deserialize XML-RPC requests before authentication, allowing unauthenticated remote code execution. Maintainers said the flaw is being actively exploited and a public proof of concept exists. CISA added it to KEV on 20 November with a 23 November deadline.",
+   "timeline": [
+    {
+     "date": "2026-11-17",
+     "kind": "disclosed",
+     "label": "Apache advisory confirms exploitation",
+     "source": "The Hacker News",
+     "summary": "Apache published the advisory stating active exploitation, with fix in 6.1.6.",
+     "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+     "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
+    },
+    {
+     "date": "2026-11-20",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA added Apache Roller deserialization flaw to the KEV catalog.",
+     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-23",
+     "kind": "due",
+     "label": "CISA remediation deadline",
+     "source": "CISA",
+     "summary": "Federal agencies must remediate by this date.",
+     "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "Apache Roller pre-auth XML-RPC deserialization RCE actively exploited (CVE-2026-129448)",
+   "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-123039"
+   ],
+   "date": "2026-11-13",
+   "exploited": true,
+   "fixedIn": "Install the Check Point Jumbo Hotfix take listed in advisory sk1000362 for the affected Gaia release (R81.20, R82, R82.10, R82.20).",
+   "kevAdded": "2026-11-13",
+   "kevDue": "2026-11-16",
+   "occurredDate": "2026-11-13",
+   "response": [
+    {
+     "text": "The playbook lists Check Point gateways and management servers, reads installed Jumbo Hotfix takes and flags those below the advisory minimum. It creates tickets per gateway with the owner and current take. Patch scheduling stays with the firewall team.",
+     "title": "Gaia hotfix compliance check",
+     "type": "Playbook"
+    },
+    {
+     "text": "An automation pulls gateway audit logs from XSIAM for new shells, unexpected root processes or writes to the local socket path since 1 November. It outputs flagged gateways for review. It is read-only.",
+     "title": "Review Gaia admin sessions",
+     "type": "Automation"
+    },
+    {
+     "text": "Limit Mobile Access portal exposure by source and disable it where unused, which blocks the reported initial access path while hotfixes roll out. This reduces risk faster than building new detections.",
+     "title": "Restrict Mobile Access portal",
+     "type": "Better alternative"
+    },
+    {
+     "prompt": "Summarise suspicious activity on Check Point gateway {gw} since 2026-11-01 relevant to CVE-2026-123039: web shell indicators on Mobile Access, new root shells, DynamicCLI socket access. List evidence, confidence and recommended next steps requiring approval.",
+     "text": "This summarises gateway evidence for the shift handover. Confirm results against the original logs.",
+     "title": "Gateway forensic summary",
+     "type": "AI prompt"
+    }
+   ],
+   "sector": "Firewall OS · Check Point Gaia",
+   "severity": "high",
+   "source": "CISA",
+   "summary": "A local privilege escalation in Check Point Gaia lets an attacker with a foothold reach root. Reports say attackers combined it with a Mobile Access portal flaw for initial access. CISA added it to KEV on 13 November with a 16 November deadline, so the federal deadline has passed.",
+   "timeline": [
+    {
+     "date": "2026-11-13",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA added the Check Point Gaia flaw to the KEV catalog.",
+     "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-16",
+     "kind": "due",
+     "label": "CISA remediation deadline",
+     "source": "CISA",
+     "summary": "Federal agencies had to remediate by this date.",
+     "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "Check Point Gaia DynamicCLI root privilege escalation exploited (CVE-2026-123039)",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+  }
+ ],
+ "generatedAt": "2026-11-21T21:07:43+08:00",
+ "scanDate": "2026-11-21",
+ "threatLevel": {
+  "level": "Medium",
+  "previous": "Low",
+  "since": "2026-11-04",
+  "source": "NACSA",
+  "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+ }
+}

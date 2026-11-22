@@ -1,0 +1,595 @@
+{
+ "articles": [
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-03",
+   "occurredDate": "2026-11-03",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Prime Minister Anwar Ibrahim told the Dewan Rakyat on 3 November that Malaysia is among countries that could be targeted by sophisticated cyberattacks, and top-level security briefings were ordered. A special Home Ministry meeting followed the same day, a day before NACSA raised the national threat level.",
+   "title": "PM Anwar: Malaysia vulnerable to sophisticated cyber attacks, Home Ministry to hold special meeting today",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/03/pm-anwar-malaysia-vulnerable-to-sophisticated-cyber-attacks-home-ministry-to-hold-special-meeting-today/241783"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-04",
+   "occurredDate": "2026-11-04",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "NACSA raised the National Cyber Security Threat Level from Low to Medium on 4 November as a precaution amid geopolitical tension. Heads of national critical information infrastructure sectors must now file weekly threat status reports even without incidents. Officials stressed the country is not in a cyber crisis.",
+   "title": "Nacsa raises level of cyber security threat to medium",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-10",
+   "occurredDate": "2026-11-10",
+   "region": "Malaysia",
+   "sector": "Critical infrastructure",
+   "severity": "high",
+   "source": "Dagang News",
+   "summary": "NACSA warned on 10 November that attackers are shifting toward physical systems and operational technology that control national critical infrastructure, including water supply, energy and healthcare. The warning came days after the national threat level was raised to Medium and amid several financial-sector incidents.",
+   "title": "NACSA warns cybercriminals increasingly target OT that runs water, energy and healthcare",
+   "url": "https://www.dagangnews.com/article/terkini/ancaman-siber-semakin-serius-sasar-jejaskan-bekalan-air-tenaga-dan-kesihatan-nacsa-77243"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-07",
+   "region": "Malaysia",
+   "sector": "Banking",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Communications Minister Fahmi Fadzil said the Bank Rakyat incident was limited to defacement of a third-party-managed website, with access to the affected server blocked and users redirected. A hacker using the handle Marlanwg claimed deeper access, which the bank had not confirmed. Online banking operations were reported unaffected.",
+   "title": "Fahmi says online banking remains safe despite cyberattacks and Bank Rakyat hack",
+   "url": "https://www.malaymail.com/amp/news/malaysia/2026/11/07/fahmi-says-online-banking-remains-safe-despite-cyberattacks-and-bank-rakyat-hack/242378"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-16",
+   "occurredDate": "2026-11-12",
+   "region": "Malaysia",
+   "sector": "Healthcare · government",
+   "severity": "high",
+   "source": "Lowyat.NET",
+   "summary": "The Ministry of Health said unauthorised access to a file storage and sharing platform at one facility was detected on 12 November. Patient services were unaffected. Public access was blocked, passwords reset and multi-factor authentication made mandatory, with NACSA assisting. Initial findings said main databases were not encrypted.",
+   "title": "MOH Confirms Cybersecurity Incident; Assures Healthcare Services Remain Unaffected",
+   "url": "https://www.lowyat.net/2026/409823/moh-cybersecurity-incident/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-18",
+   "occurredDate": "2026-11-18",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "medium",
+   "source": "Kosmo Online",
+   "summary": "Communications Minister Fahmi Fadzil said on 18 November that there are no reports of large-scale cyberattacks compromising or stealing Malaysians' data so far, and that alleged dark-web data leaks remain unverified. NACSA daily reports show readiness at amber alert since the threat level was raised.",
+   "title": "Tiada ancaman siber besar dikesan terhadap data rakyat dan infrastruktur digital negara setakat ini - Fahmi",
+   "url": "https://www.kosmo.com.my/2026/11/18/tiada-laporan-ancaman-siber-besar-setakat-ini-fahmi/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-20",
+   "occurredDate": "2026-10-22",
+   "region": "European Union (Belgium)",
+   "sector": "Government · EU institution",
+   "severity": "critical",
+   "source": "SecurityWeek",
+   "summary": "The European Commission confirmed on 20 November that an attack using an AI tool, detected on 22 October, disrupted services including the Sysper HR platform, MyPMO and translation systems. Most applications are restored and it reports no evidence of a breach, though Politico said data may have been taken. No actor named.",
+   "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+   "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-18",
+   "occurredDate": "2026-11-17",
+   "region": "Norway",
+   "sector": "Energy · oil & gas",
+   "severity": "critical",
+   "source": "Security Affairs",
+   "summary": "Equinor, Europe's largest gas supplier, disclosed on 17 November an ongoing cyberattack on certain IT systems. It reports no impact on production or operations and no sign of data theft. Authorities were notified, and the company has not said how attackers got in or whether ransomware is involved.",
+   "title": "Norwegian Gas Giant Equinor Says It's Under Cyberattack. Production Keeps Running",
+   "url": "https://securityaffairs.com/203394/hacking/norwegian-gas-giant-equinor-says-its-under-cyberattack-production-keeps-running.html"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-19",
+   "occurredDate": "2026-11-16",
+   "region": "Asia-Pacific (Japan, Australia, Singapore, Hong Kong)",
+   "sector": "Banking · third-party vendor",
+   "severity": "high",
+   "source": "Anadolu Agency",
+   "summary": "Ransomware group n0n claimed a breach of an Asia-Pacific service provider and leaked data of customers tied to Visa, Mastercard and JPMorgan Chase after a 48-hour deadline passed. Exposed records are mostly names, emails, phone numbers and loyalty histories. Visa said its payment systems were unaffected; the group listed the firms on 16 November.",
+   "title": "Ransomware attack exposes customer data linked to Visa, Mastercard, JPMorgan Chase: Report",
+   "url": "https://www.aa.com.tr/en/world/ransomware-attack-exposes-customer-data-linked-to-visa-mastercard-jpmorgan-chase-report/4131302"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-11",
+   "region": "Denmark",
+   "sector": "Transport · shipping",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "Shipping giant Maersk confirmed a breach at a company it previously acquired, with the WhiteArmor ransomware gang demanding five million dollars. Maersk says current evidence indicates no sensitive data has been disclosed. The incident matters to Malaysian ports and logistics firms that rely on the carrier.",
+   "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+   "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-15",
+   "region": "Taiwan",
+   "sector": "Manufacturing · semiconductors",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "TSMC confirmed that employee data leaked online and matched records held by a cloud service provider, pointing to an external vendor breach rather than its own network. Reported record counts vary by outlet. The case again shows third-party cloud access as a common route into large Asia-Pacific companies.",
+   "title": "TSMC employee data breach linked to cloud provider",
+   "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-19",
+   "occurredDate": "2026-11-19",
+   "region": "Japan",
+   "sector": "Healthcare · clinics",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "SBC Medical Group told the US SEC that two incidents at its Japan-based businesses exposed data of about 1.6 million people. The company said it has seen no evidence the data has been misused. The filing was reported on 19 November.",
+   "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+   "url": "https://bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-10",
+   "occurredDate": "2026-11-10",
+   "sector": "Pardons & courts",
+   "severity": "critical",
+   "source": "Kuwait Times (AFP)",
+   "summary": "The Kuala Lumpur High Court ruled on 10 November that Najib Razak should serve the rest of his sentence, due to end in August 2028, under house arrest, after the attorney general had blocked the transfer. The order followed the conditional pardon granted in September and payment of the fine.",
+   "title": "Court orders Najib to serve rest of sentence under house arrest",
+   "url": "https://kuwaittimes.com/article/53388/world/malaysia-court-re-orders-house-arrest-for-najib/"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-11",
+   "occurredDate": "2026-11-10",
+   "sector": "Cabinet · coalition politics",
+   "severity": "critical",
+   "source": "The Star",
+   "summary": "DAP secretary-general Anthony Loke left the Transport Ministry on 10 November after the High Court allowed Najib's house arrest, honouring a resignation first announced on 19 September. Other DAP ministers stay in Cabinet. The move strained the unity government, and no successor was named in coverage found.",
+   "title": "Loke resigns as Transport Minister with immediate effect",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/11/loke-resigns-as-transport-minister-with-immediate-effect"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-20",
+   "milestones": [
+    {
+     "date": "2026-11-26",
+     "label": "Budget 2027 committee stage scheduled to end"
+    },
+    {
+     "date": "2026-12-08",
+     "label": "Dewan Rakyat session scheduled to conclude"
+    }
+   ],
+   "sector": "Parliament · budget",
+   "severity": "high",
+   "source": "Business Today",
+   "summary": "The Dewan Rakyat approved Budget 2027 allocations for eight more ministries in its seventh sitting week. Committee-stage debate began on 2 November and runs to 26 November. The Supply Bill then goes for third reading, the Dewan Negara and royal assent; the session ends on 8 December.",
+   "title": "Budget 2027 allocations for eight more ministries approved in Parliament",
+   "url": "https://www.businesstoday.com.my/2026/11/20/budget-2027-allocations-for-eight-more-ministries-approved-in-parliament/"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-06",
+   "milestones": [
+    {
+     "date": "2026-11-28",
+     "label": "Sarawak election nomination day"
+    },
+    {
+     "date": "2026-12-08",
+     "label": "Sarawak election early voting"
+    },
+    {
+     "date": "2026-12-12",
+     "label": "Sarawak election polling day"
+    }
+   ],
+   "occurredDate": "2026-11-06",
+   "sector": "Elections",
+   "severity": "high",
+   "source": "The Vibes",
+   "summary": "The Election Commission fixed Sarawak state polls for 12 December, with nominations on 28 November and early voting on 8 December. All 82 seats are contested by about 2.06 million registered voters after the assembly was dissolved on 26 October.",
+   "title": "Sarawak state election set for Dec 12 as 82 seats go up for grabs",
+   "url": "https://www.thevibes.com/articles/news/129254/sarawak-state-election-set-for-dec-12-as-82-seats-go-up-for-grabs"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-18",
+   "milestones": [
+    {
+     "date": "2026-12-15",
+     "label": "Seremban High Court contempt hearing for six Negeri Sembilan Undangs and chieftains"
+    }
+   ],
+   "occurredDate": "2026-11-17",
+   "sector": "Constitutional & royal matters",
+   "severity": "critical",
+   "source": "Free Malaysia Today",
+   "summary": "Seremban High Court ordered six Undangs and chieftains to appear in person on 15 December for a second contempt proceeding over alleged evasion of court papers. It follows the Court of Appeal refusing on 4 November to stay the first proceeding. The dispute stems from the April removal of the state ruler.",
+   "title": "6 nobles face 3rd contempt proceedings over Negeri Sembilan crisis",
+   "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/18/6-nobles-face-3rd-contempt-proceedings-over-negeri-sembilan-crisis"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-13",
+   "sector": "Government directive · education",
+   "severity": "medium",
+   "source": "The Star",
+   "summary": "Government spokesman Fahmi Fadzil said the Cabinet kept the existing minimum entry requirements for UEC holders seeking private medical degree places, reverting to the rules that applied before a recent amendment. The decision settles a point of public debate over recognition of the Chinese independent school certificate.",
+   "title": "Existing UEC entry requirements for private medical degrees remain, says Fahmi",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/13/existing-uec-entry-requirements-for-private-medical-degrees-remain-says-fahmi"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-14",
+   "occurredDate": "2026-11-14",
+   "sector": "Elections",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Barisan Nasional and Perikatan Nasional together won 24 seats in the Melaka state election, leaving Pakatan Harapan with only four urban seats. The result reshapes state politics and is likely to feed into wider debate about coalition arrangements ahead of the next general election.",
+   "title": "BN-PN sweep Melaka in 24-seat landslide, Pakatan reduced to just four urban seats",
+   "url": "https://www.malaymail.com/amp/news/malaysia/2026/11/14/bn-pn-sweep-melaka-in-24-seat-landslide-pakatan-reduced-to-just-four-urban-seats/243296"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-10-30",
+   "occurredDate": "2026-10-30",
+   "sector": "Government directive · universities",
+   "severity": "medium",
+   "source": "The Star",
+   "summary": "Cabinet agreed on 30 October to reform the Universities and University Colleges Act in two stages, with amendments to be tabled in Parliament in December. It is a narrower regulatory change than the Budget or political developments, but affects student and campus rules nationwide.",
+   "title": "Cabinet approves two-stage reform of AUKU, amendments to be tabled in Dec",
+   "url": "https://www.thestar.com.my/news/nation/2026/10/30/cabinet-approves-two-stage-reform-of-auku-amendments-to-be-tabled-in-dec"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-123890"
+   ],
+   "cvss": 9.8,
+   "date": "2026-11-19",
+   "exploited": true,
+   "fixedIn": "Upgrade to vCenter 9.1.1.0200, 9.0.2.0200 or 8.0 U3m; no public patch exists for 7.0 and no workaround is listed.",
+   "occurredDate": "2026-11-19",
+   "response": [
+    {
+     "text": "The playbook lists vCenter servers from CMDB and scan data, flags versions below the fixed builds and checks internet or VPN reachability. Analysts get a ranked list with owners and open tickets. Isolation or access changes require analyst approval.",
+     "title": "vCenter exposure and compromise triage",
+     "type": "Playbook"
+    },
+    {
+     "text": "A script pulls vCenter SSO and login logs from the SIEM and flags new administrator sessions without a matching authentication event, plus BeyondTrust Remote Support servers. Results go into an incident with timestamps and source IPs. Run it over the last 90 days because exploitation began in September.",
+     "title": "Hunt vCenter admin session anomalies",
+     "type": "Automation"
+    },
+    {
+     "prompt": "You are a SOC analyst assistant. Given this list of vCenter servers, versions and network exposure, summarise which are affected by CVE-2026-123890, which are on unpatched 7.0, and what to do first. Highlight any also running BeyondTrust Remote Support. Keep it under 200 words.",
+     "text": "Gives analysts a short risk brief from collected inventory. Review the output before sharing it with management.",
+     "title": "Summarise vCenter exposure for management",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Limiting vCenter access to a dedicated management network or jump host reduces exposure more reliably than detection alone, especially for 7.0 where no patch exists. It needs a firewall change, not new automation, and can be verified with a port scan.",
+     "title": "Restrict vCenter management network",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Virtualisation management · VMware vCenter",
+   "severity": "critical",
+   "source": "SecurityWeek",
+   "summary": "Mandiant and Google say a China-linked group tracked as Armory Castle exploited a vCenter Directory Service flaw for over two months before Broadcom patched it on 19 November. An unauthenticated attacker can obtain an administrator session. Entry reportedly came via a BeyondTrust Remote Support zero-day. vCenter 7.0 has no patch.",
+   "timeline": [
+    {
+     "date": "2026-11-19",
+     "kind": "disclosed",
+     "label": "Broadcom advisory VMSA-2026-0009",
+     "source": "SecurityWeek",
+     "summary": "Broadcom published advisory VMSA-2026-0009 for the vCenter authentication bypass, scored CVSS 9.8.",
+     "title": "VMware vCenter CVE-2026-123890 Zero-Day Exploited",
+     "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/"
+    },
+    {
+     "date": "2026-11-19",
+     "kind": "patched",
+     "label": "Fixed builds released",
+     "source": "SecurityWeek",
+     "summary": "Fixed builds 9.1.1.0200, 9.0.2.0200 and 8.0 U3m shipped; vCenter 7.0 remains unpatched.",
+     "title": "VMware vCenter CVE-2026-123890 Zero-Day Exploited",
+     "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/"
+    },
+    {
+     "date": "2026-11-19",
+     "kind": "exploited",
+     "label": "Mandiant confirms zero-day use",
+     "source": "SecurityWeek",
+     "summary": "Google and Mandiant reported exploitation by Armory Castle for more than two months before the patch.",
+     "title": "VMware vCenter CVE-2026-123890 Zero-Day Exploited",
+     "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/"
+    }
+   ],
+   "title": "VMware vCenter Directory Service authentication bypass exploited as zero-day by China-linked group (CVE-2026-123890)",
+   "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-90436"
+   ],
+   "date": "2026-11-18",
+   "exploited": true,
+   "fixedIn": "For N-central, upgrade on-premises servers to Hotfix 3 (build 2026.4.1.39) and agents to 2026.4.1 HF3; Legacy API stays blocked.",
+   "kevAdded": "2026-11-18",
+   "kevDue": "2026-11-21",
+   "milestones": [
+    {
+     "date": "2026-11-21",
+     "label": "CISA deadline to fix Apache Axis CVE-2026-90436"
+    }
+   ],
+   "response": [
+    {
+     "text": "A scheduled job pulls the CISA KEV feed and matches new entries against asset and software inventory, opening an incident for each hit with the due date. Analysts see which hosts run Axis or N-central. Use the built-in vulnerability views where they already cover the products.",
+     "title": "Daily KEV match against inventory",
+     "type": "Job"
+    },
+    {
+     "text": "The playbook finds N-central servers, checks the build against Hotfix 3 and whether Legacy API is enabled, and gathers outbound connections and miner indicators. Analysts receive findings and a proposed containment step. Network isolation needs approval because N-central manages many customer endpoints.",
+     "title": "N-central server containment",
+     "type": "Playbook"
+    },
+    {
+     "text": "Placing the N-central console behind VPN or an allow-list removes the main attack path while patching proceeds. A firewall or WAF rule is faster and safer than building detection, and the change is easy to confirm.",
+     "title": "Take N-central off the internet",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Web services framework · Apache Axis",
+   "severity": "critical",
+   "source": "CISA",
+   "summary": "CISA added the Apache Axis unsafe reflection flaw to KEV on 18 November with a 21 November federal deadline. Search reports link it to the N-able N-central 4EverAble2Shell chain, which was exploited hours after a public exploit appeared on 12 November, with miners installed. Treat N-central servers as high priority.",
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "kind": "patched",
+     "label": "N-central Hotfix 2 released",
+     "source": "Tenable",
+     "summary": "N-able shipped Hotfix 2 for seven N-central CVEs.",
+     "title": "Able2Shell FAQ: N-able N-central Zero-Days and Hotfix 2",
+     "url": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities"
+    },
+    {
+     "date": "2026-11-12",
+     "kind": "event",
+     "label": "4EverAble2Shell exploit published",
+     "source": "SecurityWeek",
+     "summary": "Exploit code was published and attackers were exploiting within hours, installing a Monero miner.",
+     "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+     "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/"
+    },
+    {
+     "date": "2026-11-16",
+     "kind": "patched",
+     "label": "N-central Hotfix 3 released",
+     "source": "Tenable",
+     "summary": "Hotfix 3 fixed 17 more CVEs and permanently blocked Legacy API access.",
+     "title": "Able2Shell FAQ: N-able N-central Zero-Days and Hotfix 2",
+     "url": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities"
+    },
+    {
+     "date": "2026-11-18",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "SecurityWeek",
+     "summary": "CISA added the Apache Axis flaw to KEV on 18 November.",
+     "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
+     "url": "https://securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks"
+    },
+    {
+     "date": "2026-11-21",
+     "kind": "due",
+     "label": "CISA remediation deadline",
+     "source": "SecurityWeek",
+     "summary": "Federal agencies must remediate Axis CVE-2026-90436 by this date.",
+     "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
+     "url": "https://securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks"
+    }
+   ],
+   "title": "Apache Axis unsafe reflection flaw added to CISA KEV, linked to N-able N-central 4EverAble2Shell attacks (CVE-2026-90436)",
+   "url": "https://securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-123158"
+   ],
+   "cvss": 8.1,
+   "date": "2026-11-09",
+   "exploited": true,
+   "fixedIn": "Upgrade to OpenSSH 10.6p2 or the distribution backport; otherwise set PasswordAuthentication no and restart sshd.",
+   "kevAdded": "2026-11-09",
+   "kevDue": "2026-11-12",
+   "occurredDate": "2026-11-05",
+   "response": [
+    {
+     "text": "A script queries inventory and container images for OpenSSH versions below 10.6p2 on Alpine or other musl systems with password authentication enabled. Analysts receive a short list rather than every SSH host. Fixes are applied by owners after approval.",
+     "title": "Find musl-based SSH hosts",
+     "type": "Automation"
+    },
+    {
+     "prompt": "Review these sshd and auth logs from Alpine or musl hosts. Identify successful logins without a valid password, new entries in authorized_keys, and logins from IPs with prior failed attempts since 6 November 2026. Rank hosts by likelihood of compromise and list the evidence for each.",
+     "text": "Helps analysts triage authentication logs quickly. Verify any flagged host manually before containment.",
+     "title": "Check sshd logs for SSHole abuse",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Setting PasswordAuthentication no and using keys or a bastion removes the exploit condition without waiting for patches. It is a configuration baseline enforceable by endpoint management and checked with scheduled compliance scans.",
+     "title": "Disable SSH password authentication",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Remote access service · OpenSSH",
+   "severity": "high",
+   "source": "The Hacker News",
+   "summary": "OpenSSH 10.6p2 fixed an authentication bypass on 5 November. It affects builds on musl libc without PAM that allow password authentication, such as Alpine Linux. Exploitation attempts began on 6 November, root was gained on a honeypot, and CISA listed it on 9 November. Most glibc distributions are not affected.",
+   "timeline": [
+    {
+     "date": "2026-11-05",
+     "kind": "disclosed",
+     "label": "OpenSSH 10.6p2 released",
+     "source": "eSentire",
+     "summary": "OpenSSH announced the bug and the CVE was published.",
+     "title": "OpenSSH SSHole Authentication Bypass Vulnerability (CVE-2026-123158)",
+     "url": "https://www.esentire.com/security-advisories/openssh-sshole-authentication-bypass-vulnerability-cve-2026-123158"
+    },
+    {
+     "date": "2026-11-05",
+     "kind": "patched",
+     "label": "Fixed release and Alpine packages",
+     "source": "eSentire",
+     "summary": "OpenSSH 10.6p2 and fixed Alpine packages shipped the same day.",
+     "title": "OpenSSH SSHole Authentication Bypass Vulnerability (CVE-2026-123158)",
+     "url": "https://www.esentire.com/security-advisories/openssh-sshole-authentication-bypass-vulnerability-cve-2026-123158"
+    },
+    {
+     "date": "2026-11-06",
+     "kind": "exploited",
+     "label": "First exploitation attempts",
+     "source": "The Hacker News",
+     "summary": "Previdian recorded attempts from 6 November; GreyNoise saw root access on a honeypot.",
+     "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure",
+     "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
+    },
+    {
+     "date": "2026-11-09",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "The Hacker News",
+     "summary": "CISA added the flaw to the catalog.",
+     "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+     "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html"
+    },
+    {
+     "date": "2026-11-12",
+     "kind": "due",
+     "label": "CISA remediation deadline",
+     "source": "The Hacker News",
+     "summary": "Federal agencies had to remediate by this date.",
+     "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+     "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html"
+    }
+   ],
+   "title": "OpenSSH \"SSHole\" authentication bypass on musl-based systems exploited within hours (CVE-2026-123158)",
+   "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-115731"
+   ],
+   "cvss": 9.4,
+   "date": "2026-11-17",
+   "exploited": true,
+   "fixedIn": "Upgrade to Puppet Enterprise 2023.8.13, 2025.12.1 or 2026.0.1, or Puppet Core 9.1.3 / 8.22.1; review CA autosign settings.",
+   "kevAdded": "2026-11-17",
+   "kevDue": "2026-12-01",
+   "milestones": [
+    {
+     "date": "2026-12-01",
+     "label": "CISA deadline to fix Puppet Enterprise CVE-2026-115731"
+    }
+   ],
+   "occurredDate": "2026-11-03",
+   "response": [
+    {
+     "text": "The playbook finds Puppet servers and versions through inventory, checks whether the CA uses autosign, and lists servers below fixed releases. Analysts receive a ranked list and the autosign status. Server changes need owner approval.",
+     "title": "Puppet server exposure triage",
+     "type": "Playbook"
+    },
+    {
+     "text": "A script queries Puppet CA logs and endpoint data for unexpected new certificate signings and unusual report submissions since 3 November. Hits go to an incident with host details. This shows whether exploitation preceded patching.",
+     "title": "Hunt for rogue certificate requests",
+     "type": "Automation"
+    },
+    {
+     "text": "Switching autosign to policy-based or manual signing removes the precondition immediately. It needs a config change, not new automation, and is easy to verify.",
+     "title": "Disable permissive autosign",
+     "type": "Better alternative"
+    },
+    {
+     "text": "A daily job checks Puppet server versions against fixed releases and updates the incident with remaining hosts before the 1 December deadline. Owners get reminders. Escalation to management is manual.",
+     "title": "Track Puppet fix progress",
+     "type": "Job"
+    }
+   ],
+   "sector": "Configuration management · Perforce Puppet",
+   "severity": "critical",
+   "source": "SecurityWeek",
+   "summary": "CISA listed the Puppet Enterprise deserialization flaw in KEV on 17 November with a 1 December deadline. The CVSS 9.4 bug lets an attacker who obtains a certificate under permissive autosign settings run code on the server that manages whole fleets. A proof of concept also targets OpenVox.",
+   "timeline": [
+    {
+     "date": "2026-11-03",
+     "kind": "disclosed",
+     "label": "Perforce publishes fix and CVE",
+     "source": "Action1",
+     "summary": "Disclosed with Vox Pupuli and Neodyme; fixed releases shipped the same day.",
+     "title": "CVE-2026-115731 Perforce Puppet Enterprise",
+     "url": "https://www.action1.com/vulnerabilities/cve-2026-115731/"
+    },
+    {
+     "date": "2026-11-03",
+     "kind": "patched",
+     "label": "Fixed releases published",
+     "source": "Action1",
+     "summary": "Fixed Puppet Enterprise and Puppet Core versions released.",
+     "title": "CVE-2026-115731 Perforce Puppet Enterprise",
+     "url": "https://www.action1.com/vulnerabilities/cve-2026-115731/"
+    },
+    {
+     "date": "2026-11-17",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "SecurityWeek",
+     "summary": "CISA listed the flaw with a 1 December federal deadline.",
+     "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+     "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+    },
+    {
+     "date": "2026-12-01",
+     "kind": "due",
+     "label": "CISA remediation deadline",
+     "source": "SecurityWeek",
+     "summary": "Federal agencies must remediate by this date.",
+     "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+     "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+    }
+   ],
+   "title": "Puppet Enterprise report-processing deserialization RCE (CVE-2026-115731)",
+   "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+  }
+ ],
+ "generatedAt": "2026-11-20T21:08:36+08:00",
+ "scanDate": "2026-11-20",
+ "threatLevel": {
+  "level": "Medium",
+  "previous": "Low",
+  "since": "2026-11-04",
+  "source": "NACSA",
+  "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+ }
+}
