@@ -1,0 +1,582 @@
+{
+ "articles": [
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-14",
+   "occurredDate": "2026-11-12",
+   "region": "Malaysia",
+   "sector": "Healthcare",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "The Health Ministry said unauthorised access to a file storage and sharing platform at one facility was detected on 12 November, without encryption of its main databases. A group calling itself Panzer has claimed a 16GB leak, but that claim has not been verified by the ministry.",
+   "title": "Health Ministry reports cyber breach at facility, services unaffected",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1577818/health-ministry-reports-cyber-breach-facility-services-unaffected"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-07",
+   "occurredDate": "2026-11-06",
+   "region": "Malaysia",
+   "sector": "Banking",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Information Minister Fahmi said online banking remained safe after the Bank Rakyat corporate portal was defaced and a hacker claimed to have taken sample data. The case drew attention because the bank was earlier fined RM1 million by Bank Negara over a breach.",
+   "title": "Fahmi says online banking remains safe despite cyberattacks and Bank Rakyat hack",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/07/fahmi-says-online-banking-remains-safe-despite-cyberattacks-and-bank-rakyat-hack/242378"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-04",
+   "occurredDate": "2026-11-04",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "NACSA lifted the National Cyber Threat Level from Low to Medium on 4 November as a precaution after recent security developments. It later said the level stays at Medium with no sudden rise in incidents, while critical sectors must send weekly threat status reports.",
+   "title": "Nacsa raises level of cyber security threat to medium",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-10",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "medium",
+   "source": "The Star",
+   "summary": "NACSA counted 5,110 cyber incidents from January to September 2026, against 5,837 for all of last year. Its chief said industrial control systems in healthcare, energy, water supply and supply chains are a particular concern for Malaysia.",
+   "title": "Nacsa records 5,110 cybersecurity incidents in first nine months",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/10/nacsa-records5110-cybersecurity-incidents"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-07",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "medium",
+   "source": "Free Malaysia Today",
+   "summary": "The National Security Council responded to social media claims of attacks on Malaysia by saying the national cybersecurity situation was under control and the threat level stayed at moderate. It urged the public not to be misled by unverified claims.",
+   "title": "Don't be fooled by claims of cyberattack, says security council",
+   "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/don-t-be-fooled-by-claims-of-cyberattack-says-security-council"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-20",
+   "occurredDate": "2026-11-17",
+   "region": "Canada",
+   "sector": "Telecoms",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "Bell Canada confirmed an intruder it calls an agentic threat actor accessed a pre-production system used to provision telecom circuits on 17 November. Business contact details and ticket data may be exposed; Bell reports no service impact, has not named the attacker and has not said how many customers are affected.",
+   "title": "Bell Canada says \"agentic\" hacker stole enterprise customer data",
+   "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-11",
+   "region": "Denmark",
+   "sector": "Logistics · supply chain",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "Maersk confirmed a breach at a previously acquired business, the former LF Logistics, after the WhiteArmor group demanded USD 5 million in bitcoin. The group's claims of about 100GB stolen are unverified; Maersk says no sensitive data has been disclosed and expects no operational disruption.",
+   "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+   "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-22",
+   "occurredDate": "2026-11-21",
+   "region": "France (Guadeloupe)",
+   "sector": "Healthcare",
+   "severity": "critical",
+   "source": "Mallory",
+   "summary": "A cyberattack encrypted databases at the Guadeloupe hospital from about 21:00 on 21 November, cutting access to applications and internal telephony across three sites. Emergency services stayed available. Ransomware is suspected, but no group, ransom demand or data theft has been confirmed.",
+   "title": "Cyberattack Encrypts Guadeloupe Hospital Databases, Disrupting Care Across Three Sites",
+   "url": "https://mallory.ai/stories/01a20582-a636-7f40-ba0c-93a343bc0e3e"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-23",
+   "occurredDate": "2026-11-21",
+   "region": "South Korea",
+   "sector": "Financial services",
+   "severity": "medium",
+   "source": "GBHackers",
+   "summary": "Samsung Securities disclosed that unauthorised access on 21 November to its customer inquiry system exposed personal details of 8,241 customers. It blocked the source IP address and suspended the affected service, and the firm has not yet named the attacker or described how the access was gained.",
+   "title": "Samsung Securities hit by cyberattack, exposing personal data of over 8,000 customers",
+   "url": "https://gbhackers.com/samsung-securities-hit-by-cyberattack"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-19",
+   "region": "United States",
+   "sector": "Cloud identity",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "Microsoft said attackers exploited a flaw in Entra Connect Health to read administrator email addresses and tenant configuration data, and shipped a fix on 19 November. Microsoft gave few further details, so tenants using the service should review administrator contacts and sign-in logs.",
+   "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+   "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-18",
+   "region": "Norway",
+   "sector": "Critical infrastructure · energy",
+   "severity": "high",
+   "source": "Security Affairs",
+   "summary": "Equinor said it was dealing with a cyberattack against its systems but that gas and oil production continued normally. The company has not published details of the intrusion or its impact on operational technology, and the investigation is still under way.",
+   "title": "Norwegian Gas Giant Equinor Says It's Under Cyberattack. Production Keeps Running",
+   "url": "https://securityaffairs.com/203394/hacking/norwegian-gas-giant-equinor"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-20",
+   "region": "Belgium (European Union)",
+   "sector": "Government · EU institutions",
+   "severity": "critical",
+   "source": "SecurityWeek",
+   "summary": "The European Commission confirmed an AI-assisted cyberattack that disrupted several of its services, which it took offline to contain the incident. It reports no data breach so far and has not attributed the attack to any known group. The Commission says it has found no evidence of a staff data breach, and the investigation continues.",
+   "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
+   "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-10",
+   "occurredDate": "2026-11-10",
+   "sector": "Pardons & courts",
+   "severity": "critical",
+   "source": "Free Malaysia Today",
+   "summary": "A High Court order on 10 November cleared Najib Razak's transfer from prison to house arrest, following the September royal clemency decision. It covers his reduced six-year sentence only, not the separate 15-year sentence, and a Bar challenge to the arrangement remains pending.",
+   "title": "Najib moved to house arrest as court issues fresh order",
+   "url": "https://www.freemalaysiatoday.com/category/nation/2026/11/10/najib-transferred-to-house-arrest-as-court-issues-fresh-order"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-22",
+   "occurredDate": "2026-09-18",
+   "sector": "Pardons & courts",
+   "severity": "critical",
+   "source": "The Star",
+   "summary": "The Home Minister said minutes of the Pardons Board meeting on Najib's house arrest were declassified so the Attorney General's Chambers could answer the Bar's judicial review. Earlier reports said the Attorney General and Hannah Yeoh disagreed with the decision. He declined to say who released the documents, which raised questions over confidentiality and the royal institution.",
+   "title": "Pardons Board minutes had to be declassified for AGC counter-affidavit, says Saifuddin",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/22/pardons-board-minutes-had-to-be-declassified-for-agc-counter-affidavit-says-saifuddin"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-12",
+   "milestones": [
+    {
+     "date": "2026-12-14",
+     "label": "Deadline for written submissions in Bar's Najib house arrest challenge"
+    },
+    {
+     "date": "2027-03-17",
+     "label": "High Court hearing of AGC objection to leave in Bar's house arrest challenge"
+    }
+   ],
+   "occurredDate": "2026-11-10",
+   "sector": "Pardons & courts",
+   "severity": "critical",
+   "source": "Malay Mail",
+   "summary": "The Malaysian Bar filed for judicial review at the Kuala Lumpur High Court on 10 November, arguing house arrest is not a pardon, suspension or remission under Article 42 and seeking to quash the Pardons Board decision. It asked for an immediate stay; no ruling on leave or a stay has been reported.",
+   "title": "Malaysian Bar mounts fresh challenge against Najib's house arrest",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/12/malaysian-bar-mounts-fresh-challenge-against-najibs-house-arrest/242925"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-06",
+   "milestones": [
+    {
+     "date": "2026-11-28",
+     "label": "Sarawak state election nomination day"
+    },
+    {
+     "date": "2026-12-08",
+     "label": "Sarawak early voting"
+    },
+    {
+     "date": "2026-12-12",
+     "label": "Sarawak polling day"
+    }
+   ],
+   "ms": [
+    {
+     "date": "2026-11-28",
+     "label": "Sarawak state election nomination day"
+    },
+    {
+     "date": "2026-12-08",
+     "label": "Sarawak early voting"
+    },
+    {
+     "date": "2026-12-12",
+     "label": "Sarawak polling day"
+    }
+   ],
+   "sector": "Elections",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "The Election Commission set nomination day for the Sarawak state election on 28 November, early voting on 8 December and polling on 12 December, for 82 seats. The assembly was dissolved on 26 October; more than 2.05 million voters are eligible.",
+   "title": "Sarawak polls set for Dec 12",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/06/sarawak-polls-set-for-dec-12"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-19",
+   "sector": "Government directive",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "In a written reply dated 17 November, the Finance Ministry said it is reviewing the legal implications of the High Court ruling on nicotine vapes. It has not decided on refunding the RM377.08 million in excise duties collected since May 2023, and is seeking Health Ministry views.",
+   "title": "RM377mil excise tax refund awaiting review of vape ruling",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/19/rm377mil-excise-tax-refund-awaiting-review-of-vape-ruling"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-10-28",
+   "sector": "Major MACC case",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "The Home Ministry told Parliament that the police probe into the alleged corporate mafia froze over RM400 million in assets and found no MACC officers implicated. MPs remain sceptical of an Attorney General-led inquiry, and the prime minister has promised to release findings within three months.",
+   "title": "'Corporate mafia' probe freezes over RM400m in assets, no MACC officers implicated, Home Ministry tells Parliament",
+   "url": "https://www.malaymail.com/amp/news/malaysia/2026/10/28/corporate-mafia-probe-freezes-over-rm400m-in-assets-no-macc-officers-implicated-home-ministry-tells-parliament/240863"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-23",
+   "milestones": [
+    {
+     "date": "2026-12-08",
+     "label": "Scheduled end of Dewan Rakyat sitting"
+    }
+   ],
+   "sector": "Parliament · budget",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "The headline signals that a proposed hybrid GST-SST tax and social media age limits will dominate the current Dewan Rakyat meeting, reported to run until 8 December. The Cabinet ordered a study of the hybrid tax in August; no decision on it has been announced.",
+   "title": "Hybrid tax, social media age limits to dominate Dewan Rakyat",
+   "url": "https://www.nst.com.my/news/nation/2026/11/1583564/hybrid-tax-social-media-age-limits-dominate-dewan-rakyat"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-19868"
+   ],
+   "cvss": 7.1,
+   "date": "2026-11-06",
+   "exploited": true,
+   "fixedIn": "Upgrade to SonicOS 7.3.4-7013 or later (Gen7) or 8.2.3-8015 or later (Gen8); no workaround is listed.",
+   "kevAdded": "2026-11-06",
+   "kevDue": "2026-11-20",
+   "occurredDate": "2026-11-06",
+   "response": [
+    {
+     "text": "Run a playbook that lists SonicWall firewalls from the CMDB, checks SonicOS build and whether SAML is enabled on SSL VPN, and opens a ticket per exposed device. The analyst gets a ranked patch list. Patching stays a manual change-approved step.",
+     "title": "SonicWall SAML exposure triage",
+     "type": "Playbook"
+    },
+    {
+     "text": "Schedule an XQL or SIEM query for SSL-VPN logins where the SAML result and the IdP log disagree, then attach hits to an issue. Analysts see likely MFA-bypass sessions with source IPs and users. Force session reset only after analyst approval.",
+     "title": "Hunt VPN logins after bypass",
+     "type": "Automation"
+    },
+    {
+     "prompt": "Summarise CVE-2026-19868 for our SOC: affected SonicOS Gen7/Gen8 builds, fixed versions, exploitation status, and what in our SAML SSL-VPN logs would indicate abuse. List our exposed SonicWall devices from the attached inventory and give a prioritised patch and hunt checklist in under 200 words.",
+     "text": "Use this with the Cortex AI assistant to brief the shift lead quickly. It returns a prioritised exposure and hunt checklist for analyst review.",
+     "title": "Summarise SonicWall exposure",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Enforce conditional access and device-compliance checks at the identity provider for VPN sign-ins so a bypassed VPN-side MFA step is not the only control. This needs no new automation and also covers future VPN flaws. Test with a pilot group before enforcing.",
+     "title": "Use IdP conditional access",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "VPN appliance · SonicWall",
+   "severity": "critical",
+   "source": "Help Net Security",
+   "summary": "CVE-2026-19868 in SonicOS SSL-VPN lets an attacker holding credentials for an alternate login method bypass SAML authentication, potentially including SAML-enforced MFA. SonicWall published fixes on 6 November and CISA listed it as exploited the same day, with a federal deadline of 20 November.",
+   "timeline": [
+    {
+     "date": "2026-11-06",
+     "kind": "disclosed",
+     "label": "SonicWall advisory published",
+     "source": "Help Net Security",
+     "summary": "SonicWall disclosed the SSL-VPN SAML authentication bypass.",
+     "title": "Exploited SonicWall SSL-VPN flaw lets attackers bypass SAML-enforced MFA (CVE-2026-19868)",
+     "url": "https://www.helpnetsecurity.com/?p=390676"
+    },
+    {
+     "date": "2026-11-06",
+     "kind": "patched",
+     "label": "Fixed builds released",
+     "source": "Help Net Security",
+     "summary": "Fixes shipped for Gen7 and Gen8 firewalls on the same day.",
+     "title": "Exploited SonicWall SSL-VPN flaw lets attackers bypass SAML-enforced MFA (CVE-2026-19868)",
+     "url": "https://www.helpnetsecurity.com/?p=390676"
+    },
+    {
+     "date": "2026-11-06",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "eSecurity Planet",
+     "summary": "CISA confirmed exploitation by adding the flaw to KEV.",
+     "title": "CISA Adds Exploited SonicWall SSLVPN Authentication Bypass to KEV: What Admins Must Fix",
+     "url": "https://www.esecurityplanet.com/vulnerabilities/news-sonicwall-sslvpn-authentication-bypass-cve-2026-19868/"
+    },
+    {
+     "date": "2026-11-20",
+     "kind": "due",
+     "label": "CISA KEV deadline",
+     "source": "Help Net Security",
+     "summary": "Federal agencies had to remediate by this date.",
+     "title": "Exploited SonicWall SSL-VPN flaw lets attackers bypass SAML-enforced MFA (CVE-2026-19868)",
+     "url": "https://www.helpnetsecurity.com/?p=390676"
+    }
+   ],
+   "title": "Exploited SonicWall SSL-VPN flaw lets attackers bypass SAML-enforced MFA (CVE-2026-19868)",
+   "url": "https://www.helpnetsecurity.com/?p=390676"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-125350"
+   ],
+   "cvss": 8.8,
+   "date": "2026-11-10",
+   "exploited": true,
+   "fixedIn": "Update to Chrome 157.0.8103.50 (Linux) or 157.0.8103.50/.51 (Windows and macOS), then restart the browser.",
+   "kevDue": "2026-11-24",
+   "milestones": [
+    {
+     "date": "2026-11-24",
+     "label": "CISA deadline to fix Chrome CVE-2026-125350"
+    }
+   ],
+   "occurredDate": "2026-11-10",
+   "response": [
+    {
+     "text": "Create a daily job that queries endpoint inventory for Chrome and Chromium-based browsers below the fixed build and writes a count per business unit to a dashboard. Analysts see patch lag without manual exports. Remediation is pushed through the existing software deployment tool.",
+     "title": "Scheduled browser version check",
+     "type": "Job"
+    },
+    {
+     "text": "Use MDM or group policy to force Chrome auto-update and a relaunch deadline instead of building detection automation. This closes the window for every future browser zero-day. Report non-compliant devices weekly.",
+     "title": "Enforce browser auto-update policy",
+     "type": "Better alternative"
+    },
+    {
+     "text": "Add the CVE to the Emerging Vulnerabilities or Vulnerability Intelligence view and run an automation that lists endpoints with the vulnerable build via the vulnerability datasets. The analyst gets an exposure count. Isolation is not recommended here, only prioritised patching.",
+     "title": "Enrich Chrome exploit IOCs",
+     "type": "Automation"
+    },
+    {
+     "prompt": "Draft a 120-word advisory about CVE-2026-125350, the exploited Chrome XML use-after-free fixed in version 157.0.8103.50. Explain who is affected, how to update and restart Chrome, and how IT can verify compliance using our endpoint inventory. Keep the tone plain and non-technical.",
+     "text": "Use this to draft a short advisory for staff and IT. Review the draft before it is sent.",
+     "title": "Chrome exposure briefing",
+     "type": "AI prompt"
+    }
+   ],
+   "sector": "Web browser · Google Chrome",
+   "severity": "high",
+   "source": "The Hacker News",
+   "summary": "CVE-2026-125350 is a use-after-free in the Chrome XML component that lets a crafted page run code inside the sandbox. Google says an exploit exists in the wild and fixed it in Chrome 157.0.8103.50 on 10 November; it is the eighth exploited Chrome zero-day this year.",
+   "timeline": [
+    {
+     "date": "2026-11-06",
+     "kind": "reported",
+     "label": "Reported by researcher",
+     "source": "The Hacker News",
+     "summary": "An anonymous researcher reported the flaw to Google.",
+     "title": "Google Chrome XML use-after-free exploited as eighth zero-day of 2026 (CVE-2026-125350)",
+     "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html"
+    },
+    {
+     "date": "2026-11-10",
+     "kind": "patched",
+     "label": "Chrome 157 fix released",
+     "source": "The Hacker News",
+     "summary": "Google shipped the fix in a stable channel update.",
+     "title": "Google Chrome XML use-after-free exploited as eighth zero-day of 2026 (CVE-2026-125350)",
+     "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html"
+    },
+    {
+     "date": "2026-11-10",
+     "kind": "exploited",
+     "label": "Google confirms exploit exists",
+     "source": "The Hacker News",
+     "summary": "Google said it is aware an exploit exists in the wild.",
+     "title": "Google Chrome XML use-after-free exploited as eighth zero-day of 2026 (CVE-2026-125350)",
+     "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html"
+    },
+    {
+     "date": "2026-11-24",
+     "kind": "due",
+     "label": "CISA KEV deadline",
+     "source": "The Hacker News",
+     "summary": "Federal agencies must patch by this date.",
+     "title": "Google Chrome XML use-after-free exploited as eighth zero-day of 2026 (CVE-2026-125350)",
+     "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html"
+    }
+   ],
+   "title": "Google Chrome XML use-after-free exploited as eighth zero-day of 2026 (CVE-2026-125350)",
+   "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-124194"
+   ],
+   "date": "2026-11-10",
+   "exploited": true,
+   "fixedIn": "Install the November 2026 Microsoft Outlook security update; also block outbound SMB/NTLM to untrusted networks.",
+   "occurredDate": "2026-11-10",
+   "response": [
+    {
+     "text": "Trigger a playbook on Outlook alerts that pulls the user, recent message files and outbound SMB or WebDAV destinations. The analyst gets a case with affected accounts. Password reset and session revocation require approval.",
+     "title": "NTLM leak response",
+     "type": "Playbook"
+    },
+    {
+     "text": "Run an automation that checks the NGFW for rules allowing outbound SMB (445) and WebDAV to the internet and proposes a deny rule. The analyst gets the diff to review. Apply only through change control.",
+     "title": "Block outbound SMB at firewall",
+     "type": "Automation"
+    },
+    {
+     "text": "Use Windows policy to restrict outgoing NTLM and prefer Kerberos, which limits the value of leaked hashes. This is a lasting control and beats ad hoc detection. Roll out in audit mode first.",
+     "title": "Restrict NTLM usage",
+     "type": "Better alternative"
+    },
+    {
+     "prompt": "Write an XQL query for our Cortex XSIAM data to find Outlook.exe network connections to external IP addresses on ports 445 or 80 (WebDAV) in the last 14 days, grouped by user and host. Explain each field assumption so I can adjust it to our schema.",
+     "text": "Use this to build a hunt query for the Outlook NTLM leak. Validate the query against your schema before scheduling it.",
+     "title": "Hunt outbound NTLM",
+     "type": "AI prompt"
+    }
+   ],
+   "sector": "Email client · Microsoft Outlook",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "CVE-2026-124194, fixed in the November Patch Tuesday, was exploited to steal NTLMv2 hashes. Opening a malicious message file makes Outlook connect to an attacker-controlled location without the usual warning, so it needs user interaction and network reach to the attacker.",
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "kind": "disclosed",
+     "label": "Microsoft advisory published",
+     "source": "BleepingComputer",
+     "summary": "Patch Tuesday disclosed the Outlook spoofing flaw as exploited.",
+     "title": "Outlook spoofing zero-day leaks NTLM hashes when a malicious message is opened (CVE-2026-124194)",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+    },
+    {
+     "date": "2026-11-10",
+     "kind": "patched",
+     "label": "Patch Tuesday fix released",
+     "source": "BleepingComputer",
+     "summary": "Microsoft shipped the Outlook update with 1,235 other fixes.",
+     "title": "Outlook spoofing zero-day leaks NTLM hashes when a malicious message is opened (CVE-2026-124194)",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+    },
+    {
+     "date": "2026-11-10",
+     "kind": "exploited",
+     "label": "Flagged as exploited zero-day",
+     "source": "BleepingComputer",
+     "summary": "Microsoft marked the flaw as exploited before the patch.",
+     "title": "Outlook spoofing zero-day leaks NTLM hashes when a malicious message is opened (CVE-2026-124194)",
+     "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+    }
+   ],
+   "title": "Outlook spoofing zero-day leaks NTLM hashes when a malicious message is opened (CVE-2026-124194)",
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-123890"
+   ],
+   "cvss": 9.8,
+   "date": "2026-11-19",
+   "exploited": true,
+   "fixedIn": "Apply the fixed vCenter builds listed in VMSA-2026-0009; Broadcom states there is no workaround.",
+   "kevAdded": "2026-11-20",
+   "kevDue": "2026-11-23",
+   "milestones": [],
+   "occurredDate": "2026-11-19",
+   "response": [
+    {
+     "text": "Triggered by the CVE, it lists vCenter assets from the CMDB or va_endpoints-covered hosts and compares builds with the fixed versions. It opens one ticket per unpatched vCenter and gathers recent SSO administrator creation events from logs. Patching and any credential rotation need analyst approval.",
+     "title": "vCenter exposure and compromise hunt",
+     "type": "Playbook"
+    },
+    {
+     "text": "A script queries vCenter audit logs ingested in XSIAM for new SSO administrator accounts and unexpected access to port 2012 since 1 September. It returns a table of suspicious entries for the analyst. It is read-only so it can run without approval.",
+     "title": "Check vCenter SSO account changes",
+     "type": "Automation"
+    },
+    {
+     "prompt": "Summarise the activity on vCenter host {host} since 2026-09-01 related to CVE-2026-123890: new SSO administrator accounts, access to TCP 2012, unusual SAML or LMDB file access. List the evidence, confidence and next containment steps for analyst approval.",
+     "text": "This asks the Cortex AI assistant to condense the incident evidence for hand-off. Review output before acting.",
+     "title": "Summarise vCenter compromise indicators",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Use XSIAM Vulnerability and Exposure Management to see which vCenter assets are affected and track remediation, instead of building a custom tracker. Pair it with a firewall rule that limits management access to admin networks until patched.",
+     "title": "Use Emerging Vulnerabilities view",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Virtualisation management · VMware vCenter",
+   "severity": "critical",
+   "source": "BleepingComputer",
+   "summary": "Broadcom patched CVE-2026-123890, an authentication bypass in the vCenter Directory Service, on 19 November in VMSA-2026-0009. Mandiant links exploitation since early September to the China-nexus group Armory Castle; CISA added it to KEV on 20 November and the federal deadline of 23 November has now passed.",
+   "timeline": [
+    {
+     "date": "2026-11-19",
+     "kind": "patched",
+     "label": "VMSA-2026-0009 patch released",
+     "source": "BleepingComputer",
+     "summary": "Broadcom shipped the fix with no workaround.",
+     "title": "VMware vCenter Directory Service authentication bypass exploited as zero-day (CVE-2026-123890)",
+     "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+    },
+    {
+     "date": "2026-11-19",
+     "kind": "exploited",
+     "label": "Mandiant reports exploitation",
+     "source": "BleepingComputer",
+     "summary": "Attacks were reported to date from early September.",
+     "title": "VMware vCenter Directory Service authentication bypass exploited as zero-day (CVE-2026-123890)",
+     "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+    },
+    {
+     "date": "2026-11-20",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "Security Affairs",
+     "summary": "CISA listed the flaw as exploited.",
+     "title": "U.S. CISA adds Cisco Expressway, SAP NetWeaver, Broadcom VMware vCenter, and Apache Roller flaws to its Known Exploited Vulnerabilities catalog",
+     "url": "https://securityaffairs.com/203639/security/u-s-cisa-adds-cisco-expressway-sap-netweaver-broadcom-vmware-vcenter-and-apache-roller-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+    },
+    {
+     "date": "2026-11-23",
+     "kind": "due",
+     "label": "CISA KEV deadline",
+     "source": "BleepingComputer",
+     "summary": "Federal remediation deadline.",
+     "title": "VMware vCenter Directory Service authentication bypass exploited as zero-day (CVE-2026-123890)",
+     "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+    }
+   ],
+   "title": "VMware vCenter Directory Service authentication bypass exploited as zero-day (CVE-2026-123890)",
+   "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/"
+  }
+ ],
+ "generatedAt": "2026-11-23T21:09:24+08:00",
+ "scanDate": "2026-11-23",
+ "threatLevel": {
+  "level": "Medium",
+  "previous": "Low",
+  "since": "2026-11-04",
+  "source": "NACSA",
+  "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+ }
+}
