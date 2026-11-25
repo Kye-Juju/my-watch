@@ -1,0 +1,603 @@
+{
+ "articles": [
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-18",
+   "region": "Malaysia",
+   "sector": "Banking · regulator warning",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "Bank Negara Malaysia governor Abdul Rasheed Ghaffour said on 18 November that cyber incidents and even banking outages should be expected as finance becomes more interconnected. The central bank is tightening supervision, updating its Risk Management in Technology policy and working with NACSA, while urging banks to keep investing in detection and recovery.",
+   "title": "Bank Negara warns cyber attacks and banking disruptions will become more common",
+   "url": "https://www.nst.com.my/amp/business/corporate/2026/11/1580449/bank-negara-warns-cyber-attacks-and-banking-disruptions-will"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-10",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "medium",
+   "source": "The Star",
+   "summary": "NACSA recorded 5,110 incidents between January and September 2026, against 5,837 for all of 2025. Its NC4 centre issued nine alerts and advisories in October and November on flaws affecting critical infrastructure and government agencies. The agency also rejected a viral ranking that places Malaysia among the most-attacked countries, saying it reflects data-centre traffic.",
+   "title": "Nacsa records 5,110 cybersecurity incidents",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/10/nacsa-records5110-cybersecurity-incidents"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-07",
+   "region": "Malaysia",
+   "sector": "Banking",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "Several Malaysian bank websites were disrupted in early November amid a reported rise in attacks on telecoms and banking infrastructure, according to a cyber consumer association. Banks restored services quickly. A former CyberSecurity Malaysia chief said forensic work must establish whether core systems, customer databases or transactions were affected before any conclusion on data leakage.",
+   "title": "Malaysia bank disruptions coincide with surge in cyberattacks, says expert",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1572833/malaysia-bank-disruptions-coincide-surge-cyberattacks-says-expert"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-07",
+   "occurredDate": "2026-11-06",
+   "region": "Malaysia",
+   "sector": "Banking",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Several Bank Rakyat web pages, including the iRakyat login page, were defaced late on 6 November in a suspected cyberattack claimed by a group calling itself MARLANWG. The communications minister said online banking in general remains safe. The bank had not said whether customer data was affected.",
+   "title": "Fahmi says online banking remains safe despite cyberattacks and Bank Rakyat hack",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/07/fahmi-says-online-banking-remains-safe-despite-cyberattacks-and-bank-rakyat-hack/242378"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-14",
+   "occurredDate": "2026-11-12",
+   "region": "Malaysia",
+   "sector": "Healthcare · government",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "The Health Ministry disclosed on 12 November a breach limited to a supporting file storage and sharing platform at one of its facilities. It says patient treatment and health services continue as normal. Investigation continues, and a third-party tracker also lists an unconfirmed claim against the ministry's domain.",
+   "title": "Health Ministry reports cyber breach at facility, services unaffected",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1577818/health-ministry-reports-cyber-breach-facility-services-unaffected"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-04",
+   "occurredDate": "2026-11-04",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "On 4 November the National Security Council raised the National Cyber Security Threat Level from Low to Medium as a precaution. Operators of national critical information infrastructure were told to tighten monitoring, report weekly to NACSA even without incidents, and isolate critical operational systems from external networks.",
+   "title": "Nacsa raises level of cyber security threat to medium",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-17",
+   "occurredDate": "2026-11-16",
+   "region": "United States & global",
+   "sector": "Supply chain · web experimentation SaaS",
+   "severity": "critical",
+   "source": "CSO Online",
+   "summary": "Attackers abused Optimizely's account signup flow on 16 November to plant malicious JavaScript in customer projects, which was then served from the vendor's own CDN. Researchers counted at least 178 affected organisations. The code swapped crypto wallet addresses, skimmed card data and delivered iOS exploit kits. Optimizely says it blocked the path and removed the code.",
+   "title": "Optimizely confirms massive cyberattack on customer websites, injected stealer malware",
+   "url": "https://www.csoonline.com/article/4249925/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware.html"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-09",
+   "occurredDate": "2026-11-09",
+   "region": "United States",
+   "sector": "Education · healthcare-linked",
+   "severity": "high",
+   "source": "Axios",
+   "summary": "Vanderbilt University told staff and students on 9 November to shut down devices while it responded to an active cyber incident that disrupted classes and systems. The BYOD ransomware group alleges it stole over one million Social Security numbers, a claim the university had not confirmed. Systems were being restored by mid-November, though many remained restricted.",
+   "title": "Vanderbilt urges campus to shut down computers amid cyberattack",
+   "url": "https://axios.com/2026/11/09/vanderbilt-university-attack-phone-devices-computer"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-20",
+   "region": "United States",
+   "sector": "Banking · third-party vendor",
+   "severity": "high",
+   "source": "Claims Journal",
+   "summary": "JPMorgan Chase, Visa and Mastercard disclosed on 20 November that third-party service providers were targeted in a cyberattack that exposed customer marketing data. Visa said its own systems were not involved and no card payment data was affected. The incident illustrates third-party access risk that is equally relevant to Malaysian banks and card processors.",
+   "title": "JPMorgan, Visa, Mastercard Say Third-Party Vendors Targeted in Cyberattack",
+   "url": "https://www.claimsjournal.com/news/national/2026/11/20/341437.htm"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-24",
+   "region": "Portugal",
+   "sector": "Government · energy services",
+   "severity": "high",
+   "source": "The Portugal News",
+   "summary": "Portugal's energy agency ADENE took its building energy certification system and online portal offline as a precaution after a cyberattack, reported on 24 November. Certificates issued before the incident remain valid, but no date has been set for restoring the service. The agency has not published details on the attackers or any data exposure.",
+   "title": "Cyberattack disrupts energy certification services in Portugal",
+   "url": "https://www.theportugalnews.com/news/2026-11-24/cyberattack-disrupts-energy-certification-services-in-portugal/1121629"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-17",
+   "occurredDate": "2026-11-13",
+   "region": "Japan",
+   "sector": "Research infrastructure · HPC",
+   "severity": "high",
+   "source": "eSecurityPlanet",
+   "summary": "RIKEN suspended Japan's Fugaku supercomputer on 14 November after confirming unauthorised access on 13 November, reportedly via a publicly reachable status dashboard between 10 and 13 November. Credentials of up to roughly 4,600 users may be exposed. Operations will resume only after servers are rebuilt and controls added.",
+   "title": "Japan takes Fugaku supercomputer offline after cyberattack",
+   "url": "https://www.esecurityplanet.com/threats/news-japan-fugaku-supercomputer-cyberattack-apac/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-18",
+   "occurredDate": "2026-11-17",
+   "region": "Norway",
+   "sector": "Energy · oil & gas",
+   "severity": "high",
+   "source": "Security Affairs",
+   "summary": "Equinor, Norway's state-controlled energy company, confirmed on 17 November an ongoing cyberattack against internal IT systems. The company said production continues without interruption. Details of the intrusion, its source and any data loss had not been disclosed in coverage available at publication.",
+   "title": "Norwegian Gas Giant Equinor Says It's Under Cyberattack. Production Keeps Running",
+   "url": "https://securityaffairs.com/203394/hacking/norwegian-gas-giant-equinor"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-07",
+   "occurredDate": "2026-11-06",
+   "sector": "Pardons & courts",
+   "severity": "critical",
+   "source": "Malay Mail",
+   "summary": "The Attorney-General's Chambers denied defying the royal pardon after seeking on 6 November to delay Najib Razak's transfer to house arrest pending clarification of the order. The Agong then decreed that the pardon must be implemented, and Najib began serving the rest of his SRC sentence at home on 10 November. His appeals and a further 15-year term remain pending.",
+   "title": "AGC denies defying King's pardon over Najib's house arrest, seeks clarity on jail terms",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/07/agc-denies-defying-kings-pardon-over-najibs-house-arrest/242335"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-10-27",
+   "milestones": [
+    {
+     "date": "2026-11-26",
+     "label": "Federal Court hearing on Najib leave bid against Tommy Thomas"
+    }
+   ],
+   "sector": "Pardons & courts",
+   "severity": "high",
+   "source": "The Vibes",
+   "summary": "The Federal Court has fixed 26 November to hear Najib Razak's leave application to revive his RM1.9 million misfeasance suit against former attorney-general Tommy Thomas, and allowed him to attend. The panel earlier warned that a July adjournment over his health was the last. The outcome could affect whether public-office misconduct claims can proceed before related criminal matters conclude.",
+   "title": "Federal Court to hear Najib Razak’s bid to revive RM1.9m suit against ex-AG Thomas on Nov 26",
+   "url": "https://www.thevibes.com/articles/news/128896/federal-court-to-hear-najib-razaks-bid-to-revive-rm1.9m-suit-against-ex-ag-thomas-on-nov-26"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-06",
+   "milestones": [
+    {
+     "date": "2026-11-28",
+     "label": "Sarawak election nomination day"
+    },
+    {
+     "date": "2026-12-08",
+     "label": "Sarawak early voting"
+    },
+    {
+     "date": "2026-12-12",
+     "label": "Sarawak polling day"
+    }
+   ],
+   "sector": "Elections",
+   "severity": "high",
+   "source": "The Vibes",
+   "summary": "The Election Commission fixed 12 December for the 13th Sarawak state election, with nomination on 28 November and early voting on 8 December. More than 2.05 million voters will choose 82 assembly members after the assembly dissolved on 26 October. The 14-day campaign ends on 11 December; GPS won 76 of 82 seats in 2021.",
+   "title": "Sarawak state election set for Dec 12 as 82 seats go up for grabs",
+   "url": "https://www.thevibes.com/articles/news/129254/sarawak-state-election-set-for-dec-12-as-82-seats-go-up-for-grabs"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-16",
+   "sector": "Parliament · governance",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Prime Minister Anwar Ibrahim said on 16 November that powers formerly concentrated in the prime minister's hands have been moved to Parliament through reforms. The remarks come as his government marks four years in office, with a scorecard that also acknowledges a failed constitutional amendment on prime ministerial term limits.",
+   "title": "Power once held by PM now belongs to Parliament, says Anwar",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/16/power-once-held-by-pm-now-belongs-to-parliament-says-anwar/243442"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-07",
+   "sector": "Cabinet · federal-state relations",
+   "severity": "medium",
+   "source": "The Star",
+   "summary": "The Cabinet agreed on 7 November to a memorandum paving the way for scheduled waste management powers to be transferred to the Sarawak government, in line with the Malaysia Agreement. The decision lands weeks before the Sarawak state election and adds to the state's autonomy and resource-control push.",
+   "title": "Sarawak's scheduled waste powers get Cabinet nod",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/07/sarawaks-scheduled-waste-powers-get-cabinet-nod"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-24",
+   "sector": "Parliament · Prime Minister’s Question Time",
+   "severity": "medium",
+   "source": "New Straits Times",
+   "summary": "During Prime Minister's Question Time on 24 November, Anwar Ibrahim said authorities should investigate a lawmaker whose comments questioned closing businesses for Friday prayers. He noted the MP had apologised but left the matter to the investigation, with police deciding on the statement. Parliament's sitting is scheduled to run until 8 December.",
+   "title": "Anwar directs probe into MP over remarks on Friday prayer closures",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1584471/anwar-directs-probe-mp-over-remarks-friday-prayer-closures"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-20",
+   "milestones": [
+    {
+     "date": "2026-11-26",
+     "label": "Dewan Rakyat committee stage of Budget 2027 scheduled to end"
+    },
+    {
+     "date": "2026-11-30",
+     "label": "Dewan Negara begins Budget 2027 deliberations"
+    },
+    {
+     "date": "2026-12-08",
+     "label": "Parliament meeting scheduled to conclude"
+    }
+   ],
+   "sector": "Parliament · budget",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "The Dewan Rakyat approved Budget 2027 allocations for several more ministries in its seventh sitting week, including Works, Transport, Health and Energy Transition. Eight further ministries are due to wind up next week. Committee-stage debate runs to 26 November, and the meeting is scheduled to end on 8 December.",
+   "title": "Budget 2027 debate: Eight ministries cleared, eight more to wind up next week",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/20/budget-2027-debate-eight-ministries-cleared-eight-more-to-wind-up-next-week/244029"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-22",
+   "sector": "Pardons & courts",
+   "severity": "critical",
+   "source": "The Star",
+   "summary": "Home Minister Saifuddin Nasution said Pardons Board minutes were declassified so the Attorney General's Chambers could file a counter-affidavit in the Najib house arrest litigation. The minutes, disclosed days earlier, show the attorney general and home minister objecting to house arrest, fuelling debate over the limits of royal pardon powers.",
+   "title": "Pardons Board minutes had to be declassified for AGC counter-affidavit, says Saifuddin",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/22/pardons-board-minutes-had-to-be-declassified-for-agc-counter-affidavit-says-saifuddin"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-132165"
+   ],
+   "date": "2026-11-24",
+   "exploited": true,
+   "fixedIn": "Upgrade to Drupal 10.6.22, 11.3.22 or 11.4.13; if impossible, block /core/install.php at the web server or .htaccess.",
+   "kevAdded": "2026-11-24",
+   "kevDue": "2026-11-27",
+   "milestones": [
+    {
+     "date": "2026-11-27",
+     "label": "CISA deadline to fix Drupal Core CVE-2026-132165"
+    }
+   ],
+   "occurredDate": "2026-11-18",
+   "response": [
+    {
+     "text": "A playbook takes the Drupal sites from your CMDB or attack-surface inventory, checks the running core version and whether /core/install.php returns 403 or 404. It outputs a list of exposed sites with owners and opens a ticket per unpatched site. Any WAF block change should need analyst approval.",
+     "title": "Drupal exposure triage",
+     "type": "Playbook"
+    },
+    {
+     "text": "A scheduled automation requests /core/install.php and /install.php on each public Drupal host and records status codes. It gives analysts a quick pass/fail table without logging into servers. Run it from an approved scanner address so the probes are not mistaken for attacks.",
+     "title": "Installer path probe",
+     "type": "Automation"
+    },
+    {
+     "prompt": "Draft an XQL query for Cortex XSIAM that finds HTTP requests to /core/install.php or /install.php on web servers or WAF logs in the last 14 days, grouped by source IP and response code. List the dataset fields I must verify, and suggest triage steps for 200 responses.",
+     "text": "This prompt helps analysts draft a search for installer requests in web and WAF logs over the past 14 days. Validate field names against your own datasets before running it.",
+     "title": "Drupal web log hunt",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Until patching completes, a WAF or NGFW rule that blocks the installer paths is faster than building automation. Record it as a time-limited exception and remove it once all sites run the fixed releases.",
+     "title": "WAF rule instead of playbook",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "CMS · Drupal Core",
+   "severity": "critical",
+   "source": "CISA",
+   "summary": "An anonymous attacker can abuse Drupal core's install.php, which fails to fail securely, to reinstall the site and take it over or run code. Drupal patched it on 18 November (SA-CORE-2026-017) after warning of fast exploit development. CISA added it to KEV on 24 November, with federal remediation due 27 November.",
+   "timeline": [
+    {
+     "date": "2026-11-16",
+     "kind": "event",
+     "label": "Drupal advance warning",
+     "source": "BleepingComputer",
+     "summary": "Drupal security team warned a critical flaw could be exploited within hours or days.",
+     "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+     "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/amp/"
+    },
+    {
+     "date": "2026-11-18",
+     "kind": "disclosed",
+     "label": "Advisory SA-CORE-2026-017",
+     "source": "BleepingComputer",
+     "summary": "Drupal published the advisory for the install.php flaw.",
+     "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+     "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/amp/"
+    },
+    {
+     "date": "2026-11-18",
+     "kind": "patched",
+     "label": "Fixed releases shipped",
+     "source": "BleepingComputer",
+     "summary": "Drupal 10.6.22, 11.3.22 and 11.4.13 were released.",
+     "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+     "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/amp/"
+    },
+    {
+     "date": "2026-11-24",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA listed the flaw as exploited in the wild.",
+     "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-27",
+     "kind": "due",
+     "label": "KEV remediation deadline",
+     "source": "CISA",
+     "summary": "Federal agencies must remediate by this date per the KEV catalog.",
+     "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "Drupal core installer remote code execution (CVE-2026-132165)",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-132224"
+   ],
+   "cvss": 7.1,
+   "date": "2026-11-24",
+   "exploited": true,
+   "fixedIn": "Optimizely says it blocked the vulnerable signup path and removed injected code; audit every Project JavaScript field for code you did not write.",
+   "kevAdded": "2026-11-24",
+   "kevDue": "2026-11-27",
+   "milestones": [
+    {
+     "date": "2026-11-27",
+     "label": "CISA deadline to fix Optimizely CVE-2026-132224"
+    }
+   ],
+   "occurredDate": "2026-11-17",
+   "response": [
+    {
+     "text": "An automation lists every site in your inventory loading Optimizely snippets and fetches each script to flag unexpected code, wallet-address strings or unknown domains. Analysts get a table of suspect pages and owners. Review hits manually before declaring a compromise.",
+     "title": "Optimizely snippet audit",
+     "type": "Automation"
+    },
+    {
+     "text": "A playbook enriches suspicious script domains, searches proxy and DNS logs for user connections to them since 13 November, and opens an incident per affected site. It asks for approval before forcing password resets for users who entered payment data.",
+     "title": "Web skimmer response",
+     "type": "Playbook"
+    },
+    {
+     "text": "A strict Content Security Policy and subresource integrity on third-party scripts limits this class of attack more durably than per-incident automation. Note that allowing unsafe-eval, as some vendor guidance suggested, weakens that protection.",
+     "title": "CSP and script integrity",
+     "type": "Better alternative"
+    },
+    {
+     "prompt": "Draft an XQL query for Cortex XSIAM that finds proxy or DNS events from 13 to 25 November 2026 for Optimizely CDN domains and unusual script-hosting domains contacted right after. Group by user and site, list fields to verify, and suggest triage for users who visited payment pages.",
+     "text": "This prompt helps analysts draft a hunt for staff or customers loading the malicious Optimizely-served code. Check field names against your datasets first.",
+     "title": "Exposure hunt draft",
+     "type": "AI prompt"
+    }
+   ],
+   "sector": "SaaS web experimentation · Optimizely",
+   "severity": "critical",
+   "source": "CISA",
+   "summary": "A flaw in Optimizely's Web Experimentation signup flow let attackers impersonate users and write malicious JavaScript into customer projects, which was served to visitors from the vendor's CDN. Activity ran from 13 to 16 November and affected at least 178 organisations. CISA added it to KEV on 24 November, due 27 November.",
+   "timeline": [
+    {
+     "date": "2026-11-13",
+     "kind": "exploited",
+     "label": "Earliest malicious activity",
+     "source": "Bitsight",
+     "summary": "Beazley Security reported related malicious scripts on other services from this date.",
+     "title": "The Optimizely Hack: How a Trusted Script Became a Malware Delivery Channel",
+     "url": "https://www.bitsight.com/blog/cve-2026-132224-optimizely-third-party-supply-chain-attack"
+    },
+    {
+     "date": "2026-11-16",
+     "kind": "exploited",
+     "label": "Malicious code injected",
+     "source": "CSO Online",
+     "summary": "Attackers wrote malicious JavaScript into customer projects via the signup flaw.",
+     "title": "Optimizely confirms massive cyberattack on customer websites",
+     "url": "https://www.csoonline.com/article/4249925/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware.html"
+    },
+    {
+     "date": "2026-11-17",
+     "kind": "disclosed",
+     "label": "Vendor incident notice",
+     "source": "CSO Online",
+     "summary": "Optimizely confirmed the incident, blocked the path and removed injected code.",
+     "title": "Optimizely confirms massive cyberattack on customer websites",
+     "url": "https://www.csoonline.com/article/4249925/optimizely-confirms-massive-cyberattack-on-customer-websites-injected-stealer-malware.html"
+    },
+    {
+     "date": "2026-11-24",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA listed the flaw as exploited in the wild.",
+     "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-27",
+     "kind": "due",
+     "label": "KEV remediation deadline",
+     "source": "CISA",
+     "summary": "Federal agencies must remediate by this date per the KEV catalog.",
+     "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "Optimizely Web Experimentation signup flaw lets attackers inject JavaScript into customer sites (CVE-2026-132224)",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-131914"
+   ],
+   "cvss": 9.3,
+   "date": "2026-11-24",
+   "exploited": true,
+   "fixedIn": "No fixed release is listed for versions up to 0.9.1 Beta; researchers advise removing the obsolete library and relying on current ASP.NET anti-forgery features.",
+   "kevAdded": "2026-11-24",
+   "kevDue": "2026-11-27",
+   "milestones": [
+    {
+     "date": "2026-11-27",
+     "label": "CISA deadline to fix Idunno AntiCsrf CVE-2026-131914"
+    }
+   ],
+   "response": [
+    {
+     "text": "An automation scans application repositories, SBOMs and deployed .NET assemblies for Idunno.AntiCsrf at or below 0.9.1. It returns application names, owners and exposure so teams can plan removal. Use your software inventory or vulnerability tooling where available instead of scanning servers directly.",
+     "title": "Find AntiCsrf usage",
+     "type": "Automation"
+    },
+    {
+     "text": "Check XSIAM's Vulnerability and Exposure Management for this CVE on agent-covered endpoints before building anything. It shows affected hosts and tracks remediation with less effort than a custom playbook. Add a WAF rule on affected apps while the library is replaced.",
+     "title": "Use vulnerability management view",
+     "type": "Better alternative"
+    },
+    {
+     "text": "A playbook gathers web logs and process-creation events from hosts running affected apps, looking for w3wp.exe spawning shells or unexpected child processes. It produces a timeline for the analyst and requires approval before isolating any server.",
+     "title": "Suspected exploitation triage",
+     "type": "Playbook"
+    },
+    {
+     "prompt": "Draft an XQL query for Cortex XSIAM that finds IIS worker process (w3wp.exe) spawning cmd.exe, powershell.exe or other unusual child processes in the last 14 days. List dataset fields to verify, and suggest triage steps and containment options requiring analyst approval.",
+     "text": "This prompt helps analysts draft a hunt for web-shell and post-exploitation behaviour on IIS servers. Confirm field names in your datasets.",
+     "title": "Deserialization hunt draft",
+     "type": "AI prompt"
+    }
+   ],
+   "sector": "ASP.NET library · Idunno AntiCsrf",
+   "severity": "critical",
+   "source": "CISA",
+   "summary": "Unsafe deserialization in the Idunno.AntiCsrf library for ASP.NET lets unauthenticated attackers run code remotely, and the project appears end-of-life. It scores CVSS 9.3 (v4.0) and affects versions through 0.9.1 Beta. CISA added it to KEV on 24 November on evidence of active exploitation, with remediation due 27 November.",
+   "timeline": [
+    {
+     "date": "2026-11-24",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA listed the flaw as exploited in the wild.",
+     "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-24",
+     "kind": "reported",
+     "label": "Exploitation coverage",
+     "source": "Cyberpress",
+     "summary": "Coverage reports probes validating exploitation against deployments.",
+     "title": "CISA Warns Hackers Are Actively Exploiting Critical Drupal, ASP.NET and Optimizely Security Flaws",
+     "url": "https://cyberpress.org/cisa-drupal-asp-net-and-optimizely-security-flaws/"
+    },
+    {
+     "date": "2026-11-27",
+     "kind": "due",
+     "label": "KEV remediation deadline",
+     "source": "CISA",
+     "summary": "Federal agencies must remediate by this date per the KEV catalog.",
+     "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "Idunno.AntiCsrf unsafe deserialization allows unauthenticated remote code execution (CVE-2026-131914)",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-76466"
+   ],
+   "cvss": 9.8,
+   "date": "2026-11-20",
+   "exploited": true,
+   "fixedIn": "Upgrade clustered Expressway-C and Expressway-E to release X15.5.20 or later; Cisco lists no workaround.",
+   "kevAdded": "2026-11-20",
+   "kevDue": "2026-11-23",
+   "occurredDate": "2026-10-21",
+   "response": [
+    {
+     "text": "A scheduled automation queries your CMDB or asset inventory for Cisco Expressway-C/E nodes, flags clustered members still below X15.5.20, and returns a table of hosts, owners and exposure. It opens one ticket per unpatched cluster for the network team.",
+     "title": "Expressway cluster exposure check",
+     "type": "Automation"
+    },
+    {
+     "text": "A playbook pulls firewall and NGFW logs for connections to Expressway management and cluster ports from non-peer addresses, then enriches source IPs. It gives analysts a timeline of suspicious access, and asks for analyst approval before isolating any node.",
+     "title": "Expressway compromise triage",
+     "type": "Playbook"
+    },
+    {
+     "prompt": "Draft an XQL query for Cortex XSIAM to find network connections from hosts running Cisco Expressway to internal SMB, WinRM, SQL Server and GitLab endpoints over the last 30 days. Explain each filter, list the fields I should verify against my datasets, and suggest triage steps for hits.",
+     "text": "This prompt helps analysts draft an XQL hunting query for post-exploitation activity from Expressway hosts and review the output quickly. Analysts should validate field names against their own datasets.",
+     "title": "Expressway hunt query draft",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Until clusters are patched, restrict cluster and management ports to the peer nodes with an NGFW rule, which is faster than building automation. Keep the rule as a documented exception with an expiry date.",
+     "title": "Virtual patch and segmentation",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Video/collaboration gateway · Cisco Expressway",
+   "severity": "critical",
+   "source": "Infosecurity Magazine",
+   "summary": "An unauthenticated attacker with network access to a clustered Cisco Expressway can run commands as root through hard-coded cluster credentials. Cisco disclosed it on 21 October and CISA added it to KEV on 20 November. Security press now reports exploitation soon after public proof-of-concept code appeared; Cisco has published no indicators. Standalone devices are unaffected.",
+   "timeline": [
+    {
+     "date": "2026-10-21",
+     "kind": "disclosed",
+     "label": "Cisco advisory published",
+     "source": "Cisco",
+     "summary": "Cisco disclosed the clustered Expressway hard-coded credential flaw and released the fixed software.",
+     "title": "Cisco Expressway Series static credential vulnerability (cisco-sa-vcs-static-cred-hr7EWZ8t)",
+     "url": "https://www.cisco.com/c/ja_jp/support/docs/csa/2026/cisco-sa-vcs-static-cred-hr7EWZ8t.pdf"
+    },
+    {
+     "date": "2026-11-20",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "MLQ.ai",
+     "summary": "CISA confirmed exploitation and listed the flaw in the KEV catalog.",
+     "title": "CISA adds exploited Cisco Expressway, SAP NetWeaver, VMware vCenter and Apache Roller flaws to its KEV list",
+     "url": "https://mlq.ai/news/cisa-adds-exploited-cisco-expressway-sap-netweaver-vmware-vcenter-and-apache-roller-flaws-to-its-kev-list/"
+    },
+    {
+     "date": "2026-11-23",
+     "kind": "due",
+     "label": "KEV remediation deadline",
+     "source": "MLQ.ai",
+     "summary": "Federal agencies were required to patch and perform forensic triage by this date.",
+     "title": "CISA adds exploited Cisco Expressway, SAP NetWeaver, VMware vCenter and Apache Roller flaws to its KEV list",
+     "url": "https://mlq.ai/news/cisa-adds-exploited-cisco-expressway-sap-netweaver-vmware-vcenter-and-apache-roller-flaws-to-its-kev-list/"
+    }
+   ],
+   "title": "Cisco Expressway cluster hard-coded credentials allow root command execution (CVE-2026-76466)",
+   "url": "https://www.infosecurity-magazine.com/news/critical-cisco-expressway-flaw/"
+  }
+ ],
+ "generatedAt": "2026-11-25T21:08:31+08:00",
+ "scanDate": "2026-11-25",
+ "threatLevel": {
+  "level": "Medium",
+  "previous": "Low",
+  "since": "2026-11-04",
+  "source": "NACSA",
+  "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+ }
+}
