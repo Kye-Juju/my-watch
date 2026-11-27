@@ -1,0 +1,616 @@
+{
+ "articles": [
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-13",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Communications Minister Fahmi Fadzil said NACSA remained on an amber alert after the National Cyber Threat Level was raised earlier in the month, while no worrying cyber incident had been confirmed. He said claims of leaked Malaysian data circulating online were still unverified, and monitoring of financial and critical sectors continued.",
+   "title": "Nacsa on amber alert amid unverified cyberattack claims, says Fahmi",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/13/nacsa-on-amber-alert-but-fahmi-says-no-worrying-cyber-incidents-confirmed-so-far/243034"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-09",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "medium",
+   "source": "New Straits Times",
+   "summary": "NACSA said it logged 5,110 cyber incidents from January to September 2026, below the 5,837 recorded in all of 2025, and that the national threat level remained moderate. Its chief explained that much of the 2025 count came from early-detected intrusion attempts, and cited the March 2025 Malaysia Airports ransomware attack as a key example.",
+   "title": "Nacsa records 5,110 cybersecurity incidents in first nine months",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1574088/nacsa-records-5110-cybersecurity-incidents-first-nine-months"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-20",
+   "region": "Malaysia",
+   "sector": "Government impersonation · phishing",
+   "severity": "medium",
+   "source": "MyCERT",
+   "summary": "MyCERT issued an advisory on 20 November about a live phishing campaign that spreads a government-style poster for a supposed free laptop aid programme through WhatsApp groups. The lure imitates official branding to harvest personal details, and the agency advises the public to verify any such scheme with the relevant ministry.",
+   "title": "Free laptop aid programme phishing poster circulating on WhatsApp (MyCERT advisory)",
+   "url": "https://www.mycert.org.my/portal/advisories?id=431fab9c-d24c-4a27-ba93-e92edafdefa5"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-25",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "medium",
+   "source": "The Vibes",
+   "summary": "At the NEXSEC2026 conference on 25 November, the Malaysian Communications and Multimedia Commission and NACSA signed an agreement to share intelligence, coordinate responses and build capacity. A Global Anti-Scam Alliance report presented the same day estimated Malaysia lost RM19.7 billion to scams over twelve months.",
+   "title": "MCMC and NACSA sign MoU as scam losses hit estimated RM19.7b in a year",
+   "url": "https://www.thevibes.com/articles/news/129949/cyber-scam-losses-hit-estimated-rm19.7b-in-a-year"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-14",
+   "occurredDate": "2026-11-12",
+   "region": "Malaysia",
+   "sector": "Healthcare · government",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "The Health Ministry disclosed on 12 November a breach limited to a supporting file storage and sharing platform at one of its facilities. It says patient treatment and health services continue as normal. Investigation continues, and a third-party tracker also lists an unconfirmed claim against the ministry's domain.",
+   "title": "Health Ministry reports cyber breach at facility, services unaffected",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1577818/health-ministry-reports-cyber-breach-facility-services-unaffected"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-07",
+   "occurredDate": "2026-11-06",
+   "region": "Malaysia",
+   "sector": "Banking",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Several Bank Rakyat web pages, including the iRakyat login page, were defaced late on 6 November in a suspected cyberattack claimed by a group calling itself MARLANWG. The communications minister said online banking in general remains safe. The bank had not said whether customer data was affected.",
+   "title": "Fahmi says online banking remains safe despite cyberattacks and Bank Rakyat hack",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/07/fahmi-says-online-banking-remains-safe-despite-cyberattacks-and-bank-rakyat-hack/242378"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-20",
+   "occurredDate": "2026-11-13",
+   "region": "Japan",
+   "sector": "Third-party SaaS · retail and banking",
+   "severity": "critical",
+   "source": "native.security",
+   "summary": "Japanese marketing platform provider PLAID detected unauthorized access to its KARTE service on 13 November after attackers stole integration credentials. Client firms including ZOZO (about 15 million members), DHC (about 19 million) and Sumitomo Mitsui Banking (up to 14 million) have disclosed possible leaks. Figures overlap and are still being revised.",
+   "title": "PLAID KARTE breach exposes customer data held for ZOZO, DHC, Sumitomo Mitsui Banking and others",
+   "url": "https://www.native.security/attack-reviews/plaid-karte-2026"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-20",
+   "occurredDate": "2026-11-17",
+   "region": "Canada",
+   "sector": "Telecoms",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "Bell Canada confirmed an AI-agent-driven intruder breached a pre-production environment of its Maximo ordering and provisioning system on 17 November. Business contact details, ticket text and some network-element IP addresses were taken, but no credentials. Bell reports no customer service impact and has not said how many enterprise customers were affected.",
+   "title": "Bell Canada says \"agentic\" hacker stole enterprise customer data",
+   "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-24",
+   "occurredDate": "2026-11-19",
+   "region": "Global",
+   "sector": "Security vendor · cloud WAF",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "Security vendor Radware said an attacker used an internal Cloud WAF management API that was reachable from the internet without authentication on 19 November. Customer contact details and, for some, log-export credentials for AWS S3, Azure Blob or SFTP were exposed. Customers are told to rotate keys; some reported unfamiliar access attempts on their buckets.",
+   "title": "Radware discloses breach exposing customer cloud access keys",
+   "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-24",
+   "region": "Portugal",
+   "sector": "Government · energy services",
+   "severity": "high",
+   "source": "The Portugal News",
+   "summary": "Portugal's energy agency ADENE took its building energy certification system and online portal offline as a precaution after a cyberattack, reported on 24 November. Certificates issued before the incident remain valid, but no date has been set for restoring the service. The agency has not published details on the attackers or any data exposure.",
+   "title": "Cyberattack disrupts energy certification services in Portugal",
+   "url": "https://www.theportugalnews.com/news/2026-11-24/cyberattack-disrupts-energy-certification-services-in-portugal/1121629"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-20",
+   "region": "United States",
+   "sector": "Banking · third-party vendor",
+   "severity": "high",
+   "source": "Claims Journal",
+   "summary": "JPMorgan Chase, Visa and Mastercard disclosed on 20 November that third-party service providers were targeted in a cyberattack that exposed customer marketing data. Visa said its own systems were not involved and no card payment data was affected. The incident illustrates third-party access risk that is equally relevant to Malaysian banks and card processors.",
+   "title": "JPMorgan, Visa, Mastercard Say Third-Party Vendors Targeted in Cyberattack",
+   "url": "https://www.claimsjournal.com/news/national/2026/11/20/341437.htm"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-18",
+   "occurredDate": "2026-11-17",
+   "region": "Norway",
+   "sector": "Energy · oil & gas",
+   "severity": "high",
+   "source": "Security Affairs",
+   "summary": "Equinor, Norway's state-controlled energy company, confirmed on 17 November an ongoing cyberattack against internal IT systems. The company said production continues without interruption. Details of the intrusion, its source and any data loss had not been disclosed in coverage available at publication.",
+   "title": "Norwegian Gas Giant Equinor Says It's Under Cyberattack. Production Keeps Running",
+   "url": "https://securityaffairs.com/203394/hacking/norwegian-gas-giant-equinor"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-10",
+   "occurredDate": "2026-11-10",
+   "sector": "Pardons & courts",
+   "severity": "critical",
+   "source": "The Star",
+   "summary": "After the Kuala Lumpur High Court allowed Najib Razak to serve the rest of his SRC sentence at home until 23 August 2028 under a conditional pardon, Anthony Loke announced he was resigning from Cabinet with immediate effect. The move put open strain on the unity government over the pardon.",
+   "title": "Loke quits as Transport Minister after Najib house arrest ruling",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/10/loke-quits-as-transport-minister-after-najib-house-arrest-ruling"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-12",
+   "sector": "Cabinet",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "Prime Minister Anwar Ibrahim said on 12 November he had not accepted Anthony Loke's resignation and wanted another discussion, adding that Loke could take a short break if needed. He praised Loke's record and said honest ministers should stay. No cabinet reshuffle was planned, and the post remains formally unresolved.",
+   "title": "Anwar says yet to accept Loke resignation, wants to discuss it again",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/12/anwar-says-yet-to-receive-lokes-resignation-letter-wants-to-discuss-it-again"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-12",
+   "milestones": [
+    {
+     "date": "2026-12-14",
+     "label": "Deadline for written submissions in Bar challenge to Najib house arrest"
+    },
+    {
+     "date": "2027-03-17",
+     "label": "High Court hears AGC objection to Malaysian Bar leave bid"
+    }
+   ],
+   "occurredDate": "2026-11-10",
+   "sector": "Pardons & courts",
+   "severity": "critical",
+   "source": "New Straits Times",
+   "summary": "The Malaysian Bar filed on 10 November for leave to challenge the Pardons Board's house-arrest arrangement for Najib as unconstitutional. The Attorney-General's Chambers objected, calling the Agong's role non-justiciable. The High Court set written submissions and fixed 17 March 2027 to hear the objection, so Najib's house arrest continues meanwhile.",
+   "title": "Malaysian Bar's challenge over Najib's house arrest: AGC objects, leave hearing set for March 17",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1576012/gc-objects-malaysian-bars-challenge-over-najibs-house-arrest"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-26",
+   "occurredDate": "2026-11-26",
+   "sector": "Parliament · budget",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "The Dewan Rakyat passed the Supply Bill 2027 at third reading on 26 November by voice vote, after a 14-day committee-stage debate that closed with the Youth and Sports Ministry winding up. Total federal spending is put at about RM510 billion in reports. The bill now goes to the Dewan Negara.",
+   "title": "Dewan Rakyat passes Budget 2027 through voice vote",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/26/dewan-rakyat-passes-budget-2027-through-voice-vote"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-18",
+   "milestones": [
+    {
+     "date": "2026-11-28",
+     "label": "Sarawak state election nomination day"
+    },
+    {
+     "date": "2026-12-08",
+     "label": "Sarawak state election early voting"
+    },
+    {
+     "date": "2026-12-12",
+     "label": "Sarawak state election polling day"
+    }
+   ],
+   "sector": "Elections",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Ahead of the Sarawak state election for 82 seats, 517 nomination forms had been sold by 18 November. Nomination day is 28 November, early voting is 8 December and polling day is 12 December, with campaigning running 14 days. About 2.05 million voters are eligible.",
+   "title": "Sarawak's election fever rising: 517 forms sold 10 days ahead of nomination day",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/18/sarawaks-election-fever-rising-517-forms-sold-10-days-ahead-of-nomination-day/243795"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-13",
+   "occurredDate": "2026-11-13",
+   "sector": "Pardons & courts",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "The Court of Appeal confirmed on 13 November that a woman abandoned as a baby 37 years ago is a Malaysian citizen, applying principles the Federal Court laid down in an earlier case on foundlings. The ruling ends a long wait for the woman and is a notable precedent for stateless children.",
+   "title": "Appeals Court upholds citizenship for woman abandoned at birth",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/13/appeals-court-upholds-citizenship-for-woman-abandoned-at-birth"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-19",
+   "milestones": [
+    {
+     "date": "2027-01-14",
+     "label": "Pre-trial case management in Tawau LPG fraud case"
+    },
+    {
+     "date": "2027-02-22",
+     "label": "Trial begins in Tawau LPG fraud case"
+    }
+   ],
+   "sector": "MACC · corruption courts",
+   "severity": "medium",
+   "source": "The Vibes",
+   "summary": "Two businessmen pleaded not guilty in the Tawau Special Corruption Sessions Court on 19 November to 22 charges over alleged false delivery records for LPG cylinders. One is the son of a former elected representative. The court fixed case management for 14 January 2027 and a three-day trial from 22 to 24 February.",
+   "title": "Two businessmen charged with 22 counts over alleged fraud involving LPG supply",
+   "url": "https://www.thevibes.com/articles/news/129767/two-businessmen-charged-with-22-counts-over-alleged-fraud-involving-lpg-supply"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-09",
+   "milestones": [
+    {
+     "date": "2026-11-30",
+     "label": "Dewan Rakyat government business begins"
+    },
+    {
+     "date": "2026-12-08",
+     "label": "Dewan Rakyat session scheduled to end"
+    }
+   ],
+   "sector": "Parliament · legislation",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "Government business at the Dewan Rakyat is scheduled to run from 30 November to 8 December, after Budget committee debates. The order paper lists the Constitution (Amendment) (No. 2) Bill separating the attorney-general and public prosecutor roles, plus bills on courts, prisons, adoption, urban renewal and the Federal Territories mufti. The list may change.",
+   "title": "Seven bills lined up for Dewan Rakyat from Nov 30",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1574019/seven-bills-lined-dewan-rakyat-nov-30"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-132165",
+    "CVE-2026-136716"
+   ],
+   "date": "2026-11-25",
+   "exploited": true,
+   "fixedIn": "Update to Drupal 11.4.14, 11.3.23 or 10.6.23 and run update.php; until then block access to /core/install.php.",
+   "kevAdded": "2026-11-24",
+   "kevDue": "2026-11-27",
+   "occurredDate": "2026-11-18",
+   "response": [
+    {
+     "text": "A job-triggered playbook pulls Drupal sites from asset inventory and web scan data, checks versions against 10.6.23, 11.3.23 and 11.4.14, and tests whether /core/install.php answers. It opens one ticket per exposed site with owner and version. Blocking changes need analyst approval.",
+     "title": "Drupal exposure sweep",
+     "type": "Playbook"
+    },
+    {
+     "text": "An automation requests /core/install.php on each listed Drupal host and records the HTTP status and response size. The analyst gets a table of sites where the installer is reachable. It is read-only and sends no state-changing requests.",
+     "title": "Check installer reachability",
+     "type": "Automation"
+    },
+    {
+     "text": "Add a WAF or reverse-proxy rule denying /core/install.php on production Drupal sites. This closes the known path within minutes and needs no custom automation. Keep it as a stopgap and still patch.",
+     "title": "WAF block rule",
+     "type": "Better alternative"
+    },
+    {
+     "prompt": "Review these Drupal web access logs and user table for signs of installer abuse (CVE-2026-132165, CVE-2026-136716) since 2026-11-18: requests to /core/install.php, new or changed user 1 email or password, new admin users, unexpected PHP files. List findings by site and confidence, then next steps.",
+     "text": "Paste the prompt into the approved AI assistant with web logs and the Drupal user list attached. It returns a checklist of suspicious installer requests and admin changes. Analysts must verify its findings against raw logs.",
+     "title": "Compromise review brief",
+     "type": "AI prompt"
+    }
+   ],
+   "sector": "Content management system · Drupal core",
+   "severity": "critical",
+   "source": "Security Affairs",
+   "summary": "Drupal patched an installer flaw on 18 November that lets anonymous users reinstall a site and potentially gain code execution. CISA added CVE-2026-132165 to KEV on 24 November. On 25 November Drupal said a follow-up bypass, CVE-2026-136716, is also exploited. Sites with the installer reachable should patch, check user 1 and review logs.",
+   "timeline": [
+    {
+     "date": "2026-11-18",
+     "kind": "disclosed",
+     "label": "Drupal advisory SA-CORE-2026-017",
+     "source": "BleepingComputer",
+     "summary": "Drupal published the advisory for the installer remote code execution flaw.",
+     "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+     "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"
+    },
+    {
+     "date": "2026-11-18",
+     "kind": "patched",
+     "label": "Fixed core releases shipped",
+     "source": "BleepingComputer",
+     "summary": "Drupal 10.6.22, 11.3.22 and 11.4.13 released with the fix.",
+     "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+     "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/"
+    },
+    {
+     "date": "2026-11-24",
+     "kind": "kev",
+     "label": "CVE-2026-132165 added to KEV",
+     "source": "CISA",
+     "summary": "CISA listed the first installer flaw with a 27 November deadline.",
+     "title": "CISA Known Exploited Vulnerabilities Catalog",
+     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-25",
+     "kind": "exploited",
+     "label": "Drupal confirms second flaw exploited",
+     "source": "Security Affairs",
+     "summary": "Advisory SA-CORE-2026-019 for CVE-2026-136716 states exploitation in the wild.",
+     "title": "Drupal warns of new critical flaw exploited in the wild",
+     "url": "https://securityaffairs.com/204085/security/drupal-warns-of-new-critical-flaw-exploited-in-the-wild.html"
+    },
+    {
+     "date": "2026-11-27",
+     "kind": "due",
+     "label": "CISA fix deadline",
+     "source": "CISA",
+     "summary": "Federal deadline to remediate CVE-2026-132165.",
+     "title": "CISA Known Exploited Vulnerabilities Catalog",
+     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "Drupal core installer takeover \"Fail2Install\" and incomplete-fix follow-up (CVE-2026-132165, CVE-2026-136716)",
+   "url": "https://securityaffairs.com/204085/security/drupal-warns-of-new-critical-flaw-exploited-in-the-wild.html"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-133968"
+   ],
+   "cvss": 9.8,
+   "date": "2026-11-23",
+   "exploited": true,
+   "fixedIn": "Upgrade to MONAI Label 0.8.6, enable authentication (MONAI_LABEL_AUTH_ENABLE) and keep the server off the internet.",
+   "kevAdded": "2026-11-23",
+   "kevDue": "2026-11-26",
+   "occurredDate": "2026-11-21",
+   "response": [
+    {
+     "text": "A playbook searches asset inventory, container images and pip package data for monailabel versions at or below 0.8.5. It creates tickets with owner, exposure and auth status. Network isolation of research servers needs owner approval.",
+     "title": "Find MONAI Label servers",
+     "type": "Playbook"
+    },
+    {
+     "text": "Run an XQL or EDR search on MONAI hosts for PUT requests to the datastore image endpoint and new files outside the data directory. Analysts receive a list of suspect hosts. It only reads telemetry.",
+     "title": "Hunt unexpected file writes",
+     "type": "Automation"
+    },
+    {
+     "text": "Turn on MONAI Label authentication and restrict the service to an internal research VLAN or VPN. This removes unauthenticated reach immediately and is simpler than detection logic. Patch to 0.8.6 afterwards.",
+     "title": "Require authentication and isolate",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Medical imaging AI server · Project MONAI Label",
+   "severity": "critical",
+   "source": "CISA",
+   "summary": "CISA added a path traversal in Project MONAI Label to KEV on 23 November, citing active exploitation. An unauthenticated attacker can write files outside the datastore through the image upload endpoint, which can lead to code execution. Versions up to 0.8.5 are affected, login is off by default, and 0.8.6 fixes it.",
+   "timeline": [
+    {
+     "date": "2026-11-21",
+     "kind": "patched",
+     "label": "MONAI Label 0.8.6 released",
+     "source": "HOL",
+     "summary": "Fixed release 0.8.6 shipped for the upload path traversal.",
+     "title": "MONAI Label CVE-2026-133968 on CISA KEV: how to fix the upload path traversal",
+     "url": "https://hol.org/blog/cve-2026-133968-monai-label-path-traversal-ai-agents-cisa-kev"
+    },
+    {
+     "date": "2026-11-23",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA listed the flaw as exploited with a 26 November deadline.",
+     "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-26",
+     "kind": "due",
+     "label": "CISA fix deadline",
+     "source": "CISA",
+     "summary": "Federal deadline to remediate the flaw.",
+     "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "MONAI Label unauthenticated path traversal to remote code execution (CVE-2026-133968)",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-134624"
+   ],
+   "cvss": 9.3,
+   "date": "2026-11-23",
+   "exploited": true,
+   "fixedIn": "Update self-hosted and Local Cloud deployments to build 20261121.1943 or later; N-able has already fixed its hosted cloud.",
+   "kevAdded": "2026-11-23",
+   "kevDue": "2026-11-26",
+   "occurredDate": "2026-11-20",
+   "response": [
+    {
+     "text": "A playbook lists self-hosted Mail Assure or SpamExperts nodes from the CMDB and compares builds with 20261121.1943. It opens a patch ticket per outdated node. Emergency changes need manager approval.",
+     "title": "Mail Assure version check",
+     "type": "Playbook"
+    },
+    {
+     "text": "Query gateway API logs and firewall data for LDAP sync checks pointing at unusual internal IPs or ports since September. The analyst gets suspect requests with source accounts. It only reads data.",
+     "title": "Review API and egress logs",
+     "type": "Automation"
+    },
+    {
+     "prompt": "From this list of Mail Assure API users with roles and last-login dates, flag accounts that can configure relays or LDAP sync, are unused for 90 days, or share credentials. Recommend which to disable or rotate first, with reasons, in a table.",
+     "text": "Paste into the approved AI assistant with the list of Mail Assure API users. It flags accounts with excess privilege and stale credentials for rotation. Analysts confirm before any account change.",
+     "title": "Privileged API account review",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Restrict the gateway management API to admin subnets and block its outbound access to internal ranges except required directories. This limits what an SSRF can reach and needs no custom playbook. Still apply the update.",
+     "title": "Segment the gateway",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Email security gateway · N-able Mail Assure",
+   "severity": "high",
+   "source": "CISA",
+   "summary": "CISA added a server-side request forgery in N-able Mail Assure to KEV on 23 November, citing exploitation. An authenticated API user can make the server connect to arbitrary internal addresses and ports through the LDAP sync relay check. Builds before 20261121.1943 are affected; N-able fixed its hosted service, but self-hosted installs need the update.",
+   "timeline": [
+    {
+     "date": "2026-11-20",
+     "kind": "disclosed",
+     "label": "Public disclosure reported",
+     "source": "Ostorlab",
+     "summary": "Researchers reported the SSRF flaw publicly; the fixed build followed.",
+     "title": "N-able MailAssure SSRF, Exploited in the Wild (CVE-2026-134624)",
+     "url": "https://blog.ostorlab.co/n-able-mailassure-ssrf-cve-2026-134624.html"
+    },
+    {
+     "date": "2026-11-23",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA listed the flaw as exploited with a 26 November deadline.",
+     "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-26",
+     "kind": "due",
+     "label": "CISA fix deadline",
+     "source": "CISA",
+     "summary": "Federal deadline to remediate the flaw.",
+     "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "N-able Mail Assure (SpamExperts) SSRF in LDAP sync check (CVE-2026-134624)",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-133323",
+    "CVE-2026-133324",
+    "CVE-2026-133275",
+    "CVE-2026-133303",
+    "CVE-2026-133311"
+   ],
+   "cvss": 10,
+   "date": "2026-11-25",
+   "exploited": true,
+   "fixedIn": "Apply the patches in Mitel advisory MISA-2026-0012 (one report cites MiCollab 10.3.0.18 or later) and keep the server off the public internet.",
+   "kevAdded": "2026-11-25",
+   "kevDue": "2026-11-28",
+   "milestones": [
+    {
+     "date": "2026-11-28",
+     "label": "CISA deadline to fix four Mitel MiCollab CVEs"
+    },
+    {
+     "date": "2026-12-09",
+     "label": "CISA deadline to fix Mitel MiCollab CVE-2026-133311"
+    }
+   ],
+   "occurredDate": "2026-11-16",
+   "response": [
+    {
+     "text": "Triggered by the KEV feed job, this playbook queries asset inventory and va_endpoints for MiCollab hosts and confirms internet exposure. It creates one incident per exposed host with owner, version and patch state. Analyst approval is required before any firewall block.",
+     "title": "MiCollab exposure triage",
+     "type": "Playbook"
+    },
+    {
+     "text": "Run an XQL or EDR search on MiCollab servers for new files in web directories and outbound connections to unfamiliar hosts since 9 November. Output a table of suspects for analysts to review. It only reads data and changes nothing.",
+     "title": "Hunt MiCollab web shells",
+     "type": "Automation"
+    },
+    {
+     "prompt": "Summarise our Mitel MiCollab exposure for a SOC manager: list hosts, internet-facing or not, patched or not, and any signs of compromise since 2026-11-09. Cover CVE-2026-133323, -133324, -133275, -133303 and -133311. Give 5 prioritised actions and the CISA deadlines 2026-11-28 and 2026-12-09.",
+     "text": "Use this to produce a manager-ready exposure summary from incident data. Paste the prompt into the approved AI assistant.",
+     "title": "Summarise MiCollab exposure",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Until patched, limit MiCollab management and web access to VPN or allow-listed IPs with an NGFW rule. This removes unauthenticated reach faster than building automation. Keep it as a stopgap and still patch.",
+     "title": "Restrict access at the firewall",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Unified communications · Mitel MiCollab",
+   "severity": "critical",
+   "source": "SecurityWeek",
+   "summary": "CISA added five Mitel MiCollab flaws to its KEV catalog on 25 November. Accenture's Apex Labs saw them exploited as zero-days in a data-theft campaign: attackers ran commands within minutes, gained root in about 30 minutes and reached backup and database servers within roughly 20 hours. Mitel patched on 16 November.",
+   "timeline": [
+    {
+     "date": "2026-11-09",
+     "kind": "exploited",
+     "label": "Attacker contact observed",
+     "source": "SecurityWeek",
+     "summary": "A second victim's MiCollab server began contacting the attacker infrastructure.",
+     "title": "Mitel MiCollab zero-days exploited in suspected AI-assisted attacks",
+     "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/"
+    },
+    {
+     "date": "2026-11-16",
+     "kind": "disclosed",
+     "label": "Mitel advisory published",
+     "source": "SecurityWeek",
+     "summary": "Mitel announced fixes for five MiCollab vulnerabilities in advisory MISA-2026-0012.",
+     "title": "Mitel MiCollab zero-days exploited in suspected AI-assisted attacks",
+     "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/"
+    },
+    {
+     "date": "2026-11-16",
+     "kind": "patched",
+     "label": "Mitel patches released",
+     "source": "SecurityWeek",
+     "summary": "Patches shipped with the advisory.",
+     "title": "Mitel MiCollab zero-days exploited in suspected AI-assisted attacks",
+     "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/"
+    },
+    {
+     "date": "2026-11-25",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "SecurityWeek",
+     "summary": "CISA added all five flaws to the Known Exploited Vulnerabilities catalog.",
+     "title": "Mitel MiCollab zero-days exploited in suspected AI-assisted attacks",
+     "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/"
+    },
+    {
+     "date": "2026-11-28",
+     "kind": "due",
+     "label": "CISA fix deadline (four CVEs)",
+     "source": "SecurityWeek",
+     "summary": "Federal deadline for four of the five MiCollab CVEs.",
+     "title": "Mitel MiCollab zero-days exploited in suspected AI-assisted attacks",
+     "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/"
+    },
+    {
+     "date": "2026-12-09",
+     "kind": "due",
+     "label": "CISA fix deadline (fifth CVE)",
+     "source": "SecurityWeek",
+     "summary": "Federal deadline for CVE-2026-133311.",
+     "title": "Mitel MiCollab zero-days exploited in suspected AI-assisted attacks",
+     "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/"
+    }
+   ],
+   "title": "Mitel MiCollab unauthenticated command injection and auth bypass chain (CVE-2026-133323, CVE-2026-133324, CVE-2026-133275, CVE-2026-133303, CVE-2026-133311)",
+   "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/"
+  }
+ ],
+ "generatedAt": "2026-11-27T21:08:02+08:00",
+ "scanDate": "2026-11-27",
+ "threatLevel": {
+  "level": "Medium",
+  "previous": "Low",
+  "since": "2026-11-04",
+  "source": "NACSA",
+  "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+ }
+}
