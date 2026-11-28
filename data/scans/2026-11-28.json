@@ -1,0 +1,639 @@
+{
+ "articles": [
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-13",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "Communications Minister Fahmi Fadzil said NACSA remained on an amber alert after the National Cyber Threat Level was raised earlier in the month, while no worrying cyber incident had been confirmed. He said claims of leaked Malaysian data circulating online were still unverified, and monitoring of financial and critical sectors continued.",
+   "title": "Nacsa on amber alert amid unverified cyberattack claims, says Fahmi",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/13/nacsa-on-amber-alert-but-fahmi-says-no-worrying-cyber-incidents-confirmed-so-far/243034"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-14",
+   "occurredDate": "2026-11-12",
+   "region": "Malaysia",
+   "sector": "Healthcare · government",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "The Health Ministry disclosed on 12 November a breach limited to a supporting file storage and sharing platform at one of its facilities. It says patient treatment and health services continue as normal. Investigation continues, and a third-party tracker also lists an unconfirmed claim against the ministry's domain.",
+   "title": "Health Ministry reports cyber breach at facility, services unaffected",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1577818/health-ministry-reports-cyber-breach-facility-services-unaffected"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-03",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "high",
+   "source": "New Straits Times",
+   "summary": "Prime Minister Anwar Ibrahim told Parliament on 3 November that Malaysia is considered a potential cyberattack target because of its digital capabilities and its stance on Gaza. He named no attackers or targets. The warning came a day before NACSA raised the national cyber threat level from Low to Medium.",
+   "title": "Malaysia a potential cyberattack target, Anwar says",
+   "url": "https://www.nst.com.my/amp/news/nation/2026/11/1569581/updated-malaysia-cyberattack-target-anwar-says-watch"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-18",
+   "region": "Malaysia",
+   "sector": "National security",
+   "severity": "medium",
+   "source": "The Vibes",
+   "summary": "Communications Minister Fahmi Fadzil said on 18 November that claims on dark-web platforms about stolen Malaysian data remain unverified and that no large-scale cyberattack causing a data leak has been reported. The statement follows weeks of heightened alerts and unconfirmed hacking claims affecting banks and agencies.",
+   "title": "No large-scale cyberattack causing Malaysian data leak reported, says Fahmi",
+   "url": "https://www.thevibes.com/articles/news/129728/no-large-scale-cyberattack-causing-malaysian-data-leak-reported-says-fahmi"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-27",
+   "region": "United Kingdom",
+   "sector": "Government · welfare services",
+   "severity": "critical",
+   "source": "Time News (citing BBC)",
+   "summary": "The UK Department for Work and Pensions took Universal Credit, PIP applications, pension services and Tell Us Once offline on 27 November after a cyber incident, working with the NCSC. No data loss is evidenced and payments continue. Officials have not confirmed a deliberate attack and gave no restoration date.",
+   "title": "DWP shuts benefits services after \"serious cyber incident\"",
+   "url": "https://time.news/dwp-shuts-benefits-services-experts-suspect-cyber-incident/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-27",
+   "region": "United States",
+   "sector": "Government · defence cloud",
+   "severity": "critical",
+   "source": "Beinsure (citing Reuters)",
+   "summary": "Intruders discovered during upgrade work reportedly breached the Air Force Cloud One platform, which hosts personnel, maintenance, logistics and command-and-control applications. Migrations were paused, some users lost admin rights and US Cyber Command joined the probe. Attackers, the exploited flaw and any data theft remain unconfirmed.",
+   "title": "Hackers breach US Air Force Cloud One platform, pausing IT migrations",
+   "url": "https://beinsure.com/news/us-air-force-cyberattack-disrupts-military-operations/"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-24",
+   "occurredDate": "2026-11-21",
+   "region": "France (Guadeloupe)",
+   "sector": "Healthcare",
+   "severity": "critical",
+   "source": "The Record",
+   "summary": "Ransomware hit the University Hospital of Guadeloupe on the evening of 21 November, encrypting databases and forcing paper records. Surgeries, chemotherapy and radiation therapy were postponed while emergency, dialysis and urgent cardiac care continued. ANSSI is checking a compromised IT supplier as the entry point; no ransom demand was received.",
+   "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
+   "url": "https://therecord.media/guadeloupe-ransomware-hospital-cyber"
+  },
+  {
+   "category": "Cyberattacks",
+   "date": "2026-11-20",
+   "occurredDate": "2026-11-17",
+   "region": "Canada",
+   "sector": "Telecoms",
+   "severity": "high",
+   "source": "BleepingComputer",
+   "summary": "Bell Canada confirmed an AI-agent-driven intruder breached a pre-production environment of its Maximo ordering and provisioning system on 17 November. Business contact details, ticket text and some network-element IP addresses were taken, but no credentials. Bell reports no customer service impact and has not said how many enterprise customers were affected.",
+   "title": "Bell Canada says \"agentic\" hacker stole enterprise customer data",
+   "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-26",
+   "occurredDate": "2026-11-26",
+   "sector": "Parliament · budget",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "The Dewan Rakyat passed the RM510 billion Supply Bill 2027 by voice vote on 26 November, four weeks after the government signed a confidence and supply agreement with 13 opposition and independent MPs. A development expenditure motion of up to RM85 billion also passed. The bill now goes to the Dewan Negara before royal assent.",
+   "title": "Dewan Rakyat passes Budget 2027 through voice vote",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/26/dewan-rakyat-passes-budget-2027-through-voice-vote"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-28",
+   "milestones": [
+    {
+     "date": "2026-12-08",
+     "label": "Sarawak state election early voting"
+    },
+    {
+     "date": "2026-12-12",
+     "label": "Sarawak state election polling day"
+    }
+   ],
+   "sector": "Elections",
+   "severity": "high",
+   "source": "Malay Mail",
+   "summary": "The Election Commission set nomination day for 28 November and polling for 12 December for the 13th Sarawak state election, with early voting on 8 December. Eighty-two seats are contested; GPS won 76 in 2021. The assembly was dissolved effective 26 October, and 517 nomination forms had been sold by 17 November.",
+   "title": "Sarawak state election: nomination day on 28 Nov, polling on 12 Dec",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/18/sarawaks-election-fever-rising-517-forms-sold-10-days-ahead-of-nomination-day/243795"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-18",
+   "sector": "Anti-corruption · MACC",
+   "severity": "high",
+   "source": "Bernama",
+   "summary": "The Malaysian Anti-Corruption Commission said on 18 November it is conducting an internal investigation into allegations made by businessman Bachar Kiwan, with its chief commissioner ordering a comprehensive probe. The step is an inquiry rather than a charge, and the agency has not disclosed the substance of the claims or any timeline.",
+   "title": "MACC conducts internal probe into Bachar Kiwan allegations",
+   "url": "https://www.bernama.com/en/crime_courts/news.php?id=2636341"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-16",
+   "milestones": [
+    {
+     "date": "2026-11-30",
+     "label": "Dewan Rakyat resumes with seven bills on the order paper"
+    }
+   ],
+   "sector": "Parliament · finance bills",
+   "severity": "high",
+   "source": "The Star",
+   "summary": "The Finance Ministry tabled the Finance Bill 2026 and the Tax Collection, Administration and Enforcement Measures Bill 2026 for first reading on 16 November. Both are slated for second reading in the current Dewan Rakyat sitting, which resumes on 30 November with a further seven bills on the order paper.",
+   "title": "Finance Ministry to table two bills on Monday",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/16/finance-ministry-to-table-two-bills-on-monday"
+  },
+  {
+   "category": "Law & Government",
+   "date": "2026-11-16",
+   "sector": "Parliament · regulation",
+   "severity": "medium",
+   "source": "The Star",
+   "summary": "MPs pressed ministers on a proposed Nutrition law, illegal crypto mining that steals electricity and rural electric-vehicle charging access during the 16 November Dewan Rakyat session. The items signal possible regulatory and enforcement moves but no bill passage was reported that day.",
+   "title": "Nutrition Bill, electricity theft by crypto miners and EV charging on Dewan Rakyat agenda",
+   "url": "https://www.thestar.com.my/news/nation/2026/11/16/nutrition-bill-electricity-theft-by-crypto-miners-and-ev-charging-on-dewan-rakyat-agenda"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-133323",
+    "CVE-2026-133324",
+    "CVE-2026-133275",
+    "CVE-2026-133303",
+    "CVE-2026-133311"
+   ],
+   "cvss": 10,
+   "date": "2026-11-25",
+   "exploited": true,
+   "fixedIn": "Mitel patch 10.3.0.18 (or later release); until patched, restrict external access to the AWV component.",
+   "kevAdded": "2026-11-25",
+   "kevDue": "2026-11-28",
+   "milestones": [
+    {
+     "date": "2026-12-09",
+     "label": "CISA deadline to fix Mitel MiCollab CVE-2026-133311"
+    }
+   ],
+   "occurredDate": "2026-11-16",
+   "response": [
+    {
+     "text": "Run a playbook that queries your asset inventory and external attack-surface data for MiCollab hosts, enriches each with version and internet exposure, and opens a ticket per exposed host. Analysts get a ranked patch list. Require approval before any host is taken offline.",
+     "title": "Mitel exposure triage",
+     "type": "Playbook"
+    },
+    {
+     "text": "Schedule an XQL query on proxy and endpoint telemetry for new files or unusual child processes under the MiCollab web directory and traffic to the reported attacker infrastructure. Results land in one case for review. Keep it read-only, with isolation left to an analyst decision.",
+     "title": "Hunt for MiCollab web shells",
+     "type": "Automation"
+    },
+    {
+     "prompt": "Summarise the MiCollab hosts in this case: version, internet exposure, patch status (fixed in 10.3.0.18) and any web shell or attacker-IP indicators. Rank by risk and give three next actions. Mark assumptions clearly.",
+     "text": "Use the Cortex AI assistant to turn matches into a short patch-and-hunt brief for the SOC lead. The output lists affected hosts, patch status and indicators of compromise.",
+     "title": "Summarise Mitel exposure",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Check the XSIAM Vulnerability and Exposure Management emerging-vulnerabilities view first, since it can already show affected assets without custom playbooks. If MiCollab is internet-facing, a WAF or firewall block on the AWV paths is the quickest interim control.",
+     "title": "Use Emerging Vulnerabilities view",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Collaboration server · Mitel MiCollab",
+   "severity": "critical",
+   "source": "SecurityWeek",
+   "summary": "Five Mitel MiCollab AWV flaws, including command injection rated CVSS 10.0 and an authentication bypass, were exploited before Mitel published patches on 16 November. Accenture saw a web shell on 15 November and attacker contact from 9 November. CISA added all five to KEV on 25 November.",
+   "timeline": [
+    {
+     "date": "2026-11-09",
+     "kind": "event",
+     "label": "Attacker contact begins",
+     "source": "SecurityWeek",
+     "summary": "A second victim server began communicating with attacker infrastructure.",
+     "title": "Mitel MiCollab zero-days exploited",
+     "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-sus"
+    },
+    {
+     "date": "2026-11-15",
+     "kind": "exploited",
+     "label": "Web shell deployed",
+     "source": "SecurityWeek",
+     "summary": "Accenture observed a web shell on a victim before the advisory.",
+     "title": "Mitel MiCollab zero-days exploited",
+     "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-sus"
+    },
+    {
+     "date": "2026-11-16",
+     "kind": "disclosed",
+     "label": "Mitel advisory published",
+     "source": "SecurityWeek",
+     "summary": "Mitel published its advisory for the MiCollab AWV flaws.",
+     "title": "Mitel MiCollab zero-days exploited",
+     "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-sus"
+    },
+    {
+     "date": "2026-11-16",
+     "kind": "patched",
+     "label": "Patch 10.3.0.18 released",
+     "source": "SecurityWeek",
+     "summary": "Mitel released patch 10.3.0.18 for MiCollab 10.3 and earlier.",
+     "title": "Mitel MiCollab zero-days exploited",
+     "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-sus"
+    },
+    {
+     "date": "2026-11-25",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA added all five MiCollab CVEs to the KEV catalog.",
+     "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-28",
+     "kind": "due",
+     "label": "KEV deadline, four CVEs",
+     "source": "CISA",
+     "summary": "Federal deadline for four MiCollab flaws; CVE-2026-133311 is due 9 December.",
+     "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "Mitel MiCollab unauthenticated command injection and auth bypass chain (CVE-2026-133323 and four more)",
+   "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-sus"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-132165",
+    "CVE-2026-136716"
+   ],
+   "date": "2026-11-27",
+   "exploited": true,
+   "fixedIn": "Update to Drupal 11.4.14, 11.3.23 or 10.6.23, run update.php; 11.0-11.2 and 10.5 and earlier are end-of-life.",
+   "kevAdded": "2026-11-24",
+   "kevDue": "2026-11-30",
+   "milestones": [
+    {
+     "date": "2026-11-30",
+     "label": "CISA deadline to fix Drupal Core CVE-2026-136716"
+    }
+   ],
+   "occurredDate": "2026-11-18",
+   "response": [
+    {
+     "text": "Run a scheduled check from your attack-surface integration or a scripted HTTP probe that flags Drupal sites where install.php answers externally. The output is a list of exposed sites with owners. Use read-only requests only.",
+     "title": "Find reachable Drupal installers",
+     "type": "Automation"
+    },
+    {
+     "text": "Build a playbook that, for each Drupal site, pulls web logs and checks for changes to user 1, new admin accounts and installer requests. Analysts get a per-site verdict. Password resets and site takedown need explicit approval.",
+     "title": "Drupal compromise review",
+     "type": "Playbook"
+    },
+    {
+     "prompt": "From this list of Drupal sites and versions, identify which need 11.4.14, 11.3.23 or 10.6.23, which are end-of-life, and which expose install.php. Output a prioritised table and a rollback note.",
+     "text": "Ask the Cortex AI assistant to draft a patch plan from the affected-site inventory. It returns versions to target and sites on end-of-life branches.",
+     "title": "Drupal patch plan",
+     "type": "AI prompt"
+    },
+    {
+     "text": "A WAF or reverse-proxy rule denying external access to install.php closes the exposure faster than a playbook. Do this first, then patch and run update.php.",
+     "title": "Block install.php at the edge",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "CMS · Drupal Core",
+   "severity": "critical",
+   "source": "Security Affairs",
+   "summary": "Drupal patched the Fail2Install installer flaw CVE-2026-132165 on 18 November, then confirmed an exploited follow-up, CVE-2026-136716, because the first fix missed some installer states. CISA added the first on 24 November and the second on 27 November. Sites with install.php reachable are exposed.",
+   "timeline": [
+    {
+     "date": "2026-11-18",
+     "kind": "disclosed",
+     "label": "Fail2Install advisory",
+     "source": "Security Affairs",
+     "summary": "Drupal published SA-CORE-2026-017 for CVE-2026-132165.",
+     "title": "Drupal warns of new critical flaw",
+     "url": "https://securityaffairs.com/204085/security/drupal-warns-of-new-critic"
+    },
+    {
+     "date": "2026-11-18",
+     "kind": "patched",
+     "label": "Initial fix released",
+     "source": "Security Affairs",
+     "summary": "Drupal released fixes for the installer takeover flaw.",
+     "title": "Drupal warns of new critical flaw",
+     "url": "https://securityaffairs.com/204085/security/drupal-warns-of-new-critic"
+    },
+    {
+     "date": "2026-11-24",
+     "kind": "kev",
+     "label": "CVE-2026-132165 added to KEV",
+     "source": "CISA",
+     "summary": "CISA added the Drupal Core remote code execution flaw to KEV.",
+     "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-25",
+     "kind": "exploited",
+     "label": "Follow-up flaw exploited",
+     "source": "Security Affairs",
+     "summary": "Drupal said CVE-2026-136716 was exploited in the wild after an incomplete fix.",
+     "title": "Drupal warns of new critical flaw",
+     "url": "https://securityaffairs.com/204085/security/drupal-warns-of-new-critic"
+    },
+    {
+     "date": "2026-11-27",
+     "kind": "kev",
+     "label": "CVE-2026-136716 added to KEV",
+     "source": "CISA",
+     "summary": "The KEV feed lists CVE-2026-136716 added on 27 November.",
+     "title": "CISA Known Exploited Vulnerabilities catalog",
+     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-30",
+     "kind": "due",
+     "label": "KEV deadline for CVE-2026-136716",
+     "source": "CISA",
+     "summary": "Federal remediation deadline for the follow-up Drupal flaw.",
+     "title": "CISA Known Exploited Vulnerabilities catalog",
+     "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "Drupal core installer takeover \"Fail2Install\" and incomplete-fix follow-up (CVE-2026-132165, CVE-2026-136716)",
+   "url": "https://securityaffairs.com/204085/security/drupal-warns-of-new-critic"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-133469"
+   ],
+   "cvss": 9.8,
+   "date": "2026-11-25",
+   "exploited": true,
+   "fixedIn": "Upgrade to Xen Orchestra 6.9.2 (stable) or 6.10.1 (latest); Vates advises considering a rebuild of compromised instances.",
+   "kevAdded": "2026-11-25",
+   "kevDue": "2026-11-28",
+   "occurredDate": "2026-11-10",
+   "response": [
+    {
+     "text": "Use a playbook to find Xen Orchestra instances in your CMDB and scans, confirm versions against 6.9.2 and 6.10.1, and ticket those behind no VPN. Analysts get an exposure list. Restrict management access before patching, with approval.",
+     "title": "Xen Orchestra exposure check",
+     "type": "Playbook"
+    },
+    {
+     "text": "Add the Vates-reported attacker IP and Tor exit indicators as indicators and push them to your firewall block list. Include a lookback XQL query for past connections. Review matches before treating a host as compromised.",
+     "title": "Block reported attacker IPs",
+     "type": "Automation"
+    },
+    {
+     "prompt": "Given these Xen Orchestra logs and connection records, say whether the CVE-2026-133469 bypass was used, list new admin tokens or users, and recommend rebuild versus patch. Cite evidence per finding.",
+     "text": "Ask the Cortex AI assistant to assess whether an Xen Orchestra host may be compromised. It returns evidence and a rebuild recommendation. Treat its verdict as a draft for analyst review.",
+     "title": "Compromise assessment",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Placing Xen Orchestra behind a VPN or allow-list removes the unauthenticated attack path more reliably than detection. Use this as the standing control after patching.",
+     "title": "Isolate management plane",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Virtualisation management · Vates Xen Orchestra",
+   "severity": "critical",
+   "source": "The Hacker News",
+   "summary": "An unauthenticated attacker can bypass Xen Orchestra authentication with a crafted token and gain administrative actions over managed hosts. Vates published advisory VSA-2026-062 and fixes on 10 November while confirming exploitation, and CISA added the flaw to KEV on 25 November. Vates warns cleanup may not remove every backdoor.",
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "kind": "disclosed",
+     "label": "Vates advisory VSA-2026-062",
+     "source": "The Hacker News",
+     "summary": "Vates disclosed the authentication bypass and confirmed exploitation.",
+     "title": "Hackers exploit critical Xen Orchestra flaw",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html"
+    },
+    {
+     "date": "2026-11-10",
+     "kind": "patched",
+     "label": "Fixed versions released",
+     "source": "The Hacker News",
+     "summary": "Vates released Xen Orchestra 6.9.2 and 6.10.1.",
+     "title": "Hackers exploit critical Xen Orchestra flaw",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html"
+    },
+    {
+     "date": "2026-11-10",
+     "kind": "exploited",
+     "label": "Exploitation confirmed by Vates",
+     "source": "The Hacker News",
+     "summary": "Vates reported attacks from a named IP and a Tor address.",
+     "title": "Hackers exploit critical Xen Orchestra flaw",
+     "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html"
+    },
+    {
+     "date": "2026-11-25",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA listed CVE-2026-133469 in the KEV catalog.",
+     "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-28",
+     "kind": "due",
+     "label": "KEV deadline",
+     "source": "CISA",
+     "summary": "Federal remediation deadline for the Xen Orchestra flaw.",
+     "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "Xen Orchestra authentication bypass to admin takeover (CVE-2026-133469)",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2026-103406"
+   ],
+   "cvss": 9.8,
+   "date": "2026-11-25",
+   "exploited": true,
+   "fixedIn": "Install Session Smart 7.0.5, 7.1.7, 7.2.3 or later; no workaround is known, so limit access to Conductor and router management interfaces.",
+   "kevAdded": "2026-11-25",
+   "kevDue": "2026-11-28",
+   "occurredDate": "2026-10-28",
+   "response": [
+    {
+     "text": "Run a playbook that lists Session Smart Conductors and routers, compares versions to 7.0.5, 7.1.7 and 7.2.3, and ticket the unpatched ones. Analysts get a per-site list. Maintenance windows need change approval.",
+     "title": "Session Smart version audit",
+     "type": "Playbook"
+    },
+    {
+     "text": "Script a check that management interfaces are reachable only from admin networks, using firewall rule exports. Flag any internet exposure into a case. The check is read-only.",
+     "title": "Check management exposure",
+     "type": "Automation"
+    },
+    {
+     "prompt": "Draft a hunt for suspicious root-level commands and provisioning requests on Juniper Session Smart Conductors tied to CVE-2026-103406, listing log sources, fields to check and what a malicious salt minion ID might look like.",
+     "text": "Have the Cortex AI assistant draft hunting steps for unusual root commands on Conductors. It lists log sources and fields to check. An analyst reviews the steps before running them.",
+     "title": "Root-command hunt",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Use XSIAM Vulnerability Intelligence to see CVE-2026-103406 context and affected assets without a custom playbook. Pair it with a management-plane allow-list as the quick compensating control.",
+     "title": "Vulnerability Intelligence view",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "SD-WAN router · HPE Juniper Session Smart",
+   "severity": "critical",
+   "source": "The Hacker News",
+   "summary": "A command injection in the Session Smart AutomatedProvisioner lets a remote attacker run commands as root via a crafted salt minion ID. Juniper fixed it in bulletin JSA112183 on 28 October, and CISA added it to KEV on 25 November after Juniper SIRT reported at least one malicious exploitation.",
+   "timeline": [
+    {
+     "date": "2026-10-28",
+     "kind": "disclosed",
+     "label": "Juniper JSA112183 published",
+     "source": "SecurityWeek",
+     "summary": "Juniper published the advisory covering Session Smart Conductor and Router.",
+     "title": "Juniper Session Smart security update",
+     "url": "https://www.securityweek.com/critical-vulnerability-patched-in-juniper-session-smart-router/"
+    },
+    {
+     "date": "2026-10-28",
+     "kind": "patched",
+     "label": "Fixed releases published",
+     "source": "SecurityWeek",
+     "summary": "Fixes shipped in 7.0.5, 7.1.7 and 7.2.3.",
+     "title": "Juniper Session Smart security update",
+     "url": "https://www.securityweek.com/critical-vulnerability-patched-in-juniper-session-smart-router/"
+    },
+    {
+     "date": "2026-11-25",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA added CVE-2026-103406 after reported malicious exploitation.",
+     "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-28",
+     "kind": "due",
+     "label": "KEV deadline",
+     "source": "CISA",
+     "summary": "Federal remediation deadline for the Juniper flaw.",
+     "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "Juniper Session Smart Conductor/Router OS command injection to root (CVE-2026-103406)",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html"
+  },
+  {
+   "category": "Critical Vulnerabilities",
+   "cves": [
+    "CVE-2023-25914",
+    "CVE-2023-25915",
+    "CVE-2025-41450"
+   ],
+   "cvss": 9.9,
+   "date": "2026-11-25",
+   "exploited": true,
+   "fixedIn": "Update AK-SM 800A to firmware R4.3.1; end-of-life AK-SM 800 and AK-SC 355 units cannot be patched and should be isolated or replaced.",
+   "kevAdded": "2026-11-25",
+   "kevDue": "2026-12-09",
+   "milestones": [
+    {
+     "date": "2026-12-09",
+     "label": "CISA deadline to fix Danfoss AK-SM 800A CVE-2025-41450"
+    }
+   ],
+   "response": [
+    {
+     "text": "Query your attack-surface or Shodan-style integration for Danfoss AK-SM and AK-SC web interfaces in your IP ranges. Results go to a case with site owner tags. Do not probe devices beyond banner checks.",
+     "title": "Find OT controllers online",
+     "type": "Automation"
+    },
+    {
+     "text": "Create a playbook that notifies facilities and OT owners of exposed controllers, tracks firmware to R4.3.1 and records compensating isolation. Analysts get a status board. Require OT owner approval before any change.",
+     "title": "OT facilities escalation",
+     "type": "Playbook"
+    },
+    {
+     "prompt": "Write a one-page brief for facilities managers on Danfoss AK-SM and AK-SC refrigeration controllers: what CVE-2023-25915 allows, why end-of-life units are riskier, and three actions to take this week.",
+     "text": "Ask the Cortex AI assistant for a plain-language risk brief for retail or facilities managers. It explains the exposure without jargon. Have an analyst check the facts before sending.",
+     "title": "Controller risk brief",
+     "type": "AI prompt"
+    },
+    {
+     "text": "Removing controllers from the internet and placing them behind a firewall or VPN is simpler and more reliable than monitoring them. This matters most for unpatchable end-of-life units. Confirm with OT owners that nothing depends on remote access.",
+     "title": "Network isolation",
+     "type": "Better alternative"
+    }
+   ],
+   "sector": "Refrigeration/building controller (OT) · Danfoss AK-SM 800A",
+   "severity": "high",
+   "source": "The Hacker News",
+   "summary": "CISA added three Danfoss AK-SM 800A flaws to KEV on 25 November: path traversal, input validation allowing commands (CVSS 9.9) and authentication bypass. They are associated with, but not confirmed as, the vector in the October supermarket refrigeration attacks. Firmware R4.3.1 fixes the 800A; older models are end-of-life.",
+   "timeline": [
+    {
+     "date": "2026-10-12",
+     "kind": "event",
+     "label": "French supermarket refrigeration attack",
+     "source": "SecurityWeek",
+     "summary": "Attackers defrosted refrigeration at French supermarkets; the CVE vector is unconfirmed.",
+     "title": "Danfoss controller hack spoils food across European supermarkets",
+     "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/"
+    },
+    {
+     "date": "2026-11-02",
+     "kind": "event",
+     "label": "Second wave across Europe",
+     "source": "SecurityWeek",
+     "summary": "A second attack wave hit several European countries overnight.",
+     "title": "Danfoss controller hack spoils food across European supermarkets",
+     "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/"
+    },
+    {
+     "date": "2026-11-25",
+     "kind": "kev",
+     "label": "Added to CISA KEV",
+     "source": "CISA",
+     "summary": "CISA listed the three Danfoss CVEs in the KEV catalog.",
+     "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
+    },
+    {
+     "date": "2026-11-28",
+     "kind": "due",
+     "label": "KEV deadline, two CVEs",
+     "source": "CISA",
+     "summary": "Deadline for CVE-2023-25914 and CVE-2023-25915; CVE-2025-41450 is due 9 December.",
+     "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+     "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
+    }
+   ],
+   "title": "Danfoss AK-SM 800A controller flaws added to KEV (CVE-2023-25914, CVE-2023-25915, CVE-2025-41450)",
+   "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html"
+  }
+ ],
+ "generatedAt": "2026-11-28T21:07:01+08:00",
+ "scanDate": "2026-11-28",
+ "threatLevel": {
+  "level": "Medium",
+  "previous": "Low",
+  "since": "2026-11-04",
+  "source": "NACSA",
+  "url": "https://www.thestar.com.my/news/nation/2026/11/04/nacsa-raises-level-of-cyber-security-threat-to-medium"
+ }
+}
